@@ -1,0 +1,157 @@
+[
+  {
+    "origin": "Dólar EM",
+    "price": "19,43",
+    "stock": "0,18  ▲ 0,94%"
+  },
+  {
+    "origin": "Monitor Dolar Venezuela",
+    "price": "19,51",
+    "stock": "0,18  ▲ 0,93%"
+  },
+  {
+    "origin": "EnParaleloVzla",
+    "price": "19,82",
+    "stock": "0,38  ▲ 1,95%"
+  },
+  {
+    "origin": "Monitor Dolar Vzla",
+    "price": "19,63",
+    "stock": "0,29  ▲ 1,50%"
+  },
+  {
+    "origin": "Petro",
+    "price": "1.071,06",
+    "stock": "18,13  ▲ 1,72%"
+  },
+  {
+    "origin": "BCV",
+    "price": "17,86",
+    "stock": "0,31  ▲ 1,74%"
+  },
+  {
+    "origin": "Remesas Zoom",
+    "price": "18,04",
+    "stock": "0,00  0,00%"
+  },
+  {
+    "origin": "Italcambio",
+    "price": "18,04",
+    "stock": "0,31  ▲ 1,75%"
+  },
+  {
+    "origin": "Bancamiga",
+    "price": "17,71",
+    "stock": "0,44  ▲ 2,56%"
+  },
+  {
+    "origin": "BanCaribe",
+    "price": "17,26",
+    "stock": "0,00  0,00%"
+  },
+  {
+    "origin": "Banco de Venezuela",
+    "price": "12,09",
+    "stock": "0,00  0,00%"
+  },
+  {
+    "origin": "Banco Exterior",
+    "price": "18,02",
+    "stock": "0,10  ▲ 0,57%"
+  },
+  {
+    "origin": "Banplus",
+    "price": "17,29",
+    "stock": "0,00  0,00%"
+  },
+  {
+    "origin": "BNC",
+    "price": "17,49",
+    "stock": "0,17  ▲ 0,98%"
+  },
+  {
+    "origin": "Banesco",
+    "price": "17,43",
+    "stock": "0,00  0,00%"
+  },
+  {
+    "origin": "BBVA Provincial",
+    "price": "18,12",
+    "stock": "0,18  ▲ 0,99%"
+  },
+  {
+    "origin": "Mercantil",
+    "price": "17,99",
+    "stock": "0,67  ▲ 3,89%"
+  },
+  {
+    "origin": "Otras Instituciones",
+    "price": "18,09",
+    "stock": "0,07  ▼ 0,40%"
+  },
+  {
+    "origin": "Binance",
+    "price": "19,69",
+    "stock": "0,08  ▲ 0,41%"
+  },
+  {
+    "origin": "LocalBitcoins",
+    "price": "19,80",
+    "stock": "0,06  ▲ 0,30%"
+  },
+  {
+    "origin": "AirTM",
+    "price": "18,46",
+    "stock": "0,64  ▲ 3,62%"
+  },
+  {
+    "origin": "Reserve",
+    "price": "20,40",
+    "stock": "0,42  ▲ 2,10%"
+  },
+  {
+    "origin": "Yadio",
+    "price": "19,42",
+    "stock": "0,01  ▼ 0,05%"
+  },
+  {
+    "origin": "DolarToday",
+    "price": "19,60",
+    "stock": "0,20  ▲ 1,03%"
+  },
+  {
+    "origin": "DolarToday (BTC)",
+    "price": "19,52",
+    "stock": "0,19  ▲ 0,98%"
+  },
+  {
+    "origin": "Mkambio",
+    "price": "20,02",
+    "stock": "0,32  ▲ 1,62%"
+  },
+  {
+    "origin": "Cambios R&A",
+    "price": "19,58",
+    "stock": "0,19  ▲ 0,98%"
+  },
+  {
+    "origin": "PayPal",
+    "price": "17,10",
+    "stock": "0,20  ▲ 1,18%"
+  },
+  {
+    "origin": "Zinli",
+    "price": "17,70",
+    "stock": "0,20  ▲ 1,14%"
+  },
+  {
+    "origin": "Skrill",
+    "price": "17,70",
+    "stock": "0,20  ▲ 1,14%"
+  },
+  {
+    "origin": "Amazon Gift Card",
+    "price": "16,70",
+    "stock": "0,10  ▲ 0,60%"
+  }
+]
