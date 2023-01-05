@@ -1,4 +1,4 @@
-name: Scrape Kings League Infojobs Website
+name: Scrape Dolar api
 
 on:
   workflow_dispatch:
