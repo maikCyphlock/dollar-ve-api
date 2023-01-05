@@ -13,16 +13,6 @@ async function main () {
   const page = await browser.newPage({
     bypassCSP: true // This is needed to enable JavaScript execution on GitHub.
   })
-  // Tell the tab to navigate to the JavaScript topic page.
-  // await page.goto('https://www.instagram.com/', {
-  //   waitUntil: 'domcontentloaded'
-  // })
-  // await page.waitForSelector('input[name="username"]')
-  // await page.type('input[name="username"]', 'unitedstate.cyph@gmail.com')
-  // await page.type('input[name="password"]', 'warcraft30054068')
-  // await page.click('button[type="submit"]')
-  // await page.waitForSelector('input[type="text"]')
-  // await page.waitForNetworkIdle()
 
   await page.goto('https://exchangemonitor.net/dolar-venezuela', {
     waitUntil: 'domcontentloaded'
