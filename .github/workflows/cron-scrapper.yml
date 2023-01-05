@@ -27,7 +27,7 @@ jobs:
           git config user.name Dolar-api-bot
           git add -A
           git commit -m "[bot] Update Dolar api Database"
-          git push origin main
+          git push origin master
           
           
           
