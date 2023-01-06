@@ -10,7 +10,7 @@ jobs:
   test:
     runs-on: ubuntu-22.04
     name: Execute tests
-    if: github.ref_name == 'main'
+    if: github.ref_name == 'master'
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
