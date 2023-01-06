@@ -7,13 +7,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
-    "scrapper" :"node index.js"
+    "scrapper": "node index.js",
+    "wrangler:dev": "npx wrangler dev",
+    "wrangler:prod": "npx wrangler publish"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "hono": "^2.7.1",
     "puppeteer": "^19.4.1",
     "standard": "^17.0.0"
   },
