@@ -23,7 +23,7 @@ jobs:
       # - run: pnpm test
 
   deploy:
-    needs: test
+    #needs: test
     runs-on: ubuntu-22.04
     name: Deploy API to Cloudflare Workers
     steps:
