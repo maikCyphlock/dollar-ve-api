@@ -1,8 +1,8 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "20,48",
-    "stock": "0,04  ▲ 0,20%"
+    "price": "20,46",
+    "stock": "0,02  ▲ 0,10%"
   },
   {
     "origin": "Monitor Dolar Venezuela",
@@ -91,13 +91,13 @@
   },
   {
     "origin": "Binance",
-    "price": "20,63",
-    "stock": "0,04  ▲ 0,19%"
+    "price": "20,57",
+    "stock": "0,02  ▼ 0,10%"
   },
   {
     "origin": "LocalBitcoins",
-    "price": "21,17",
-    "stock": "0,11  ▲ 0,52%"
+    "price": "21,07",
+    "stock": "0,01  ▲ 0,05%"
   },
   {
     "origin": "AirTM",
@@ -111,8 +111,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "20,34",
-    "stock": "0,11  ▼ 0,54%"
+    "price": "20,41",
+    "stock": "0,04  ▼ 0,20%"
   },
   {
     "origin": "DolarToday",
@@ -141,17 +141,17 @@
   },
   {
     "origin": "Zinli",
-    "price": "18,70",
-    "stock": "0,10  ▲ 0,54%"
+    "price": "18,60",
+    "stock": "0,00  0,00%"
   },
   {
     "origin": "Skrill",
-    "price": "18,70",
-    "stock": "0,10  ▲ 0,54%"
+    "price": "18,60",
+    "stock": "0,00  0,00%"
   },
   {
     "origin": "Amazon Gift Card",
-    "price": "17,70",
-    "stock": "0,10  ▲ 0,57%"
+    "price": "17,60",
+    "stock": "0,00  0,00%"
   }
 ]
