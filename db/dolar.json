@@ -37,7 +37,7 @@
   {
     "origin": "Italcambio",
     "price": "18,80",
-    "stock": "0,22  ▲ 1,18%"
+    "stock": "0,00  0,00%"
   },
   {
     "origin": "Bancamiga",
@@ -91,8 +91,8 @@
   },
   {
     "origin": "Binance",
-    "price": "20,73",
-    "stock": "0,14  ▲ 0,68%"
+    "price": "20,74",
+    "stock": "0,15  ▲ 0,73%"
   },
   {
     "origin": "LocalBitcoins",
@@ -111,8 +111,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "20,00",
-    "stock": "0,45  ▼ 2,20%"
+    "price": "19,95",
+    "stock": "0,50  ▼ 2,44%"
   },
   {
     "origin": "DolarToday",
