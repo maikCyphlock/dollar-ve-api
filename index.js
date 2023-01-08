@@ -23,10 +23,14 @@ async function main () {
   const store = []
 
   for (const link of links) {
-    const obj = { origin: '', price: '', stock: '' }
+    const obj = { origin: '', price: '', stock: '', imgUrl: '' }
     obj.origin = await link
       .$('h6')
       .then(e => e.evaluate(node => node.innerText))
+
+    obj.imgUrl = await link
+      .$('img')
+      .then(e => e.evaluate(node => node.src))
 
     obj.price = await link
       .$('p.precio')
