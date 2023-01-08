@@ -1,13 +1,12 @@
-import dolar from '../db/dolar' assert { type: 'json' }
+import dolar from '../db/dolar.json'
+import { Hono } from 'hono'
+import { serveStatic } from 'hono/serve-static.module'
 
-let d = dolar.sort((a, b) => a.origin.localeCompare(b.origin)) // eslint-disable-line
+const app = new Hono()
+ let d = dolar.sort((a, b) => a.origin.localeCompare(b.origin)) // eslint-disable-line
 
-export default {
-  async fetch (request, env, ctx) {
-    return new Response(JSON.stringify(d),{
-      headers: {
-        'Content-Type': 'application/json'
-      }
-    })
-  }
-}
+app.get('/', (ctx) => ctx.json(d))
+
+app.get('/static/*', serveStatic({ root: './' }))
+
+export default app
