@@ -1,15 +1,17 @@
 name: Deploy API
 
 on:
-  push:
-    branches:
-      - master
+  workflow_run:
+    workflows: ["Scrape Dolar api"]
+    types:
+      - completed
+
 
 jobs:
-
   test:
     runs-on: ubuntu-22.04
-    name: Execute tests
+    name: Testing
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
@@ -18,14 +20,28 @@ jobs:
       - uses: pnpm/action-setup@v2
         with:
           version: 7.18.2
-          run_install: true
-      # - run: pnpm test
-
+          run_install: false
+      - name: Get pnpm store directory
+        id: pnpm-cache
+        shell: bash
+        run: |
+          echo "STORE_PATH=$(pnpm store path)" >> $GITHUB_OUTPUT
+      - uses: actions/cache@v3
+        name: Setup pnpm cache
+        with:
+          path: ${{ steps.pnpm-cache.outputs.STORE_PATH }}
+          key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
+          restore-keys: |
+            ${{ runner.os }}-pnpm-store-
+      - name: Install dependencies
+        run: pnpm install
+      #- name: Execute Tests
+        #run: pnpm test:cov
+        
   deploy:
-    #needs: test
+    needs: test
     runs-on: ubuntu-22.04
     name: Deploy API to Cloudflare Workers
-    # if: ${{ github.event.pull_request.head.repo.full_name == github.repository }} # Only deploy if the push is from the main repo
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
@@ -34,8 +50,21 @@ jobs:
       - uses: pnpm/action-setup@v2
         with:
           version: 7.18.2
-          run_install: true
+          run_install: true 
       - uses: cloudflare/wrangler-action@2.0.0
         with:
           apiToken: ${{ secrets.CF_API_TOKEN }}
           workingDirectory: api
+          
+  deployFrontend:
+    needs: deploy
+    runs-on: ubuntu-22.04
+    name: Deploy Frontend
+    steps:
+      - id: Frontend
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_mhcTNehj9UzwtsQgS4EZfiqWHBas/vABZBgVkyA
+        
+    
+          
+          
+          

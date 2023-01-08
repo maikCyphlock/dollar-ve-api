@@ -8,7 +8,7 @@ on:
       - webhook
 
   schedule:
-    - cron: "0 */1 * * 0"
+    - cron: '59/60 * * * *'
 
 jobs:
   build:
@@ -25,7 +25,8 @@ jobs:
       - run: |
           npm run scrapper
           git config user.name Dolar-api-bot
-          git add -A
+          git config user.email IamBot@bot.com 
+          git add .
           git commit -m "[bot] Update Dolar api Database"
           git push origin master
           
