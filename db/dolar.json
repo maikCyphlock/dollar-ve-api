@@ -91,13 +91,13 @@
   },
   {
     "origin": "Binance",
-    "price": "20,52",
-    "stock": "0,03  ▲ 0,15%"
+    "price": "20,48",
+    "stock": "0,01  ▼ 0,05%"
   },
   {
     "origin": "LocalBitcoins",
-    "price": "20,85",
-    "stock": "0,06  ▲ 0,29%"
+    "price": "20,82",
+    "stock": "0,03  ▲ 0,14%"
   },
   {
     "origin": "AirTM",
@@ -111,8 +111,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "20,09",
-    "stock": "0,21  ▼ 1,03%"
+    "price": "20,08",
+    "stock": "0,22  ▼ 1,08%"
   },
   {
     "origin": "DolarToday",
