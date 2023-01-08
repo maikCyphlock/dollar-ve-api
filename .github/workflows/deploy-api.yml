@@ -9,7 +9,7 @@ jobs:
   test:
     runs-on: ubuntu-22.04
     name: Testing
-    if: github.ref_name == 'master'
+    if: ${{ contains(github.event.head_commit.message, '[bot]') }}
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v3
