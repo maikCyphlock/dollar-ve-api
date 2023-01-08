@@ -1,157 +1,188 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "20,38",
-    "stock": "0,03  ▼ 0,15%"
+    "price": "20,37",
+    "stock": "0,00  0,00%",
+    "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "20,58",
-    "stock": "0,00  0,00%"
+    "price": "20,55",
+    "stock": "0,00  0,00%",
+    "imgUrl": "monitor-dolar"
   },
   {
     "origin": "EnParaleloVzla",
     "price": "20,61",
-    "stock": "0,00  0,00%"
+    "stock": "0,00  0,00%",
+    "imgUrl": "monitor-dolar"
   },
   {
     "origin": "Monitor Dolar Vzla",
     "price": "20,61",
-    "stock": "0,55  ▲ 2,74%"
+    "stock": "0,55  ▲ 2,74%",
+    "imgUrl": "monitor-dolar-vzla"
   },
   {
     "origin": "Petro",
     "price": "1.100,92",
-    "stock": "0,00  0,00%"
+    "stock": "0,00  0,00%",
+    "imgUrl": "petro"
   },
   {
     "origin": "BCV",
     "price": "18,61",
-    "stock": "0,22  ▲ 1,19%"
+    "stock": "0,22  ▲ 1,19%",
+    "imgUrl": "bcv"
   },
   {
     "origin": "Remesas Zoom",
     "price": "18,80",
-    "stock": "0,00  0,00%"
+    "stock": "0,00  0,00%",
+    "imgUrl": "remesas-zoom"
   },
   {
     "origin": "Italcambio",
     "price": "18,80",
-    "stock": "0,00  0,00%"
+    "stock": "0,00  0,00%",
+    "imgUrl": "italcambio"
   },
   {
     "origin": "Bancamiga",
     "price": "18,40",
-    "stock": "0,22  ▲ 1,23%"
+    "stock": "0,22  ▲ 1,23%",
+    "imgUrl": "bancamiga"
   },
   {
     "origin": "BanCaribe",
     "price": "17,26",
-    "stock": "0,00  0,00%"
+    "stock": "0,00  0,00%",
+    "imgUrl": "bancaribe"
   },
   {
     "origin": "Banco de Venezuela",
     "price": "12,09",
-    "stock": "0,00  0,00%"
+    "stock": "0,00  0,00%",
+    "imgUrl": "banco-de-venezuela"
   },
   {
     "origin": "Banco Exterior",
     "price": "18,40",
-    "stock": "0,00  0,00%"
+    "stock": "0,00  0,00%",
+    "imgUrl": "banco-exterior"
   },
   {
     "origin": "Banplus",
     "price": "17,29",
-    "stock": "0,00  0,00%"
+    "stock": "0,00  0,00%",
+    "imgUrl": "banplus"
   },
   {
     "origin": "BNC",
     "price": "18,97",
-    "stock": "0,35  ▲ 1,90%"
+    "stock": "0,35  ▲ 1,90%",
+    "imgUrl": "bnc"
   },
   {
     "origin": "Banesco",
     "price": "18,82",
-    "stock": "0,31  ▼ 1,60%"
+    "stock": "0,31  ▼ 1,60%",
+    "imgUrl": "banesco"
   },
   {
     "origin": "BBVA Provincial",
     "price": "18,57",
-    "stock": "0,45  ▲ 2,49%"
+    "stock": "0,45  ▲ 2,49%",
+    "imgUrl": "bbva-provincial"
   },
   {
     "origin": "Mercantil",
     "price": "18,68",
-    "stock": "0,32  ▲ 1,73%"
+    "stock": "0,32  ▲ 1,73%",
+    "imgUrl": "mercantil"
   },
   {
     "origin": "Otras Instituciones",
     "price": "19,25",
-    "stock": "0,75  ▲ 4,05%"
+    "stock": "0,75  ▲ 4,05%",
+    "imgUrl": "otras-instituciones"
   },
   {
     "origin": "Binance",
-    "price": "20,44",
-    "stock": "0,05  ▼ 0,24%"
+    "price": "20,33",
+    "stock": "0,01  ▼ 0,05%",
+    "imgUrl": "binance"
   },
   {
     "origin": "LocalBitcoins",
-    "price": "20,81",
-    "stock": "0,02  ▲ 0,10%"
+    "price": "20,86",
+    "stock": "0,00  0,00%",
+    "imgUrl": "localbitcoins"
   },
   {
     "origin": "AirTM",
     "price": "20,17",
-    "stock": "0,00  0,00%"
+    "stock": "0,00  0,00%",
+    "imgUrl": "airtm"
   },
   {
     "origin": "Reserve",
     "price": "21,39",
-    "stock": "0,00  0,00%"
+    "stock": "0,00  0,00%",
+    "imgUrl": "reserve"
   },
   {
     "origin": "Yadio",
-    "price": "20,01",
-    "stock": "0,29  ▼ 1,43%"
+    "price": "19,90",
+    "stock": "0,03  ▼ 0,15%",
+    "imgUrl": "yadio"
   },
   {
     "origin": "DolarToday",
     "price": "20,65",
-    "stock": "0,00  0,00%"
+    "stock": "0,00  0,00%",
+    "imgUrl": "dolartoday"
   },
   {
     "origin": "DolarToday (BTC)",
     "price": "20,56",
-    "stock": "0,00  0,00%"
+    "stock": "0,00  0,00%",
+    "imgUrl": "dolartoday-btc"
   },
   {
     "origin": "Mkambio",
     "price": "20,91",
-    "stock": "0,00  0,00%"
+    "stock": "0,00  0,00%",
+    "imgUrl": "mkambio"
   },
   {
     "origin": "Cambios R&A",
     "price": "20,44",
-    "stock": "0,00  0,00%"
+    "stock": "0,00  0,00%",
+    "imgUrl": "cambios-rya"
   },
   {
     "origin": "PayPal",
     "price": "17,90",
-    "stock": "0,00  0,00%"
+    "stock": "0,00  0,00%",
+    "imgUrl": "paypal"
   },
   {
     "origin": "Zinli",
     "price": "18,60",
-    "stock": "0,00  0,00%"
+    "stock": "0,00  0,00%",
+    "imgUrl": "zinli"
   },
   {
     "origin": "Skrill",
     "price": "18,60",
-    "stock": "0,00  0,00%"
+    "stock": "0,00  0,00%",
+    "imgUrl": "skrill"
   },
   {
     "origin": "Amazon Gift Card",
     "price": "17,60",
-    "stock": "0,00  0,00%"
+    "stock": "0,00  0,00%",
+    "imgUrl": "amazon"
   }
 ]
