@@ -1,6 +1,7 @@
 [
   {
     "origin": "Dólar EM",
+<<<<<<< HEAD
     "price": "20,37",
     "stock": "0,00  0,00%",
     "imgUrl": "exchangemonitor"
@@ -10,101 +11,173 @@
     "price": "20,55",
     "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar"
+=======
+    "price": "20,36",
+    "stock": "0,05  ▼ 0,24%",
+    "imgUrl": "https://exchangemonitor.net/img/ve/exchangemonitor.webp"
+  },
+  {
+    "origin": "Monitor Dolar Venezuela",
+    "price": "20,53",
+    "stock": "0,05  ▼ 0,24%",
+    "imgUrl": "https://exchangemonitor.net/img/ve/monitor-dolar.webp"
+>>>>>>> 21b6ca4e2cee64c5ac1f98fb2b0c60f761e21597
   },
   {
     "origin": "EnParaleloVzla",
     "price": "20,61",
     "stock": "0,00  0,00%",
+<<<<<<< HEAD
     "imgUrl": "monitor-dolar"
+=======
+    "imgUrl": "https://exchangemonitor.net/img/ve/monitor-dolar.webp"
+>>>>>>> 21b6ca4e2cee64c5ac1f98fb2b0c60f761e21597
   },
   {
     "origin": "Monitor Dolar Vzla",
     "price": "20,61",
     "stock": "0,55  ▲ 2,74%",
+<<<<<<< HEAD
     "imgUrl": "monitor-dolar-vzla"
+=======
+    "imgUrl": "https://exchangemonitor.net/img/ve/monitor-dolar-vzla.webp"
+>>>>>>> 21b6ca4e2cee64c5ac1f98fb2b0c60f761e21597
   },
   {
     "origin": "Petro",
     "price": "1.100,92",
     "stock": "0,00  0,00%",
+<<<<<<< HEAD
     "imgUrl": "petro"
+=======
+    "imgUrl": "https://exchangemonitor.net/img/ve/nacional/petro.webp"
+>>>>>>> 21b6ca4e2cee64c5ac1f98fb2b0c60f761e21597
   },
   {
     "origin": "BCV",
     "price": "18,61",
     "stock": "0,22  ▲ 1,19%",
+<<<<<<< HEAD
     "imgUrl": "bcv"
+=======
+    "imgUrl": "https://exchangemonitor.net/img/ve/nacional/bcv.webp"
+>>>>>>> 21b6ca4e2cee64c5ac1f98fb2b0c60f761e21597
   },
   {
     "origin": "Remesas Zoom",
     "price": "18,80",
     "stock": "0,00  0,00%",
+<<<<<<< HEAD
     "imgUrl": "remesas-zoom"
+=======
+    "imgUrl": "https://exchangemonitor.net/img/ve/nacional/remesas-zoom.webp"
+>>>>>>> 21b6ca4e2cee64c5ac1f98fb2b0c60f761e21597
   },
   {
     "origin": "Italcambio",
     "price": "18,80",
     "stock": "0,00  0,00%",
+<<<<<<< HEAD
     "imgUrl": "italcambio"
+=======
+    "imgUrl": "https://exchangemonitor.net/img/ve/nacional/italcambio.webp"
+>>>>>>> 21b6ca4e2cee64c5ac1f98fb2b0c60f761e21597
   },
   {
     "origin": "Bancamiga",
     "price": "18,40",
     "stock": "0,22  ▲ 1,23%",
+<<<<<<< HEAD
     "imgUrl": "bancamiga"
+=======
+    "imgUrl": "https://exchangemonitor.net/img/ve/bancos/bancamiga.webp"
+>>>>>>> 21b6ca4e2cee64c5ac1f98fb2b0c60f761e21597
   },
   {
     "origin": "BanCaribe",
     "price": "17,26",
     "stock": "0,00  0,00%",
+<<<<<<< HEAD
     "imgUrl": "bancaribe"
+=======
+    "imgUrl": "https://exchangemonitor.net/img/ve/bancos/bancaribe.webp"
+>>>>>>> 21b6ca4e2cee64c5ac1f98fb2b0c60f761e21597
   },
   {
     "origin": "Banco de Venezuela",
     "price": "12,09",
     "stock": "0,00  0,00%",
+<<<<<<< HEAD
     "imgUrl": "banco-de-venezuela"
+=======
+    "imgUrl": "https://exchangemonitor.net/img/ve/bancos/banco-de-venezuela.webp"
+>>>>>>> 21b6ca4e2cee64c5ac1f98fb2b0c60f761e21597
   },
   {
     "origin": "Banco Exterior",
     "price": "18,40",
     "stock": "0,00  0,00%",
+<<<<<<< HEAD
     "imgUrl": "banco-exterior"
+=======
+    "imgUrl": "https://exchangemonitor.net/img/ve/bancos/banco-exterior.webp"
+>>>>>>> 21b6ca4e2cee64c5ac1f98fb2b0c60f761e21597
   },
   {
     "origin": "Banplus",
     "price": "17,29",
     "stock": "0,00  0,00%",
+<<<<<<< HEAD
     "imgUrl": "banplus"
+=======
+    "imgUrl": "https://exchangemonitor.net/img/ve/bancos/banplus.webp"
+>>>>>>> 21b6ca4e2cee64c5ac1f98fb2b0c60f761e21597
   },
   {
     "origin": "BNC",
     "price": "18,97",
     "stock": "0,35  ▲ 1,90%",
+<<<<<<< HEAD
     "imgUrl": "bnc"
+=======
+    "imgUrl": "https://exchangemonitor.net/img/ve/bancos/bnc.webp"
+>>>>>>> 21b6ca4e2cee64c5ac1f98fb2b0c60f761e21597
   },
   {
     "origin": "Banesco",
     "price": "18,82",
     "stock": "0,31  ▼ 1,60%",
+<<<<<<< HEAD
     "imgUrl": "banesco"
+=======
+    "imgUrl": "https://exchangemonitor.net/img/ve/bancos/banesco.webp"
+>>>>>>> 21b6ca4e2cee64c5ac1f98fb2b0c60f761e21597
   },
   {
     "origin": "BBVA Provincial",
     "price": "18,57",
     "stock": "0,45  ▲ 2,49%",
+<<<<<<< HEAD
     "imgUrl": "bbva-provincial"
+=======
+    "imgUrl": "https://exchangemonitor.net/img/ve/bancos/bbva-provincial.webp"
+>>>>>>> 21b6ca4e2cee64c5ac1f98fb2b0c60f761e21597
   },
   {
     "origin": "Mercantil",
     "price": "18,68",
     "stock": "0,32  ▲ 1,73%",
+<<<<<<< HEAD
     "imgUrl": "mercantil"
+=======
+    "imgUrl": "https://exchangemonitor.net/img/ve/bancos/mercantil.webp"
+>>>>>>> 21b6ca4e2cee64c5ac1f98fb2b0c60f761e21597
   },
   {
     "origin": "Otras Instituciones",
     "price": "19,25",
     "stock": "0,75  ▲ 4,05%",
+<<<<<<< HEAD
     "imgUrl": "otras-instituciones"
   },
   {
@@ -118,17 +191,37 @@
     "price": "20,86",
     "stock": "0,00  0,00%",
     "imgUrl": "localbitcoins"
+=======
+    "imgUrl": "https://exchangemonitor.net/img/ve/bancos/otras-instituciones.webp"
+  },
+  {
+    "origin": "Binance",
+    "price": "20,34",
+    "stock": "0,15  ▼ 0,73%",
+    "imgUrl": "https://exchangemonitor.net/img/ve/general/binance.webp"
+  },
+  {
+    "origin": "LocalBitcoins",
+    "price": "20,81",
+    "stock": "0,02  ▲ 0,10%",
+    "imgUrl": "https://exchangemonitor.net/img/ve/general/localbitcoins.webp"
+>>>>>>> 21b6ca4e2cee64c5ac1f98fb2b0c60f761e21597
   },
   {
     "origin": "AirTM",
     "price": "20,17",
     "stock": "0,00  0,00%",
+<<<<<<< HEAD
     "imgUrl": "airtm"
+=======
+    "imgUrl": "https://exchangemonitor.net/img/ve/general/airtm.webp"
+>>>>>>> 21b6ca4e2cee64c5ac1f98fb2b0c60f761e21597
   },
   {
     "origin": "Reserve",
     "price": "21,39",
     "stock": "0,00  0,00%",
+<<<<<<< HEAD
     "imgUrl": "reserve"
   },
   {
@@ -136,47 +229,81 @@
     "price": "19,90",
     "stock": "0,03  ▼ 0,15%",
     "imgUrl": "yadio"
+=======
+    "imgUrl": "https://exchangemonitor.net/img/ve/general/reserve.webp"
+  },
+  {
+    "origin": "Yadio",
+    "price": "19,84",
+    "stock": "0,46  ▼ 2,27%",
+    "imgUrl": "https://exchangemonitor.net/img/ve/general/yadio.webp"
+>>>>>>> 21b6ca4e2cee64c5ac1f98fb2b0c60f761e21597
   },
   {
     "origin": "DolarToday",
     "price": "20,65",
     "stock": "0,00  0,00%",
+<<<<<<< HEAD
     "imgUrl": "dolartoday"
+=======
+    "imgUrl": "https://exchangemonitor.net/img/ve/general/dolartoday.webp"
+>>>>>>> 21b6ca4e2cee64c5ac1f98fb2b0c60f761e21597
   },
   {
     "origin": "DolarToday (BTC)",
     "price": "20,56",
     "stock": "0,00  0,00%",
+<<<<<<< HEAD
     "imgUrl": "dolartoday-btc"
+=======
+    "imgUrl": "https://exchangemonitor.net/img/ve/general/dolartoday-btc.webp"
+>>>>>>> 21b6ca4e2cee64c5ac1f98fb2b0c60f761e21597
   },
   {
     "origin": "Mkambio",
     "price": "20,91",
     "stock": "0,00  0,00%",
+<<<<<<< HEAD
     "imgUrl": "mkambio"
+=======
+    "imgUrl": "https://exchangemonitor.net/img/ve/general/mkambio.webp"
+>>>>>>> 21b6ca4e2cee64c5ac1f98fb2b0c60f761e21597
   },
   {
     "origin": "Cambios R&A",
     "price": "20,44",
     "stock": "0,00  0,00%",
+<<<<<<< HEAD
     "imgUrl": "cambios-rya"
+=======
+    "imgUrl": "https://exchangemonitor.net/img/ve/general/cambios-rya.webp"
+>>>>>>> 21b6ca4e2cee64c5ac1f98fb2b0c60f761e21597
   },
   {
     "origin": "PayPal",
     "price": "17,90",
     "stock": "0,00  0,00%",
+<<<<<<< HEAD
     "imgUrl": "paypal"
+=======
+    "imgUrl": "https://exchangemonitor.net/img/ve/monederos/paypal.webp"
+>>>>>>> 21b6ca4e2cee64c5ac1f98fb2b0c60f761e21597
   },
   {
     "origin": "Zinli",
     "price": "18,60",
     "stock": "0,00  0,00%",
+<<<<<<< HEAD
     "imgUrl": "zinli"
+=======
+    "imgUrl": "https://exchangemonitor.net/img/ve/monederos/zinli.webp"
+>>>>>>> 21b6ca4e2cee64c5ac1f98fb2b0c60f761e21597
   },
   {
     "origin": "Skrill",
     "price": "18,60",
     "stock": "0,00  0,00%",
+<<<<<<< HEAD
     "imgUrl": "skrill"
   },
   {
@@ -184,5 +311,14 @@
     "price": "17,60",
     "stock": "0,00  0,00%",
     "imgUrl": "amazon"
+=======
+    "imgUrl": "https://exchangemonitor.net/img/ve/monederos/skrill.webp"
+  },
+  {
+    "origin": "Amazon Gift Card",
+    "price": "17,50",
+    "stock": "0,10  ▼ 0,57%",
+    "imgUrl": "https://exchangemonitor.net/img/ve/monederos/amazon.webp"
+>>>>>>> 21b6ca4e2cee64c5ac1f98fb2b0c60f761e21597
   }
 ]
