@@ -1,13 +1,13 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "20,39",
-    "stock": "0,02  ▼ 0,10%"
+    "price": "20,38",
+    "stock": "0,03  ▼ 0,15%"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "20,58",
-    "stock": "0,00  0,00%"
+    "price": "20,54",
+    "stock": "0,04  ▼ 0,19%"
   },
   {
     "origin": "EnParaleloVzla",
@@ -91,13 +91,13 @@
   },
   {
     "origin": "Binance",
-    "price": "20,49",
-    "stock": "0,00  0,00%"
+    "price": "20,48",
+    "stock": "0,01  ▼ 0,05%"
   },
   {
     "origin": "LocalBitcoins",
-    "price": "20,72",
-    "stock": "0,07  ▼ 0,34%"
+    "price": "20,76",
+    "stock": "0,03  ▼ 0,14%"
   },
   {
     "origin": "AirTM",
