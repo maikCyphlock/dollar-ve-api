@@ -26,7 +26,7 @@
   {
     "origin": "Petro",
     "price": "1.116,30",
-    "stock": "15,38  ▲ 1,40%",
+    "stock": "0,00  0,00%",
     "imgUrl": "petro"
   },
   {
@@ -109,14 +109,14 @@
   },
   {
     "origin": "Binance",
-    "price": "20,22",
-    "stock": "0,23  ▲ 1,15%",
+    "price": "20,23",
+    "stock": "0,24  ▲ 1,20%",
     "imgUrl": "binance"
   },
   {
     "origin": "LocalBitcoins",
-    "price": "20,17",
-    "stock": "0,00  0,00%",
+    "price": "20,18",
+    "stock": "0,01  ▲ 0,05%",
     "imgUrl": "localbitcoins"
   },
   {
@@ -133,8 +133,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "19,54",
-    "stock": "0,32  ▼ 1,61%",
+    "price": "19,55",
+    "stock": "0,31  ▼ 1,56%",
     "imgUrl": "yadio"
   },
   {
