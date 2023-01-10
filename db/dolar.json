@@ -1,14 +1,14 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "20,03",
-    "stock": "0,08  ▲ 0,40%",
+    "price": "20,02",
+    "stock": "0,07  ▲ 0,35%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "20,19",
-    "stock": "0,10  ▲ 0,50%",
+    "price": "20,17",
+    "stock": "0,08  ▲ 0,40%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -19,8 +19,8 @@
   },
   {
     "origin": "Monitor Dolar Vzla",
-    "price": "20,08",
-    "stock": "0,08  ▲ 0,40%",
+    "price": "20,88",
+    "stock": "0,88  ▲ 4,40%",
     "imgUrl": "monitor-dolar-vzla"
   },
   {
@@ -109,14 +109,14 @@
   },
   {
     "origin": "Binance",
-    "price": "20,17",
-    "stock": "0,18  ▲ 0,90%",
+    "price": "20,13",
+    "stock": "0,14  ▲ 0,70%",
     "imgUrl": "binance"
   },
   {
     "origin": "LocalBitcoins",
-    "price": "20,02",
-    "stock": "0,15  ▼ 0,74%",
+    "price": "19,96",
+    "stock": "0,21  ▼ 1,04%",
     "imgUrl": "localbitcoins"
   },
   {
@@ -169,14 +169,14 @@
   },
   {
     "origin": "Zinli",
-    "price": "18,30",
-    "stock": "0,10  ▲ 0,55%",
+    "price": "18,20",
+    "stock": "0,00  0,00%",
     "imgUrl": "zinli"
   },
   {
     "origin": "Skrill",
-    "price": "18,30",
-    "stock": "0,10  ▲ 0,55%",
+    "price": "18,20",
+    "stock": "0,00  0,00%",
     "imgUrl": "skrill"
   },
   {
