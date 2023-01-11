@@ -1,8 +1,8 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "20,12",
-    "stock": "0,01  ▼ 0,05%",
+    "price": "20,13",
+    "stock": "0,00  0,00%",
     "imgUrl": "exchangemonitor"
   },
   {
@@ -37,8 +37,8 @@
   },
   {
     "origin": "Remesas Zoom",
-    "price": "18,80",
-    "stock": "0,00  0,00%",
+    "price": "19,00",
+    "stock": "0,20  ▲ 1,06%",
     "imgUrl": "remesas-zoom"
   },
   {
@@ -109,14 +109,14 @@
   },
   {
     "origin": "Binance",
-    "price": "20,47",
-    "stock": "0,15  ▲ 0,74%",
+    "price": "20,49",
+    "stock": "0,17  ▲ 0,84%",
     "imgUrl": "binance"
   },
   {
     "origin": "LocalBitcoins",
-    "price": "20,47",
-    "stock": "0,03  ▼ 0,15%",
+    "price": "20,53",
+    "stock": "0,03  ▲ 0,15%",
     "imgUrl": "localbitcoins"
   },
   {
@@ -133,8 +133,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "19,99",
-    "stock": "0,18  ▼ 0,89%",
+    "price": "19,94",
+    "stock": "0,23  ▼ 1,14%",
     "imgUrl": "yadio"
   },
   {
