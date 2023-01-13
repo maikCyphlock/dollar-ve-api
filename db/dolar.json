@@ -1,20 +1,20 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "20,98",
-    "stock": "0,11  ▲ 0,53%",
+    "price": "20,90",
+    "stock": "0,03  ▲ 0,14%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "21,16",
-    "stock": "0,12  ▲ 0,57%",
+    "price": "21,08",
+    "stock": "0,04  ▲ 0,19%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "EnParaleloVzla",
-    "price": "21,29",
-    "stock": "0,08  ▲ 0,38%",
+    "price": "20,93",
+    "stock": "0,28  ▼ 1,32%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -109,14 +109,14 @@
   },
   {
     "origin": "Binance",
-    "price": "20,77",
-    "stock": "0,42  ▼ 1,98%",
+    "price": "20,74",
+    "stock": "0,45  ▼ 2,12%",
     "imgUrl": "binance"
   },
   {
     "origin": "LocalBitcoins",
-    "price": "21,21",
-    "stock": "0,10  ▲ 0,47%",
+    "price": "21,02",
+    "stock": "0,09  ▼ 0,43%",
     "imgUrl": "localbitcoins"
   },
   {
@@ -133,20 +133,20 @@
   },
   {
     "origin": "Yadio",
-    "price": "20,69",
-    "stock": "0,15  ▼ 0,72%",
+    "price": "20,42",
+    "stock": "0,42  ▼ 2,02%",
     "imgUrl": "yadio"
   },
   {
     "origin": "DolarToday",
-    "price": "21,35",
-    "stock": "0,15  ▲ 0,71%",
+    "price": "21,05",
+    "stock": "0,15  ▼ 0,71%",
     "imgUrl": "dolartoday"
   },
   {
     "origin": "DolarToday (BTC)",
-    "price": "21,27",
-    "stock": "0,11  ▲ 0,52%",
+    "price": "20,95",
+    "stock": "0,21  ▼ 0,99%",
     "imgUrl": "dolartoday-btc"
   },
   {
@@ -169,20 +169,20 @@
   },
   {
     "origin": "Zinli",
-    "price": "19,10",
-    "stock": "0,10  ▲ 0,53%",
+    "price": "19,00",
+    "stock": "0,00  0,00%",
     "imgUrl": "zinli"
   },
   {
     "origin": "Skrill",
-    "price": "19,10",
-    "stock": "0,10  ▲ 0,53%",
+    "price": "19,00",
+    "stock": "0,00  0,00%",
     "imgUrl": "skrill"
   },
   {
     "origin": "Amazon Gift Card",
-    "price": "18,10",
-    "stock": "0,10  ▲ 0,56%",
+    "price": "18,00",
+    "stock": "0,00  0,00%",
     "imgUrl": "amazon"
   }
 ]
