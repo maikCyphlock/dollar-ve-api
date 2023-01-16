@@ -1,14 +1,14 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "20,90",
-    "stock": "0,05  ▲ 0,24%",
+    "price": "20,85",
+    "stock": "0,00  0,00%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "21,03",
-    "stock": "0,04  ▲ 0,19%",
+    "price": "20,99",
+    "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -32,7 +32,7 @@
   {
     "origin": "BCV",
     "price": "19,45",
-    "stock": "0,17  ▲ 0,90%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bcv"
   },
   {
@@ -50,7 +50,7 @@
   {
     "origin": "Bancamiga",
     "price": "19,44",
-    "stock": "0,12  ▲ 0,61%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bancamiga"
   },
   {
@@ -80,43 +80,43 @@
   {
     "origin": "BNC",
     "price": "19,73",
-    "stock": "0,10  ▲ 0,51%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bnc"
   },
   {
     "origin": "Banesco",
     "price": "19,86",
-    "stock": "0,26  ▲ 1,30%",
+    "stock": "0,00  0,00%",
     "imgUrl": "banesco"
   },
   {
     "origin": "BBVA Provincial",
     "price": "19,36",
-    "stock": "0,01  ▲ 0,07%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bbva-provincial"
   },
   {
     "origin": "Mercantil",
     "price": "19,39",
-    "stock": "0,14  ▲ 0,75%",
+    "stock": "0,00  0,00%",
     "imgUrl": "mercantil"
   },
   {
     "origin": "Otras Instituciones",
     "price": "20,13",
-    "stock": "0,86  ▲ 4,45%",
+    "stock": "0,00  0,00%",
     "imgUrl": "otras-instituciones"
   },
   {
     "origin": "Binance",
-    "price": "20,82",
-    "stock": "0,01  ▲ 0,05%",
+    "price": "20,78",
+    "stock": "0,03  ▼ 0,14%",
     "imgUrl": "binance"
   },
   {
     "origin": "LocalBitcoins",
-    "price": "20,88",
-    "stock": "0,14  ▲ 0,68%",
+    "price": "20,90",
+    "stock": "0,16  ▲ 0,77%",
     "imgUrl": "localbitcoins"
   },
   {
@@ -133,20 +133,20 @@
   },
   {
     "origin": "Yadio",
-    "price": "20,64",
-    "stock": "0,25  ▲ 1,23%",
+    "price": "20,51",
+    "stock": "0,12  ▲ 0,59%",
     "imgUrl": "yadio"
   },
   {
     "origin": "DolarToday",
-    "price": "21,05",
-    "stock": "0,00  0,00%",
+    "price": "20,90",
+    "stock": "0,15  ▼ 0,71%",
     "imgUrl": "dolartoday"
   },
   {
     "origin": "DolarToday (BTC)",
-    "price": "20,95",
-    "stock": "0,00  0,00%",
+    "price": "20,83",
+    "stock": "0,12  ▼ 0,57%",
     "imgUrl": "dolartoday-btc"
   },
   {
@@ -163,8 +163,8 @@
   },
   {
     "origin": "PayPal",
-    "price": "18,40",
-    "stock": "0,10  ▲ 0,55%",
+    "price": "18,30",
+    "stock": "0,00  0,00%",
     "imgUrl": "paypal"
   },
   {
