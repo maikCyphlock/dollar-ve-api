@@ -1,8 +1,8 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "21,31",
-    "stock": "0,35  ▲ 1,67%",
+    "price": "21,35",
+    "stock": "0,39  ▲ 1,86%",
     "imgUrl": "exchangemonitor"
   },
   {
@@ -13,8 +13,8 @@
   },
   {
     "origin": "EnParaleloVzla",
-    "price": "21,43",
-    "stock": "0,45  ▲ 2,14%",
+    "price": "21,77",
+    "stock": "0,79  ▲ 3,77%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -109,14 +109,14 @@
   },
   {
     "origin": "Binance",
-    "price": "21,61",
-    "stock": "0,57  ▲ 2,71%",
+    "price": "21,68",
+    "stock": "0,64  ▲ 3,04%",
     "imgUrl": "binance"
   },
   {
     "origin": "LocalBitcoins",
-    "price": "21,59",
-    "stock": "0,42  ▲ 1,98%",
+    "price": "21,63",
+    "stock": "0,46  ▲ 2,17%",
     "imgUrl": "localbitcoins"
   },
   {
@@ -133,26 +133,26 @@
   },
   {
     "origin": "Yadio",
-    "price": "21,61",
-    "stock": "0,89  ▲ 4,30%",
+    "price": "21,63",
+    "stock": "0,91  ▲ 4,39%",
     "imgUrl": "yadio"
   },
   {
     "origin": "DolarToday",
-    "price": "21,40",
-    "stock": "0,40  ▲ 1,90%",
+    "price": "21,70",
+    "stock": "0,70  ▲ 3,33%",
     "imgUrl": "dolartoday"
   },
   {
     "origin": "DolarToday (BTC)",
-    "price": "21,35",
-    "stock": "0,41  ▲ 1,96%",
+    "price": "21,64",
+    "stock": "0,70  ▲ 3,34%",
     "imgUrl": "dolartoday-btc"
   },
   {
     "origin": "Mkambio",
-    "price": "21,85",
-    "stock": "1,00  ▲ 4,80%",
+    "price": "21,90",
+    "stock": "1,05  ▲ 5,04%",
     "imgUrl": "mkambio"
   },
   {
@@ -163,20 +163,20 @@
   },
   {
     "origin": "PayPal",
-    "price": "18,70",
-    "stock": "0,30  ▲ 1,63%",
+    "price": "18,80",
+    "stock": "0,40  ▲ 2,17%",
     "imgUrl": "paypal"
   },
   {
     "origin": "Zinli",
-    "price": "19,40",
-    "stock": "0,30  ▲ 1,57%",
+    "price": "19,50",
+    "stock": "0,40  ▲ 2,09%",
     "imgUrl": "zinli"
   },
   {
     "origin": "Skrill",
-    "price": "19,40",
-    "stock": "0,30  ▲ 1,57%",
+    "price": "19,50",
+    "stock": "0,40  ▲ 2,09%",
     "imgUrl": "skrill"
   },
   {
