@@ -1,14 +1,14 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "21,43",
-    "stock": "0,47  ▲ 2,24%",
+    "price": "21,45",
+    "stock": "0,03  ▲ 0,14%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "21,59",
-    "stock": "0,43  ▲ 2,03%",
+    "price": "21,64",
+    "stock": "0,05  ▲ 0,23%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -109,14 +109,14 @@
   },
   {
     "origin": "Binance",
-    "price": "21,87",
-    "stock": "0,83  ▲ 3,94%",
+    "price": "22,02",
+    "stock": "0,14  ▲ 0,64%",
     "imgUrl": "binance"
   },
   {
     "origin": "LocalBitcoins",
-    "price": "22,00",
-    "stock": "0,83  ▲ 3,92%",
+    "price": "22,07",
+    "stock": "0,00  0,00%",
     "imgUrl": "localbitcoins"
   },
   {
@@ -133,20 +133,20 @@
   },
   {
     "origin": "Yadio",
-    "price": "21,64",
-    "stock": "0,92  ▲ 4,44%",
+    "price": "21,65",
+    "stock": "0,03  ▼ 0,14%",
     "imgUrl": "yadio"
   },
   {
     "origin": "DolarToday",
     "price": "21,70",
-    "stock": "0,70  ▲ 3,33%",
+    "stock": "0,00  0,00%",
     "imgUrl": "dolartoday"
   },
   {
     "origin": "DolarToday (BTC)",
     "price": "21,64",
-    "stock": "0,70  ▲ 3,34%",
+    "stock": "0,00  0,00%",
     "imgUrl": "dolartoday-btc"
   },
   {
@@ -163,26 +163,26 @@
   },
   {
     "origin": "PayPal",
-    "price": "18,80",
-    "stock": "0,40  ▲ 2,17%",
+    "price": "18,90",
+    "stock": "0,10  ▲ 0,53%",
     "imgUrl": "paypal"
   },
   {
     "origin": "Zinli",
     "price": "19,50",
-    "stock": "0,40  ▲ 2,09%",
+    "stock": "0,00  0,00%",
     "imgUrl": "zinli"
   },
   {
     "origin": "Skrill",
     "price": "19,50",
-    "stock": "0,40  ▲ 2,09%",
+    "stock": "0,00  0,00%",
     "imgUrl": "skrill"
   },
   {
     "origin": "Amazon Gift Card",
     "price": "18,50",
-    "stock": "0,40  ▲ 2,21%",
+    "stock": "0,00  0,00%",
     "imgUrl": "amazon"
   }
 ]
