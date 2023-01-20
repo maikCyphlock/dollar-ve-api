@@ -1,20 +1,20 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "21,68",
-    "stock": "0,40  ▼ 1,81%",
+    "price": "21,62",
+    "stock": "0,46  ▼ 2,08%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "21,83",
-    "stock": "0,43  ▼ 1,93%",
+    "price": "21,77",
+    "stock": "0,49  ▼ 2,20%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "EnParaleloVzla",
-    "price": "21,85",
-    "stock": "0,42  ▼ 1,89%",
+    "price": "21,60",
+    "stock": "0,67  ▼ 3,01%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -109,14 +109,14 @@
   },
   {
     "origin": "Binance",
-    "price": "21,58",
-    "stock": "0,73  ▼ 3,27%",
+    "price": "21,44",
+    "stock": "0,87  ▼ 3,90%",
     "imgUrl": "binance"
   },
   {
     "origin": "LocalBitcoins",
-    "price": "21,80",
-    "stock": "0,51  ▼ 2,29%",
+    "price": "21,70",
+    "stock": "0,61  ▼ 2,73%",
     "imgUrl": "localbitcoins"
   },
   {
@@ -133,20 +133,20 @@
   },
   {
     "origin": "Yadio",
-    "price": "21,39",
-    "stock": "0,67  ▼ 3,04%",
+    "price": "21,33",
+    "stock": "0,73  ▼ 3,31%",
     "imgUrl": "yadio"
   },
   {
     "origin": "DolarToday",
-    "price": "22,00",
-    "stock": "0,35  ▼ 1,57%",
+    "price": "21,80",
+    "stock": "0,55  ▼ 2,46%",
     "imgUrl": "dolartoday"
   },
   {
     "origin": "DolarToday (BTC)",
-    "price": "21,97",
-    "stock": "0,27  ▼ 1,21%",
+    "price": "21,65",
+    "stock": "0,59  ▼ 2,65%",
     "imgUrl": "dolartoday-btc"
   },
   {
@@ -163,26 +163,26 @@
   },
   {
     "origin": "PayPal",
-    "price": "19,10",
-    "stock": "0,30  ▼ 1,55%",
+    "price": "19,00",
+    "stock": "0,40  ▼ 2,06%",
     "imgUrl": "paypal"
   },
   {
     "origin": "Zinli",
-    "price": "19,80",
-    "stock": "0,30  ▼ 1,49%",
+    "price": "19,70",
+    "stock": "0,40  ▼ 1,99%",
     "imgUrl": "zinli"
   },
   {
     "origin": "Skrill",
-    "price": "19,80",
-    "stock": "0,30  ▼ 1,49%",
+    "price": "19,70",
+    "stock": "0,40  ▼ 1,99%",
     "imgUrl": "skrill"
   },
   {
     "origin": "Amazon Gift Card",
-    "price": "18,70",
-    "stock": "0,30  ▼ 1,58%",
+    "price": "18,60",
+    "stock": "0,40  ▼ 2,11%",
     "imgUrl": "amazon"
   }
 ]
