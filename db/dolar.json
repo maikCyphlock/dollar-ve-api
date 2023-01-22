@@ -1,8 +1,8 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "21,57",
-    "stock": "0,13  ▼ 0,60%",
+    "price": "21,56",
+    "stock": "0,14  ▼ 0,65%",
     "imgUrl": "exchangemonitor"
   },
   {
@@ -109,14 +109,14 @@
   },
   {
     "origin": "Binance",
-    "price": "21,70",
-    "stock": "0,12  ▲ 0,56%",
+    "price": "21,72",
+    "stock": "0,14  ▲ 0,65%",
     "imgUrl": "binance"
   },
   {
     "origin": "LocalBitcoins",
-    "price": "21,94",
-    "stock": "0,16  ▼ 0,72%",
+    "price": "21,88",
+    "stock": "0,22  ▼ 1,00%",
     "imgUrl": "localbitcoins"
   },
   {
@@ -133,8 +133,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "21,61",
-    "stock": "0,14  ▲ 0,65%",
+    "price": "21,51",
+    "stock": "0,04  ▲ 0,19%",
     "imgUrl": "yadio"
   },
   {
@@ -169,14 +169,14 @@
   },
   {
     "origin": "Zinli",
-    "price": "19,70",
-    "stock": "0,10  ▼ 0,51%",
+    "price": "19,60",
+    "stock": "0,20  ▼ 1,01%",
     "imgUrl": "zinli"
   },
   {
     "origin": "Skrill",
-    "price": "19,70",
-    "stock": "0,10  ▼ 0,51%",
+    "price": "19,60",
+    "stock": "0,20  ▼ 1,01%",
     "imgUrl": "skrill"
   },
   {
