@@ -1,14 +1,14 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "21,59",
-    "stock": "0,05  ▲ 0,23%",
+    "price": "21,61",
+    "stock": "0,07  ▲ 0,32%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "21,69",
-    "stock": "0,06  ▲ 0,28%",
+    "price": "21,73",
+    "stock": "0,10  ▲ 0,46%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -19,8 +19,8 @@
   },
   {
     "origin": "Monitor Dolar Vzla",
-    "price": "21,55",
-    "stock": "0,00  0,00%",
+    "price": "21,82",
+    "stock": "0,27  ▲ 1,25%",
     "imgUrl": "monitor-dolar-vzla"
   },
   {
@@ -109,14 +109,14 @@
   },
   {
     "origin": "Binance",
-    "price": "21,76",
-    "stock": "0,04  ▼ 0,18%",
+    "price": "21,82",
+    "stock": "0,02  ▲ 0,09%",
     "imgUrl": "binance"
   },
   {
     "origin": "LocalBitcoins",
-    "price": "21,96",
-    "stock": "0,14  ▲ 0,64%",
+    "price": "21,94",
+    "stock": "0,12  ▲ 0,55%",
     "imgUrl": "localbitcoins"
   },
   {
@@ -133,8 +133,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "21,49",
-    "stock": "0,07  ▲ 0,33%",
+    "price": "21,66",
+    "stock": "0,24  ▲ 1,12%",
     "imgUrl": "yadio"
   },
   {
@@ -151,8 +151,8 @@
   },
   {
     "origin": "Mkambio",
-    "price": "21,69",
-    "stock": "0,00  0,00%",
+    "price": "21,79",
+    "stock": "0,10  ▲ 0,46%",
     "imgUrl": "mkambio"
   },
   {
