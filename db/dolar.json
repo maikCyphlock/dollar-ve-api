@@ -1,8 +1,8 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "22,31",
-    "stock": "0,38  ▲ 1,73%",
+    "price": "22,32",
+    "stock": "0,39  ▲ 1,78%",
     "imgUrl": "exchangemonitor"
   },
   {
@@ -13,14 +13,14 @@
   },
   {
     "origin": "EnParaleloVzla",
-    "price": "22,34",
-    "stock": "0,35  ▲ 1,59%",
+    "price": "22,56",
+    "stock": "0,57  ▲ 2,59%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "Monitor Dolar Vzla",
-    "price": "22,34",
-    "stock": "0,44  ▲ 2,01%",
+    "price": "22,40",
+    "stock": "0,50  ▲ 2,28%",
     "imgUrl": "monitor-dolar-vzla"
   },
   {
@@ -109,20 +109,20 @@
   },
   {
     "origin": "Binance",
-    "price": "22,46",
-    "stock": "0,29  ▲ 1,31%",
+    "price": "22,49",
+    "stock": "0,32  ▲ 1,44%",
     "imgUrl": "binance"
   },
   {
     "origin": "LocalBitcoins",
-    "price": "22,55",
-    "stock": "0,24  ▼ 1,05%",
+    "price": "22,58",
+    "stock": "0,21  ▼ 0,92%",
     "imgUrl": "localbitcoins"
   },
   {
     "origin": "AirTM",
-    "price": "22,62",
-    "stock": "1,10  ▲ 5,11%",
+    "price": "22,14",
+    "stock": "0,62  ▲ 2,88%",
     "imgUrl": "airtm"
   },
   {
@@ -133,8 +133,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "22,58",
-    "stock": "0,17  ▲ 0,76%",
+    "price": "22,32",
+    "stock": "0,09  ▼ 0,40%",
     "imgUrl": "yadio"
   },
   {
@@ -151,14 +151,14 @@
   },
   {
     "origin": "Mkambio",
-    "price": "22,30",
-    "stock": "0,11  ▲ 0,50%",
+    "price": "22,80",
+    "stock": "0,61  ▲ 2,75%",
     "imgUrl": "mkambio"
   },
   {
     "origin": "Cambios R&A",
-    "price": "22,33",
-    "stock": "0,56  ▲ 2,57%",
+    "price": "22,55",
+    "stock": "0,78  ▲ 3,58%",
     "imgUrl": "cambios-rya"
   },
   {
