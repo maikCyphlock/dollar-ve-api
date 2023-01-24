@@ -1,14 +1,14 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "21,89",
-    "stock": "0,04  ▼ 0,18%",
+    "price": "21,93",
+    "stock": "0,00  0,00%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "21,99",
-    "stock": "0,11  ▼ 0,50%",
+    "price": "22,00",
+    "stock": "0,10  ▼ 0,45%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -25,14 +25,14 @@
   },
   {
     "origin": "Petro",
-    "price": "1.229,31",
-    "stock": "0,00  0,00%",
+    "price": "1.243,35",
+    "stock": "14,04  ▲ 1,14%",
     "imgUrl": "petro"
   },
   {
     "origin": "BCV",
-    "price": "20,53",
-    "stock": "0,00  0,00%",
+    "price": "20,73",
+    "stock": "0,21  ▲ 1,01%",
     "imgUrl": "bcv"
   },
   {
@@ -67,8 +67,8 @@
   },
   {
     "origin": "Banco Exterior",
-    "price": "20,03",
-    "stock": "0,00  0,00%",
+    "price": "21,22",
+    "stock": "1,18  ▲ 5,91%",
     "imgUrl": "banco-exterior"
   },
   {
@@ -79,44 +79,44 @@
   },
   {
     "origin": "BNC",
-    "price": "20,92",
-    "stock": "0,00  0,00%",
+    "price": "20,37",
+    "stock": "0,56  ▼ 2,67%",
     "imgUrl": "bnc"
   },
   {
     "origin": "Banesco",
-    "price": "20,60",
-    "stock": "0,00  0,00%",
+    "price": "20,63",
+    "stock": "0,03  ▲ 0,15%",
     "imgUrl": "banesco"
   },
   {
     "origin": "BBVA Provincial",
-    "price": "20,55",
-    "stock": "0,00  0,00%",
+    "price": "21,02",
+    "stock": "0,47  ▲ 2,30%",
     "imgUrl": "bbva-provincial"
   },
   {
     "origin": "Mercantil",
-    "price": "20,77",
-    "stock": "0,00  0,00%",
+    "price": "20,76",
+    "stock": "0,01  ▼ 0,04%",
     "imgUrl": "mercantil"
   },
   {
     "origin": "Otras Instituciones",
-    "price": "20,75",
-    "stock": "0,75  ▲ 3,73%",
+    "price": "20,60",
+    "stock": "0,15  ▼ 0,70%",
     "imgUrl": "otras-instituciones"
   },
   {
     "origin": "Binance",
-    "price": "22,21",
-    "stock": "0,04  ▲ 0,18%",
+    "price": "22,22",
+    "stock": "0,05  ▲ 0,23%",
     "imgUrl": "binance"
   },
   {
     "origin": "LocalBitcoins",
-    "price": "22,65",
-    "stock": "0,14  ▼ 0,61%",
+    "price": "22,80",
+    "stock": "0,01  ▲ 0,04%",
     "imgUrl": "localbitcoins"
   },
   {
@@ -133,8 +133,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "22,20",
-    "stock": "0,21  ▼ 0,94%",
+    "price": "22,22",
+    "stock": "0,19  ▼ 0,85%",
     "imgUrl": "yadio"
   },
   {
@@ -163,20 +163,20 @@
   },
   {
     "origin": "PayPal",
-    "price": "19,20",
-    "stock": "0,10  ▼ 0,52%",
+    "price": "19,30",
+    "stock": "0,00  0,00%",
     "imgUrl": "paypal"
   },
   {
     "origin": "Zinli",
-    "price": "19,90",
-    "stock": "0,10  ▼ 0,50%",
+    "price": "20,00",
+    "stock": "0,00  0,00%",
     "imgUrl": "zinli"
   },
   {
     "origin": "Skrill",
-    "price": "19,90",
-    "stock": "0,10  ▼ 0,50%",
+    "price": "20,00",
+    "stock": "0,00  0,00%",
     "imgUrl": "skrill"
   },
   {
