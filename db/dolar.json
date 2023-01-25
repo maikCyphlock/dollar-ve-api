@@ -1,14 +1,14 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "22,43",
-    "stock": "0,50  ▲ 2,28%",
+    "price": "22,45",
+    "stock": "0,00  0,00%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "22,63",
-    "stock": "0,53  ▲ 2,40%",
+    "price": "22,64",
+    "stock": "0,01  ▲ 0,04%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -20,7 +20,7 @@
   {
     "origin": "Monitor Dolar Vzla",
     "price": "22,40",
-    "stock": "0,50  ▲ 2,28%",
+    "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar-vzla"
   },
   {
@@ -109,14 +109,14 @@
   },
   {
     "origin": "Binance",
-    "price": "23,02",
-    "stock": "0,85  ▲ 3,83%",
+    "price": "23,09",
+    "stock": "0,08  ▲ 0,35%",
     "imgUrl": "binance"
   },
   {
     "origin": "LocalBitcoins",
-    "price": "22,82",
-    "stock": "0,03  ▲ 0,13%",
+    "price": "22,95",
+    "stock": "0,15  ▲ 0,66%",
     "imgUrl": "localbitcoins"
   },
   {
@@ -133,20 +133,20 @@
   },
   {
     "origin": "Yadio",
-    "price": "22,62",
-    "stock": "0,21  ▲ 0,94%",
+    "price": "22,60",
+    "stock": "0,16  ▼ 0,70%",
     "imgUrl": "yadio"
   },
   {
     "origin": "DolarToday",
     "price": "22,60",
-    "stock": "0,60  ▲ 2,73%",
+    "stock": "0,00  0,00%",
     "imgUrl": "dolartoday"
   },
   {
     "origin": "DolarToday (BTC)",
     "price": "22,52",
-    "stock": "0,58  ▲ 2,64%",
+    "stock": "0,00  0,00%",
     "imgUrl": "dolartoday-btc"
   },
   {
@@ -164,25 +164,25 @@
   {
     "origin": "PayPal",
     "price": "19,70",
-    "stock": "0,40  ▲ 2,07%",
+    "stock": "0,00  0,00%",
     "imgUrl": "paypal"
   },
   {
     "origin": "Zinli",
-    "price": "20,40",
-    "stock": "0,40  ▲ 2,00%",
+    "price": "20,50",
+    "stock": "0,10  ▲ 0,49%",
     "imgUrl": "zinli"
   },
   {
     "origin": "Skrill",
-    "price": "20,40",
-    "stock": "0,40  ▲ 2,00%",
+    "price": "20,50",
+    "stock": "0,10  ▲ 0,49%",
     "imgUrl": "skrill"
   },
   {
     "origin": "Amazon Gift Card",
     "price": "19,30",
-    "stock": "0,40  ▲ 2,12%",
+    "stock": "0,00  0,00%",
     "imgUrl": "amazon"
   }
 ]
