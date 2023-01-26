@@ -1,14 +1,14 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "22,95",
-    "stock": "0,07  ▲ 0,31%",
+    "price": "23,00",
+    "stock": "0,12  ▲ 0,52%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "23,14",
-    "stock": "0,09  ▲ 0,39%",
+    "price": "23,21",
+    "stock": "0,16  ▲ 0,69%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -19,8 +19,8 @@
   },
   {
     "origin": "Monitor Dolar Vzla",
-    "price": "23,03",
-    "stock": "0,00  0,00%",
+    "price": "24,69",
+    "stock": "1,66  ▲ 7,21%",
     "imgUrl": "monitor-dolar-vzla"
   },
   {
@@ -44,7 +44,7 @@
   {
     "origin": "Italcambio",
     "price": "21,53",
-    "stock": "0,14  ▲ 0,65%",
+    "stock": "0,00  0,00%",
     "imgUrl": "italcambio"
   },
   {
@@ -109,32 +109,32 @@
   },
   {
     "origin": "Binance",
-    "price": "23,06",
-    "stock": "0,14  ▼ 0,60%",
+    "price": "23,21",
+    "stock": "0,01  ▲ 0,04%",
     "imgUrl": "binance"
   },
   {
     "origin": "LocalBitcoins",
-    "price": "23,40",
-    "stock": "0,15  ▲ 0,65%",
+    "price": "23,41",
+    "stock": "0,16  ▲ 0,69%",
     "imgUrl": "localbitcoins"
   },
   {
     "origin": "AirTM",
-    "price": "22,70",
-    "stock": "0,56  ▲ 2,53%",
+    "price": "22,75",
+    "stock": "0,61  ▲ 2,76%",
     "imgUrl": "airtm"
   },
   {
     "origin": "Reserve",
-    "price": "23,61",
-    "stock": "0,00  0,00%",
+    "price": "23,84",
+    "stock": "0,23  ▲ 0,97%",
     "imgUrl": "reserve"
   },
   {
     "origin": "Yadio",
-    "price": "23,07",
-    "stock": "0,09  ▲ 0,39%",
+    "price": "23,02",
+    "stock": "0,04  ▲ 0,17%",
     "imgUrl": "yadio"
   },
   {
@@ -151,8 +151,8 @@
   },
   {
     "origin": "Mkambio",
-    "price": "23,10",
-    "stock": "0,00  0,00%",
+    "price": "23,25",
+    "stock": "0,15  ▲ 0,65%",
     "imgUrl": "mkambio"
   },
   {
@@ -169,14 +169,14 @@
   },
   {
     "origin": "Zinli",
-    "price": "20,90",
-    "stock": "0,00  0,00%",
+    "price": "21,00",
+    "stock": "0,10  ▲ 0,48%",
     "imgUrl": "zinli"
   },
   {
     "origin": "Skrill",
-    "price": "20,90",
-    "stock": "0,00  0,00%",
+    "price": "21,00",
+    "stock": "0,10  ▲ 0,48%",
     "imgUrl": "skrill"
   },
   {
