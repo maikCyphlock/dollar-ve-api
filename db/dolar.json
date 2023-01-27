@@ -1,14 +1,14 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "22,95",
-    "stock": "0,03  ▼ 0,13%",
+    "price": "22,94",
+    "stock": "0,04  ▼ 0,17%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "23,11",
-    "stock": "0,02  ▲ 0,09%",
+    "price": "23,10",
+    "stock": "0,01  ▲ 0,04%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -115,14 +115,14 @@
   },
   {
     "origin": "LocalBitcoins",
-    "price": "23,10",
-    "stock": "0,13  ▼ 0,56%",
+    "price": "23,08",
+    "stock": "0,15  ▼ 0,65%",
     "imgUrl": "localbitcoins"
   },
   {
     "origin": "AirTM",
-    "price": "22,75",
-    "stock": "0,61  ▲ 2,76%",
+    "price": "22,81",
+    "stock": "0,67  ▲ 3,03%",
     "imgUrl": "airtm"
   },
   {
@@ -133,8 +133,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "22,93",
-    "stock": "0,06  ▼ 0,26%",
+    "price": "22,84",
+    "stock": "0,15  ▼ 0,65%",
     "imgUrl": "yadio"
   },
   {
@@ -151,14 +151,14 @@
   },
   {
     "origin": "Mkambio",
-    "price": "23,25",
-    "stock": "0,15  ▲ 0,65%",
+    "price": "23,10",
+    "stock": "0,00  0,00%",
     "imgUrl": "mkambio"
   },
   {
     "origin": "Cambios R&A",
-    "price": "23,13",
-    "stock": "0,10  ▲ 0,43%",
+    "price": "23,44",
+    "stock": "0,41  ▲ 1,78%",
     "imgUrl": "cambios-rya"
   },
   {
