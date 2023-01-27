@@ -1,8 +1,8 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "23,00",
-    "stock": "0,02  ▲ 0,09%",
+    "price": "23,01",
+    "stock": "0,03  ▲ 0,13%",
     "imgUrl": "exchangemonitor"
   },
   {
@@ -109,14 +109,14 @@
   },
   {
     "origin": "Binance",
-    "price": "23,28",
-    "stock": "0,15  ▲ 0,65%",
+    "price": "23,24",
+    "stock": "0,11  ▲ 0,48%",
     "imgUrl": "binance"
   },
   {
     "origin": "LocalBitcoins",
-    "price": "23,46",
-    "stock": "0,23  ▲ 0,99%",
+    "price": "23,50",
+    "stock": "0,27  ▲ 1,16%",
     "imgUrl": "localbitcoins"
   },
   {
@@ -133,8 +133,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "22,91",
-    "stock": "0,08  ▼ 0,35%",
+    "price": "22,85",
+    "stock": "0,14  ▼ 0,61%",
     "imgUrl": "yadio"
   },
   {
