@@ -7,8 +7,8 @@
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "23,19",
-    "stock": "0,00  0,00%",
+    "price": "23,18",
+    "stock": "0,01  ▼ 0,04%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -115,8 +115,8 @@
   },
   {
     "origin": "LocalBitcoins",
-    "price": "23,32",
-    "stock": "0,15  ▲ 0,65%",
+    "price": "23,30",
+    "stock": "0,13  ▲ 0,56%",
     "imgUrl": "localbitcoins"
   },
   {
