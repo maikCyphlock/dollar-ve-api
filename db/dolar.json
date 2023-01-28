@@ -109,14 +109,14 @@
   },
   {
     "origin": "Binance",
-    "price": "23,00",
-    "stock": "0,13  ▼ 0,56%",
+    "price": "22,99",
+    "stock": "0,14  ▼ 0,61%",
     "imgUrl": "binance"
   },
   {
     "origin": "LocalBitcoins",
-    "price": "23,17",
-    "stock": "0,00  0,00%",
+    "price": "23,13",
+    "stock": "0,04  ▼ 0,17%",
     "imgUrl": "localbitcoins"
   },
   {
