@@ -14,7 +14,7 @@
   {
     "origin": "EnParaleloVzla",
     "price": "23,68",
-    "stock": "0,13  ▲ 0,55%",
+    "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -115,8 +115,8 @@
   },
   {
     "origin": "LocalBitcoins",
-    "price": "23,58",
-    "stock": "0,13  ▲ 0,55%",
+    "price": "23,62",
+    "stock": "0,17  ▲ 0,72%",
     "imgUrl": "localbitcoins"
   },
   {
@@ -133,8 +133,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "23,62",
-    "stock": "0,31  ▲ 1,33%",
+    "price": "23,56",
+    "stock": "0,25  ▲ 1,07%",
     "imgUrl": "yadio"
   },
   {
