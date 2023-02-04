@@ -1,8 +1,8 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "23,71",
-    "stock": "0,10  ▲ 0,42%",
+    "price": "23,70",
+    "stock": "0,09  ▲ 0,38%",
     "imgUrl": "exchangemonitor"
   },
   {
@@ -109,14 +109,14 @@
   },
   {
     "origin": "Binance",
-    "price": "23,64",
-    "stock": "0,03  ▼ 0,13%",
+    "price": "23,63",
+    "stock": "0,04  ▼ 0,17%",
     "imgUrl": "binance"
   },
   {
     "origin": "LocalBitcoins",
-    "price": "23,95",
-    "stock": "0,45  ▲ 1,91%",
+    "price": "23,87",
+    "stock": "0,37  ▲ 1,57%",
     "imgUrl": "localbitcoins"
   },
   {
