@@ -2,13 +2,13 @@
   {
     "origin": "Dólar EM",
     "price": "23,63",
-    "stock": "0,21  ▲ 0,90%",
+    "stock": "0,02  ▲ 0,08%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "23,72",
-    "stock": "0,16  ▲ 0,68%",
+    "price": "23,71",
+    "stock": "0,05  ▲ 0,21%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -20,7 +20,7 @@
   {
     "origin": "Monitor Dolar Vzla",
     "price": "23,53",
-    "stock": "0,12  ▲ 0,51%",
+    "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar-vzla"
   },
   {
@@ -110,13 +110,13 @@
   {
     "origin": "Binance",
     "price": "23,69",
-    "stock": "0,28  ▲ 1,20%",
+    "stock": "0,02  ▲ 0,08%",
     "imgUrl": "binance"
   },
   {
     "origin": "LocalBitcoins",
-    "price": "23,62",
-    "stock": "0,17  ▲ 0,72%",
+    "price": "23,70",
+    "stock": "0,20  ▲ 0,85%",
     "imgUrl": "localbitcoins"
   },
   {
@@ -128,25 +128,25 @@
   {
     "origin": "Reserve",
     "price": "23,95",
-    "stock": "0,16  ▲ 0,67%",
+    "stock": "0,00  0,00%",
     "imgUrl": "reserve"
   },
   {
     "origin": "Yadio",
-    "price": "23,56",
-    "stock": "0,25  ▲ 1,07%",
+    "price": "23,44",
+    "stock": "0,07  ▼ 0,30%",
     "imgUrl": "yadio"
   },
   {
     "origin": "DolarToday",
     "price": "23,68",
-    "stock": "0,18  ▲ 0,77%",
+    "stock": "0,00  0,00%",
     "imgUrl": "dolartoday"
   },
   {
     "origin": "DolarToday (BTC)",
     "price": "23,54",
-    "stock": "0,12  ▲ 0,51%",
+    "stock": "0,00  0,00%",
     "imgUrl": "dolartoday-btc"
   },
   {
@@ -164,25 +164,25 @@
   {
     "origin": "PayPal",
     "price": "20,80",
-    "stock": "0,20  ▲ 0,97%",
+    "stock": "0,00  0,00%",
     "imgUrl": "paypal"
   },
   {
     "origin": "Zinli",
     "price": "21,50",
-    "stock": "0,20  ▲ 0,94%",
+    "stock": "0,00  0,00%",
     "imgUrl": "zinli"
   },
   {
     "origin": "Skrill",
     "price": "21,50",
-    "stock": "0,20  ▲ 0,94%",
+    "stock": "0,00  0,00%",
     "imgUrl": "skrill"
   },
   {
     "origin": "Amazon Gift Card",
     "price": "20,40",
-    "stock": "0,20  ▲ 0,99%",
+    "stock": "0,10  ▲ 0,49%",
     "imgUrl": "amazon"
   }
 ]
