@@ -19,8 +19,8 @@
   },
   {
     "origin": "Monitor Dolar Vzla",
-    "price": "23,53",
-    "stock": "0,00  0,00%",
+    "price": "24,03",
+    "stock": "0,50  ▲ 2,12%",
     "imgUrl": "monitor-dolar-vzla"
   },
   {
@@ -109,14 +109,14 @@
   },
   {
     "origin": "Binance",
-    "price": "24,07",
-    "stock": "0,20  ▲ 0,84%",
+    "price": "24,03",
+    "stock": "0,16  ▲ 0,67%",
     "imgUrl": "binance"
   },
   {
     "origin": "LocalBitcoins",
-    "price": "23,90",
-    "stock": "0,05  ▲ 0,21%",
+    "price": "23,95",
+    "stock": "0,10  ▲ 0,42%",
     "imgUrl": "localbitcoins"
   },
   {
