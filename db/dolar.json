@@ -26,13 +26,13 @@
   {
     "origin": "Petro",
     "price": "1.450,91",
-    "stock": "0,33  ▼ 0,02%",
+    "stock": "0,00  0,00%",
     "imgUrl": "petro"
   },
   {
     "origin": "BCV",
     "price": "24,20",
-    "stock": "0,00  ▲ 0,01%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bcv"
   },
   {
@@ -50,7 +50,7 @@
   {
     "origin": "Bancamiga",
     "price": "23,70",
-    "stock": "0,46  ▼ 1,91%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bancamiga"
   },
   {
@@ -80,49 +80,49 @@
   {
     "origin": "BNC",
     "price": "24,27",
-    "stock": "0,19  ▲ 0,79%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bnc"
   },
   {
     "origin": "Banesco",
     "price": "24,70",
-    "stock": "0,44  ▲ 1,83%",
+    "stock": "0,00  0,00%",
     "imgUrl": "banesco"
   },
   {
     "origin": "BBVA Provincial",
     "price": "24,44",
-    "stock": "0,27  ▲ 1,11%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bbva-provincial"
   },
   {
     "origin": "Mercantil",
     "price": "24,37",
-    "stock": "0,32  ▲ 1,33%",
+    "stock": "0,00  0,00%",
     "imgUrl": "mercantil"
   },
   {
     "origin": "Otras Instituciones",
     "price": "24,50",
-    "stock": "0,15  ▲ 0,62%",
+    "stock": "0,00  0,00%",
     "imgUrl": "otras-instituciones"
   },
   {
     "origin": "Binance",
-    "price": "24,77",
-    "stock": "0,04  ▲ 0,16%",
+    "price": "24,71",
+    "stock": "0,02  ▼ 0,08%",
     "imgUrl": "binance"
   },
   {
     "origin": "LocalBitcoins",
-    "price": "24,91",
-    "stock": "0,26  ▲ 1,05%",
+    "price": "24,81",
+    "stock": "0,16  ▲ 0,65%",
     "imgUrl": "localbitcoins"
   },
   {
     "origin": "AirTM",
-    "price": "25,40",
-    "stock": "0,02  ▼ 0,08%",
+    "price": "25,42",
+    "stock": "0,02  ▲ 0,08%",
     "imgUrl": "airtm"
   },
   {
@@ -133,8 +133,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "24,59",
-    "stock": "0,38  ▲ 1,57%",
+    "price": "24,57",
+    "stock": "0,36  ▲ 1,49%",
     "imgUrl": "yadio"
   },
   {
