@@ -1,14 +1,14 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "24,84",
-    "stock": "0,01  ▲ 0,04%",
+    "price": "24,86",
+    "stock": "0,04  ▲ 0,16%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "24,75",
-    "stock": "0,01  ▼ 0,04%",
+    "price": "24,79",
+    "stock": "0,03  ▲ 0,12%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -20,7 +20,7 @@
   {
     "origin": "Monitor Dolar Vzla",
     "price": "24,87",
-    "stock": "0,09  ▲ 0,36%",
+    "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar-vzla"
   },
   {
@@ -109,14 +109,14 @@
   },
   {
     "origin": "Binance",
-    "price": "24,77",
-    "stock": "0,00  0,00%",
+    "price": "24,79",
+    "stock": "0,02  ▲ 0,08%",
     "imgUrl": "binance"
   },
   {
     "origin": "LocalBitcoins",
-    "price": "24,63",
-    "stock": "0,06  ▼ 0,24%",
+    "price": "24,60",
+    "stock": "0,13  ▲ 0,53%",
     "imgUrl": "localbitcoins"
   },
   {
@@ -128,25 +128,25 @@
   {
     "origin": "Reserve",
     "price": "25,37",
-    "stock": "0,12  ▲ 0,48%",
+    "stock": "0,00  0,00%",
     "imgUrl": "reserve"
   },
   {
     "origin": "Yadio",
-    "price": "24,42",
-    "stock": "0,04  ▲ 0,16%",
+    "price": "24,55",
+    "stock": "0,17  ▲ 0,70%",
     "imgUrl": "yadio"
   },
   {
     "origin": "DolarToday",
     "price": "25,00",
-    "stock": "0,15  ▲ 0,60%",
+    "stock": "0,00  0,00%",
     "imgUrl": "dolartoday"
   },
   {
     "origin": "DolarToday (BTC)",
     "price": "24,90",
-    "stock": "0,14  ▲ 0,57%",
+    "stock": "0,00  0,00%",
     "imgUrl": "dolartoday-btc"
   },
   {
@@ -163,20 +163,20 @@
   },
   {
     "origin": "PayPal",
-    "price": "21,80",
-    "stock": "0,00  0,00%",
+    "price": "21,90",
+    "stock": "0,10  ▲ 0,46%",
     "imgUrl": "paypal"
   },
   {
     "origin": "Zinli",
-    "price": "22,60",
-    "stock": "0,00  0,00%",
+    "price": "22,70",
+    "stock": "0,10  ▲ 0,44%",
     "imgUrl": "zinli"
   },
   {
     "origin": "Skrill",
-    "price": "22,60",
-    "stock": "0,00  0,00%",
+    "price": "22,70",
+    "stock": "0,10  ▲ 0,44%",
     "imgUrl": "skrill"
   },
   {
