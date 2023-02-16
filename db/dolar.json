@@ -1,14 +1,14 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "25,03",
-    "stock": "0,21  ▲ 0,85%",
+    "price": "25,07",
+    "stock": "0,02  ▲ 0,08%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "24,84",
-    "stock": "0,03  ▼ 0,12%",
+    "price": "24,87",
+    "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -20,7 +20,7 @@
   {
     "origin": "Monitor Dolar Vzla",
     "price": "24,72",
-    "stock": "0,15  ▼ 0,60%",
+    "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar-vzla"
   },
   {
@@ -109,14 +109,14 @@
   },
   {
     "origin": "Binance",
-    "price": "24,93",
-    "stock": "0,02  ▼ 0,08%",
+    "price": "25,08",
+    "stock": "0,13  ▲ 0,52%",
     "imgUrl": "binance"
   },
   {
     "origin": "LocalBitcoins",
-    "price": "25,47",
-    "stock": "1,00  ▲ 4,09%",
+    "price": "25,65",
+    "stock": "0,17  ▲ 0,67%",
     "imgUrl": "localbitcoins"
   },
   {
@@ -133,20 +133,20 @@
   },
   {
     "origin": "Yadio",
-    "price": "24,39",
-    "stock": "0,05  ▼ 0,20%",
+    "price": "24,46",
+    "stock": "0,02  ▲ 0,08%",
     "imgUrl": "yadio"
   },
   {
     "origin": "DolarToday",
     "price": "25,10",
-    "stock": "0,10  ▲ 0,40%",
+    "stock": "0,00  0,00%",
     "imgUrl": "dolartoday"
   },
   {
     "origin": "DolarToday (BTC)",
     "price": "24,98",
-    "stock": "0,08  ▲ 0,32%",
+    "stock": "0,00  0,00%",
     "imgUrl": "dolartoday-btc"
   },
   {
@@ -164,25 +164,25 @@
   {
     "origin": "PayPal",
     "price": "22,00",
-    "stock": "0,20  ▲ 0,92%",
+    "stock": "0,00  0,00%",
     "imgUrl": "paypal"
   },
   {
     "origin": "Zinli",
     "price": "22,80",
-    "stock": "0,20  ▲ 0,88%",
+    "stock": "0,00  0,00%",
     "imgUrl": "zinli"
   },
   {
     "origin": "Skrill",
     "price": "22,80",
-    "stock": "0,20  ▲ 0,88%",
+    "stock": "0,00  0,00%",
     "imgUrl": "skrill"
   },
   {
     "origin": "Amazon Gift Card",
     "price": "21,60",
-    "stock": "0,20  ▲ 0,93%",
+    "stock": "0,00  0,00%",
     "imgUrl": "amazon"
   }
 ]
