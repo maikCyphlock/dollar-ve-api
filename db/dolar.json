@@ -1,8 +1,8 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "25,24",
-    "stock": "0,05  ▲ 0,20%",
+    "price": "25,23",
+    "stock": "0,04  ▲ 0,16%",
     "imgUrl": "exchangemonitor"
   },
   {
@@ -25,8 +25,8 @@
   },
   {
     "origin": "Petro",
-    "price": "1.461,50",
-    "stock": "0,00  0,00%",
+    "price": "1.460,89",
+    "stock": "0,61  ▼ 0,04%",
     "imgUrl": "petro"
   },
   {
@@ -43,8 +43,8 @@
   },
   {
     "origin": "Italcambio",
-    "price": "24,61",
-    "stock": "0,00  0,00%",
+    "price": "24,63",
+    "stock": "0,02  ▲ 0,08%",
     "imgUrl": "italcambio"
   },
   {
@@ -133,8 +133,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "24,88",
-    "stock": "0,02  ▼ 0,08%",
+    "price": "24,92",
+    "stock": "0,02  ▲ 0,08%",
     "imgUrl": "yadio"
   },
   {
@@ -181,8 +181,8 @@
   },
   {
     "origin": "Amazon Gift Card",
-    "price": "21,80",
-    "stock": "0,10  ▲ 0,46%",
+    "price": "21,70",
+    "stock": "0,00  0,00%",
     "imgUrl": "amazon"
   }
 ]
