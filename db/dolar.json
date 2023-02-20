@@ -109,14 +109,14 @@
   },
   {
     "origin": "Binance",
-    "price": "25,01",
-    "stock": "0,08  ▼ 0,32%",
+    "price": "25,05",
+    "stock": "0,04  ▼ 0,16%",
     "imgUrl": "binance"
   },
   {
     "origin": "LocalBitcoins",
-    "price": "25,73",
-    "stock": "0,52  ▼ 1,98%",
+    "price": "25,66",
+    "stock": "0,59  ▼ 2,25%",
     "imgUrl": "localbitcoins"
   },
   {
@@ -133,8 +133,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "24,77",
-    "stock": "0,21  ▼ 0,84%",
+    "price": "24,92",
+    "stock": "0,06  ▼ 0,24%",
     "imgUrl": "yadio"
   },
   {
