@@ -1,14 +1,14 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "25,22",
-    "stock": "0,03  ▲ 0,12%",
+    "price": "25,24",
+    "stock": "0,05  ▲ 0,20%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "25,07",
-    "stock": "0,04  ▲ 0,16%",
+    "price": "25,08",
+    "stock": "0,05  ▲ 0,20%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -19,14 +19,14 @@
   },
   {
     "origin": "Monitor Dolar Vzla",
-    "price": "25,12",
-    "stock": "0,00  0,00%",
+    "price": "24,95",
+    "stock": "0,17  ▼ 0,68%",
     "imgUrl": "monitor-dolar-vzla"
   },
   {
     "origin": "Petro",
     "price": "1.463,76",
-    "stock": "2,87  ▲ 0,20%",
+    "stock": "0,00  0,00%",
     "imgUrl": "petro"
   },
   {
@@ -109,8 +109,8 @@
   },
   {
     "origin": "Binance",
-    "price": "25,09",
-    "stock": "0,08  ▲ 0,32%",
+    "price": "25,14",
+    "stock": "0,13  ▲ 0,52%",
     "imgUrl": "binance"
   },
   {
@@ -133,20 +133,20 @@
   },
   {
     "origin": "Yadio",
-    "price": "24,84",
-    "stock": "0,12  ▼ 0,48%",
+    "price": "25,00",
+    "stock": "0,04  ▲ 0,16%",
     "imgUrl": "yadio"
   },
   {
     "origin": "DolarToday",
-    "price": "25,09",
-    "stock": "0,00  0,00%",
+    "price": "25,15",
+    "stock": "0,06  ▲ 0,24%",
     "imgUrl": "dolartoday"
   },
   {
     "origin": "DolarToday (BTC)",
-    "price": "24,97",
-    "stock": "0,00  0,00%",
+    "price": "25,07",
+    "stock": "0,10  ▲ 0,40%",
     "imgUrl": "dolartoday-btc"
   },
   {
@@ -181,8 +181,8 @@
   },
   {
     "origin": "Amazon Gift Card",
-    "price": "21,70",
-    "stock": "0,00  0,00%",
+    "price": "21,80",
+    "stock": "0,10  ▲ 0,46%",
     "imgUrl": "amazon"
   }
 ]
