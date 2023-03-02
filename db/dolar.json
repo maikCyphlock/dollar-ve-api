@@ -7,8 +7,8 @@
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "24,48",
-    "stock": "0,10  ▲ 0,41%",
+    "price": "24,46",
+    "stock": "0,08  ▲ 0,33%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -19,8 +19,8 @@
   },
   {
     "origin": "Monitor Dolar Vzla",
-    "price": "24,53",
-    "stock": "0,34  ▼ 1,37%",
+    "price": "24,72",
+    "stock": "0,15  ▼ 0,60%",
     "imgUrl": "monitor-dolar-vzla"
   },
   {
@@ -109,8 +109,8 @@
   },
   {
     "origin": "Binance",
-    "price": "24,44",
-    "stock": "0,13  ▲ 0,53%",
+    "price": "24,39",
+    "stock": "0,08  ▲ 0,33%",
     "imgUrl": "binance"
   },
   {
