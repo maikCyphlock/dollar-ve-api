@@ -1,8 +1,8 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "24,70",
-    "stock": "0,00  0,00%",
+    "price": "24,68",
+    "stock": "0,02  ▼ 0,08%",
     "imgUrl": "exchangemonitor"
   },
   {
@@ -13,8 +13,8 @@
   },
   {
     "origin": "EnParaleloVzla",
-    "price": "24,49",
-    "stock": "0,00  0,00%",
+    "price": "24,47",
+    "stock": "0,02  ▼ 0,08%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -109,8 +109,8 @@
   },
   {
     "origin": "Binance",
-    "price": "24,42",
-    "stock": "0,03  ▼ 0,12%",
+    "price": "24,43",
+    "stock": "0,02  ▼ 0,08%",
     "imgUrl": "binance"
   },
   {
@@ -133,20 +133,20 @@
   },
   {
     "origin": "Yadio",
-    "price": "24,34",
-    "stock": "0,13  ▼ 0,53%",
+    "price": "24,33",
+    "stock": "0,14  ▼ 0,57%",
     "imgUrl": "yadio"
   },
   {
     "origin": "DolarToday",
-    "price": "24,60",
-    "stock": "0,05  ▲ 0,20%",
+    "price": "24,50",
+    "stock": "0,05  ▼ 0,20%",
     "imgUrl": "dolartoday"
   },
   {
     "origin": "DolarToday (BTC)",
-    "price": "24,51",
-    "stock": "0,03  ▲ 0,12%",
+    "price": "24,41",
+    "stock": "0,07  ▼ 0,29%",
     "imgUrl": "dolartoday-btc"
   },
   {
