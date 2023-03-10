@@ -1,8 +1,8 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "24,64",
-    "stock": "0,04  ▲ 0,16%",
+    "price": "24,65",
+    "stock": "0,05  ▲ 0,20%",
     "imgUrl": "exchangemonitor"
   },
   {
@@ -109,8 +109,8 @@
   },
   {
     "origin": "Binance",
-    "price": "24,35",
-    "stock": "0,03  ▲ 0,12%",
+    "price": "24,36",
+    "stock": "0,04  ▲ 0,16%",
     "imgUrl": "binance"
   },
   {
@@ -133,8 +133,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "24,89",
-    "stock": "0,26  ▲ 1,06%",
+    "price": "24,96",
+    "stock": "0,33  ▲ 1,34%",
     "imgUrl": "yadio"
   },
   {
