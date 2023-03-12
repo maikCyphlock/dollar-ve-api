@@ -109,8 +109,8 @@
   },
   {
     "origin": "Binance",
-    "price": "24,28",
-    "stock": "0,01  ▲ 0,04%",
+    "price": "24,29",
+    "stock": "0,02  ▲ 0,08%",
     "imgUrl": "binance"
   },
   {
@@ -133,8 +133,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "24,08",
-    "stock": "0,13  ▼ 0,54%",
+    "price": "24,03",
+    "stock": "0,18  ▼ 0,74%",
     "imgUrl": "yadio"
   },
   {
@@ -182,7 +182,7 @@
   {
     "origin": "Amazon Gift Card",
     "price": "21,10",
-    "stock": "0,10  ▼ 0,47%",
+    "stock": "0,00  0,00%",
     "imgUrl": "amazon"
   }
 ]
