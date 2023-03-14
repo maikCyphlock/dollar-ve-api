@@ -1,26 +1,26 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "24,59",
-    "stock": "0,04  ▲ 0,16%",
+    "price": "24,62",
+    "stock": "0,07  ▲ 0,29%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "24,64",
-    "stock": "0,04  ▲ 0,16%",
+    "price": "24,66",
+    "stock": "0,06  ▲ 0,24%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "EnParaleloVzla",
-    "price": "24,23",
-    "stock": "0,05  ▼ 0,21%",
+    "price": "24,34",
+    "stock": "0,06  ▲ 0,25%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "Monitor Dolar Vzla",
-    "price": "23,70",
-    "stock": "0,00  0,00%",
+    "price": "24,13",
+    "stock": "0,43  ▲ 1,81%",
     "imgUrl": "monitor-dolar-vzla"
   },
   {
@@ -133,20 +133,20 @@
   },
   {
     "origin": "Yadio",
-    "price": "23,90",
-    "stock": "0,42  ▼ 1,73%",
+    "price": "24,20",
+    "stock": "0,12  ▼ 0,49%",
     "imgUrl": "yadio"
   },
   {
     "origin": "DolarToday",
-    "price": "24,28",
-    "stock": "0,00  0,00%",
+    "price": "24,40",
+    "stock": "0,12  ▲ 0,49%",
     "imgUrl": "dolartoday"
   },
   {
     "origin": "DolarToday (BTC)",
-    "price": "24,25",
-    "stock": "0,00  0,00%",
+    "price": "24,37",
+    "stock": "0,12  ▲ 0,49%",
     "imgUrl": "dolartoday-btc"
   },
   {
