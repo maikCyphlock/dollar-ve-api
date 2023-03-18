@@ -1,14 +1,14 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "25,41",
-    "stock": "0,43  ▲ 1,72%",
+    "price": "25,40",
+    "stock": "0,02  ▼ 0,08%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
     "price": "25,53",
-    "stock": "0,46  ▲ 1,83%",
+    "stock": "0,02  ▼ 0,08%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -20,7 +20,7 @@
   {
     "origin": "Monitor Dolar Vzla",
     "price": "24,82",
-    "stock": "0,35  ▲ 1,43%",
+    "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar-vzla"
   },
   {
@@ -109,8 +109,8 @@
   },
   {
     "origin": "Binance",
-    "price": "25,34",
-    "stock": "0,31  ▲ 1,24%",
+    "price": "25,36",
+    "stock": "0,03  ▲ 0,12%",
     "imgUrl": "binance"
   },
   {
@@ -133,20 +133,20 @@
   },
   {
     "origin": "Yadio",
-    "price": "25,12",
-    "stock": "0,26  ▲ 1,05%",
+    "price": "25,21",
+    "stock": "0,07  ▼ 0,28%",
     "imgUrl": "yadio"
   },
   {
     "origin": "DolarToday",
     "price": "25,42",
-    "stock": "0,60  ▲ 2,42%",
+    "stock": "0,00  0,00%",
     "imgUrl": "dolartoday"
   },
   {
     "origin": "DolarToday (BTC)",
     "price": "25,38",
-    "stock": "0,59  ▲ 2,38%",
+    "stock": "0,00  0,00%",
     "imgUrl": "dolartoday-btc"
   },
   {
@@ -169,14 +169,14 @@
   },
   {
     "origin": "Zinli",
-    "price": "23,20",
-    "stock": "0,50  ▲ 2,20%",
+    "price": "23,10",
+    "stock": "0,10  ▼ 0,43%",
     "imgUrl": "zinli"
   },
   {
     "origin": "Skrill",
-    "price": "23,20",
-    "stock": "0,00  0,00%",
+    "price": "23,10",
+    "stock": "0,10  ▼ 0,43%",
     "imgUrl": "skrill"
   },
   {
