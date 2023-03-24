@@ -1,20 +1,20 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "25,68",
-    "stock": "0,03  ▲ 0,12%",
+    "price": "25,65",
+    "stock": "0,00  0,00%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "25,81",
-    "stock": "0,00  0,00%",
+    "price": "25,78",
+    "stock": "0,03  ▼ 0,12%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "EnParaleloVzla",
-    "price": "25,79",
-    "stock": "0,11  ▲ 0,43%",
+    "price": "25,65",
+    "stock": "0,03  ▼ 0,12%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -133,26 +133,26 @@
   },
   {
     "origin": "Yadio",
-    "price": "25,24",
-    "stock": "0,15  ▼ 0,59%",
+    "price": "25,30",
+    "stock": "0,09  ▼ 0,35%",
     "imgUrl": "yadio"
   },
   {
     "origin": "DolarToday",
-    "price": "25,77",
-    "stock": "0,07  ▲ 0,27%",
+    "price": "25,70",
+    "stock": "0,00  0,00%",
     "imgUrl": "dolartoday"
   },
   {
     "origin": "DolarToday (BTC)",
-    "price": "25,74",
-    "stock": "0,08  ▲ 0,31%",
+    "price": "25,68",
+    "stock": "0,02  ▲ 0,08%",
     "imgUrl": "dolartoday-btc"
   },
   {
     "origin": "Mkambio",
-    "price": "26,30",
-    "stock": "0,10  ▲ 0,38%",
+    "price": "26,00",
+    "stock": "0,20  ▼ 0,76%",
     "imgUrl": "mkambio"
   },
   {
@@ -163,8 +163,8 @@
   },
   {
     "origin": "PayPal",
-    "price": "22,60",
-    "stock": "0,10  ▲ 0,44%",
+    "price": "22,50",
+    "stock": "0,00  0,00%",
     "imgUrl": "paypal"
   },
   {
