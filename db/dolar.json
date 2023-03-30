@@ -1,14 +1,14 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "25,20",
-    "stock": "0,00  0,00%",
+    "price": "25,16",
+    "stock": "0,04  ▼ 0,16%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "25,27",
-    "stock": "0,02  ▼ 0,08%",
+    "price": "25,21",
+    "stock": "0,08  ▼ 0,32%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -19,8 +19,8 @@
   },
   {
     "origin": "Monitor Dolar Vzla",
-    "price": "24,64",
-    "stock": "0,00  0,00%",
+    "price": "24,57",
+    "stock": "0,07  ▼ 0,28%",
     "imgUrl": "monitor-dolar-vzla"
   },
   {
@@ -31,8 +31,8 @@
   },
   {
     "origin": "BCV",
-    "price": "24,42",
-    "stock": "0,02  ▲ 0,10%",
+    "price": "24,49",
+    "stock": "0,07  ▲ 0,30%",
     "imgUrl": "bcv"
   },
   {
@@ -121,8 +121,8 @@
   },
   {
     "origin": "AirTM",
-    "price": "25,99",
-    "stock": "0,02  ▲ 0,08%",
+    "price": "25,75",
+    "stock": "0,24  ▼ 0,92%",
     "imgUrl": "airtm"
   },
   {
@@ -133,8 +133,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "24,97",
-    "stock": "0,01  ▲ 0,04%",
+    "price": "24,94",
+    "stock": "0,02  ▼ 0,08%",
     "imgUrl": "yadio"
   },
   {
@@ -152,31 +152,31 @@
   {
     "origin": "Mkambio",
     "price": "24,80",
-    "stock": "0,30  ▼ 1,20%",
+    "stock": "0,00  0,00%",
     "imgUrl": "mkambio"
   },
   {
     "origin": "Cambios R&A",
-    "price": "25,20",
-    "stock": "0,13  ▼ 0,51%",
+    "price": "25,10",
+    "stock": "0,10  ▼ 0,40%",
     "imgUrl": "cambios-rya"
   },
   {
     "origin": "PayPal",
-    "price": "22,20",
-    "stock": "0,00  0,00%",
+    "price": "22,10",
+    "stock": "0,10  ▼ 0,45%",
     "imgUrl": "paypal"
   },
   {
     "origin": "Zinli",
-    "price": "23,00",
-    "stock": "0,00  0,00%",
+    "price": "22,90",
+    "stock": "0,10  ▼ 0,43%",
     "imgUrl": "zinli"
   },
   {
     "origin": "Skrill",
-    "price": "23,00",
-    "stock": "0,00  0,00%",
+    "price": "22,90",
+    "stock": "0,10  ▼ 0,43%",
     "imgUrl": "skrill"
   },
   {
