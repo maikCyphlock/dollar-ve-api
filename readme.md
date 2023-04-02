@@ -7,13 +7,23 @@ This is a backend application for the Dollar API Venezuela, which automatically 
 Automatically updates Dolar pricing.
 Uses Cloudflare Workers service to speed up requests.
 Easy to connect to a frontend application.
-Usage
-To use the Dollar API Venezuela backend, follow these steps:
 
-Clone this repository to your local machine.
-Install the required dependencies by running npm install command.
-Run the application using npm start command.
+## Usage
+To use the dolar-api backend, follow these steps:
+
+* Clone this repository to your local machine.
+
+* Install the required dependencies by running ``npm install`` command.
+
+* Run the application using ``npm start`` command.
+
 Access the API by sending GET requests to the specified endpoints.
+You can also run the scraper separately using the npm run scrapper command.
+
+If you want to use the Cloudflare Workers service to deploy the application, you can use the following commands:
+
+* ``npm run wrangler:dev``: Runs the application in development mode using the Wrangler CLI.
+* ``npm run wrangler:prod``: Publishes the application to the Cloudflare Workers service using the Wrangler CLI.
 
 ### Endpoints
 ```
