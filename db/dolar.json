@@ -109,8 +109,8 @@
   },
   {
     "origin": "Binance",
-    "price": "25,03",
-    "stock": "0,15  ▲ 0,60%",
+    "price": "24,92",
+    "stock": "0,04  ▲ 0,16%",
     "imgUrl": "binance"
   },
   {
@@ -139,14 +139,14 @@
   },
   {
     "origin": "DolarToday",
-    "price": "24,72",
-    "stock": "0,00  0,00%",
+    "price": "25,00",
+    "stock": "0,28  ▲ 1,13%",
     "imgUrl": "dolartoday"
   },
   {
     "origin": "DolarToday (BTC)",
-    "price": "24,68",
-    "stock": "0,00  0,00%",
+    "price": "24,97",
+    "stock": "0,29  ▲ 1,18%",
     "imgUrl": "dolartoday-btc"
   },
   {
