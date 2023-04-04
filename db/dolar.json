@@ -1,14 +1,14 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "25,07",
-    "stock": "0,05  ▲ 0,20%",
+    "price": "25,15",
+    "stock": "0,13  ▲ 0,52%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "25,10",
-    "stock": "0,07  ▲ 0,28%",
+    "price": "25,20",
+    "stock": "0,17  ▲ 0,68%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -31,8 +31,8 @@
   },
   {
     "origin": "BCV",
-    "price": "24,53",
-    "stock": "0,00  0,00%",
+    "price": "24,49",
+    "stock": "0,04  ▼ 0,15%",
     "imgUrl": "bcv"
   },
   {
@@ -49,8 +49,8 @@
   },
   {
     "origin": "Bancamiga",
-    "price": "24,55",
-    "stock": "0,00  0,00%",
+    "price": "24,29",
+    "stock": "0,26  ▼ 1,04%",
     "imgUrl": "bancamiga"
   },
   {
@@ -79,38 +79,38 @@
   },
   {
     "origin": "BNC",
-    "price": "24,64",
-    "stock": "0,00  0,00%",
+    "price": "24,55",
+    "stock": "0,09  ▼ 0,38%",
     "imgUrl": "bnc"
   },
   {
     "origin": "Banesco",
-    "price": "24,54",
-    "stock": "0,00  0,00%",
+    "price": "24,75",
+    "stock": "0,22  ▲ 0,88%",
     "imgUrl": "banesco"
   },
   {
     "origin": "BBVA Provincial",
-    "price": "24,45",
-    "stock": "0,00  0,00%",
+    "price": "24,43",
+    "stock": "0,03  ▼ 0,10%",
     "imgUrl": "bbva-provincial"
   },
   {
     "origin": "Mercantil",
-    "price": "24,50",
-    "stock": "0,00  0,00%",
+    "price": "24,52",
+    "stock": "0,02  ▲ 0,09%",
     "imgUrl": "mercantil"
   },
   {
     "origin": "Otras Instituciones",
-    "price": "24,69",
-    "stock": "0,00  0,00%",
+    "price": "24,63",
+    "stock": "0,06  ▼ 0,23%",
     "imgUrl": "otras-instituciones"
   },
   {
     "origin": "Binance",
-    "price": "25,06",
-    "stock": "0,12  ▲ 0,48%",
+    "price": "25,02",
+    "stock": "0,08  ▲ 0,32%",
     "imgUrl": "binance"
   },
   {
@@ -121,20 +121,20 @@
   },
   {
     "origin": "AirTM",
-    "price": "25,34",
-    "stock": "0,00  0,00%",
+    "price": "25,63",
+    "stock": "0,29  ▲ 1,14%",
     "imgUrl": "airtm"
   },
   {
     "origin": "Reserve",
-    "price": "25,18",
-    "stock": "0,00  0,00%",
+    "price": "25,32",
+    "stock": "0,14  ▲ 0,56%",
     "imgUrl": "reserve"
   },
   {
     "origin": "Yadio",
-    "price": "25,25",
-    "stock": "0,35  ▲ 1,41%",
+    "price": "24,98",
+    "stock": "0,08  ▲ 0,32%",
     "imgUrl": "yadio"
   },
   {
@@ -151,8 +151,8 @@
   },
   {
     "origin": "Mkambio",
-    "price": "24,45",
-    "stock": "0,00  0,00%",
+    "price": "24,95",
+    "stock": "0,50  ▲ 2,04%",
     "imgUrl": "mkambio"
   },
   {
@@ -163,26 +163,26 @@
   },
   {
     "origin": "PayPal",
-    "price": "22,00",
-    "stock": "0,00  0,00%",
+    "price": "22,10",
+    "stock": "0,10  ▲ 0,45%",
     "imgUrl": "paypal"
   },
   {
     "origin": "Zinli",
-    "price": "22,80",
-    "stock": "0,00  0,00%",
+    "price": "22,90",
+    "stock": "0,10  ▲ 0,44%",
     "imgUrl": "zinli"
   },
   {
     "origin": "Skrill",
-    "price": "22,80",
-    "stock": "0,00  0,00%",
+    "price": "22,90",
+    "stock": "0,10  ▲ 0,44%",
     "imgUrl": "skrill"
   },
   {
     "origin": "Amazon Gift Card",
-    "price": "21,60",
-    "stock": "0,00  0,00%",
+    "price": "21,70",
+    "stock": "0,10  ▲ 0,46%",
     "imgUrl": "amazon"
   }
 ]
