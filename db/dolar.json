@@ -109,8 +109,8 @@
   },
   {
     "origin": "Binance",
-    "price": "24,80",
-    "stock": "0,01  ▲ 0,04%",
+    "price": "24,79",
+    "stock": "0,00  0,00%",
     "imgUrl": "binance"
   },
   {
@@ -133,8 +133,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "24,56",
-    "stock": "0,09  ▼ 0,37%",
+    "price": "24,59",
+    "stock": "0,06  ▼ 0,24%",
     "imgUrl": "yadio"
   },
   {
