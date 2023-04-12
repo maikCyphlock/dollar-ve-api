@@ -1,14 +1,14 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "24,96",
-    "stock": "0,08  ▼ 0,32%",
+    "price": "24,97",
+    "stock": "0,07  ▼ 0,28%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "24,99",
-    "stock": "0,08  ▼ 0,32%",
+    "price": "25,01",
+    "stock": "0,06  ▼ 0,24%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -38,7 +38,7 @@
   {
     "origin": "Remesas Zoom",
     "price": "24,72",
-    "stock": "0,08  ▲ 0,32%",
+    "stock": "0,00  0,00%",
     "imgUrl": "remesas-zoom"
   },
   {
@@ -133,8 +133,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "24,53",
-    "stock": "0,18  ▼ 0,73%",
+    "price": "24,65",
+    "stock": "0,06  ▼ 0,24%",
     "imgUrl": "yadio"
   },
   {
@@ -163,20 +163,20 @@
   },
   {
     "origin": "PayPal",
-    "price": "21,90",
-    "stock": "0,10  ▼ 0,45%",
+    "price": "22,00",
+    "stock": "0,00  0,00%",
     "imgUrl": "paypal"
   },
   {
     "origin": "Zinli",
-    "price": "22,70",
-    "stock": "0,10  ▼ 0,44%",
+    "price": "22,80",
+    "stock": "0,00  0,00%",
     "imgUrl": "zinli"
   },
   {
     "origin": "Skrill",
-    "price": "22,70",
-    "stock": "0,10  ▼ 0,44%",
+    "price": "22,80",
+    "stock": "0,00  0,00%",
     "imgUrl": "skrill"
   },
   {
