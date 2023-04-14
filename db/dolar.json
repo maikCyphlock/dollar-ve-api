@@ -7,8 +7,8 @@
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "25,06",
-    "stock": "0,05  ▲ 0,20%",
+    "price": "25,07",
+    "stock": "0,06  ▲ 0,24%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -44,7 +44,7 @@
   {
     "origin": "Italcambio",
     "price": "24,79",
-    "stock": "0,06  ▲ 0,24%",
+    "stock": "0,00  0,00%",
     "imgUrl": "italcambio"
   },
   {
@@ -133,8 +133,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "24,92",
-    "stock": "0,32  ▲ 1,30%",
+    "price": "24,97",
+    "stock": "0,37  ▲ 1,50%",
     "imgUrl": "yadio"
   },
   {
