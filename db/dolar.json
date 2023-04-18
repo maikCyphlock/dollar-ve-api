@@ -1,14 +1,14 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "25,04",
-    "stock": "0,04  ▲ 0,16%",
+    "price": "25,11",
+    "stock": "0,11  ▲ 0,44%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "25,05",
-    "stock": "0,03  ▲ 0,12%",
+    "price": "25,15",
+    "stock": "0,13  ▲ 0,52%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -38,7 +38,7 @@
   {
     "origin": "Remesas Zoom",
     "price": "24,81",
-    "stock": "0,01  ▼ 0,04%",
+    "stock": "0,00  0,00%",
     "imgUrl": "remesas-zoom"
   },
   {
@@ -109,8 +109,8 @@
   },
   {
     "origin": "Binance",
-    "price": "24,96",
-    "stock": "0,08  ▲ 0,32%",
+    "price": "24,95",
+    "stock": "0,07  ▲ 0,28%",
     "imgUrl": "binance"
   },
   {
@@ -121,20 +121,20 @@
   },
   {
     "origin": "AirTM",
-    "price": "25,44",
-    "stock": "0,00  0,00%",
+    "price": "25,64",
+    "stock": "0,20  ▲ 0,79%",
     "imgUrl": "airtm"
   },
   {
     "origin": "Reserve",
-    "price": "25,21",
-    "stock": "0,00  0,00%",
+    "price": "25,42",
+    "stock": "0,21  ▲ 0,83%",
     "imgUrl": "reserve"
   },
   {
     "origin": "Yadio",
-    "price": "24,89",
-    "stock": "0,11  ▲ 0,44%",
+    "price": "24,84",
+    "stock": "0,06  ▲ 0,24%",
     "imgUrl": "yadio"
   },
   {
@@ -151,32 +151,32 @@
   },
   {
     "origin": "Mkambio",
-    "price": "24,65",
-    "stock": "0,00  0,00%",
+    "price": "24,91",
+    "stock": "0,26  ▲ 1,05%",
     "imgUrl": "mkambio"
   },
   {
     "origin": "Cambios R&A",
-    "price": "24,77",
-    "stock": "0,00  0,00%",
+    "price": "24,88",
+    "stock": "0,11  ▲ 0,44%",
     "imgUrl": "cambios-rya"
   },
   {
     "origin": "PayPal",
-    "price": "22,00",
-    "stock": "0,00  0,00%",
+    "price": "22,10",
+    "stock": "0,10  ▲ 0,45%",
     "imgUrl": "paypal"
   },
   {
     "origin": "Zinli",
-    "price": "22,80",
-    "stock": "0,00  0,00%",
+    "price": "22,90",
+    "stock": "0,10  ▲ 0,44%",
     "imgUrl": "zinli"
   },
   {
     "origin": "Skrill",
-    "price": "22,80",
-    "stock": "0,00  0,00%",
+    "price": "22,90",
+    "stock": "0,10  ▲ 0,44%",
     "imgUrl": "skrill"
   },
   {
