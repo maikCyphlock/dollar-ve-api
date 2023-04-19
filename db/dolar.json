@@ -2,7 +2,7 @@
   {
     "origin": "Dólar EM",
     "price": "25,26",
-    "stock": "0,11  ▲ 0,44%",
+    "stock": "0,00  0,00%",
     "imgUrl": "exchangemonitor"
   },
   {
@@ -14,7 +14,7 @@
   {
     "origin": "EnParaleloVzla",
     "price": "25,28",
-    "stock": "0,25  ▲ 1,00%",
+    "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -109,8 +109,8 @@
   },
   {
     "origin": "Binance",
-    "price": "25,06",
-    "stock": "0,08  ▼ 0,32%",
+    "price": "25,02",
+    "stock": "0,01  ▲ 0,04%",
     "imgUrl": "binance"
   },
   {
@@ -133,8 +133,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "24,95",
-    "stock": "0,01  ▲ 0,04%",
+    "price": "24,98",
+    "stock": "0,02  ▲ 0,08%",
     "imgUrl": "yadio"
   },
   {
@@ -170,7 +170,7 @@
   {
     "origin": "Zinli",
     "price": "23,00",
-    "stock": "0,10  ▲ 0,44%",
+    "stock": "0,00  0,00%",
     "imgUrl": "zinli"
   },
   {
