@@ -109,8 +109,8 @@
   },
   {
     "origin": "Binance",
-    "price": "25,16",
-    "stock": "0,15  ▲ 0,60%",
+    "price": "25,19",
+    "stock": "0,18  ▲ 0,72%",
     "imgUrl": "binance"
   },
   {
@@ -133,8 +133,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "24,99",
-    "stock": "0,03  ▲ 0,12%",
+    "price": "25,00",
+    "stock": "0,04  ▲ 0,16%",
     "imgUrl": "yadio"
   },
   {
@@ -157,8 +157,8 @@
   },
   {
     "origin": "Cambios R&A",
-    "price": "25,15",
-    "stock": "0,05  ▼ 0,20%",
+    "price": "25,10",
+    "stock": "0,10  ▼ 0,40%",
     "imgUrl": "cambios-rya"
   },
   {
