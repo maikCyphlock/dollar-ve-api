@@ -1,14 +1,14 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "25,27",
-    "stock": "0,01  ▲ 0,04%",
+    "price": "25,33",
+    "stock": "0,07  ▲ 0,28%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "25,32",
-    "stock": "0,00  0,00%",
+    "price": "25,39",
+    "stock": "0,07  ▲ 0,28%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -19,8 +19,8 @@
   },
   {
     "origin": "Monitor Dolar Vzla",
-    "price": "24,67",
-    "stock": "0,00  0,00%",
+    "price": "24,69",
+    "stock": "0,02  ▲ 0,08%",
     "imgUrl": "monitor-dolar-vzla"
   },
   {
@@ -44,7 +44,7 @@
   {
     "origin": "Italcambio",
     "price": "24,82",
-    "stock": "0,01  ▲ 0,04%",
+    "stock": "0,00  0,00%",
     "imgUrl": "italcambio"
   },
   {
@@ -109,8 +109,8 @@
   },
   {
     "origin": "Binance",
-    "price": "25,22",
-    "stock": "0,01  ▲ 0,04%",
+    "price": "25,24",
+    "stock": "0,03  ▲ 0,12%",
     "imgUrl": "binance"
   },
   {
@@ -121,20 +121,20 @@
   },
   {
     "origin": "AirTM",
-    "price": "25,76",
-    "stock": "0,00  0,00%",
+    "price": "25,94",
+    "stock": "0,18  ▲ 0,70%",
     "imgUrl": "airtm"
   },
   {
     "origin": "Reserve",
-    "price": "25,60",
-    "stock": "0,10  ▼ 0,39%",
+    "price": "25,71",
+    "stock": "0,01  ▲ 0,04%",
     "imgUrl": "reserve"
   },
   {
     "origin": "Yadio",
-    "price": "25,04",
-    "stock": "0,01  ▲ 0,04%",
+    "price": "25,01",
+    "stock": "0,02  ▼ 0,08%",
     "imgUrl": "yadio"
   },
   {
@@ -163,20 +163,20 @@
   },
   {
     "origin": "PayPal",
-    "price": "22,20",
-    "stock": "0,00  0,00%",
+    "price": "22,30",
+    "stock": "0,10  ▲ 0,45%",
     "imgUrl": "paypal"
   },
   {
     "origin": "Zinli",
-    "price": "23,00",
-    "stock": "0,00  0,00%",
+    "price": "23,10",
+    "stock": "0,10  ▲ 0,43%",
     "imgUrl": "zinli"
   },
   {
     "origin": "Skrill",
-    "price": "23,00",
-    "stock": "0,00  0,00%",
+    "price": "23,10",
+    "stock": "0,10  ▲ 0,43%",
     "imgUrl": "skrill"
   },
   {
