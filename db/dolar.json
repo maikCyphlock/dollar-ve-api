@@ -14,13 +14,13 @@
   {
     "origin": "EnParaleloVzla",
     "price": "25,53",
-    "stock": "0,26  ▼ 1,01%",
+    "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "Monitor Dolar Vzla",
     "price": "24,96",
-    "stock": "0,05  ▼ 0,20%",
+    "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar-vzla"
   },
   {
@@ -133,8 +133,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "25,40",
-    "stock": "0,01  ▲ 0,04%",
+    "price": "25,29",
+    "stock": "0,10  ▼ 0,39%",
     "imgUrl": "yadio"
   },
   {
