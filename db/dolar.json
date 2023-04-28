@@ -13,14 +13,14 @@
   },
   {
     "origin": "EnParaleloVzla",
-    "price": "25,76",
-    "stock": "0,02  ▲ 0,08%",
+    "price": "25,61",
+    "stock": "0,13  ▼ 0,51%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "Monitor Dolar Vzla",
-    "price": "25,01",
-    "stock": "0,05  ▲ 0,20%",
+    "price": "24,96",
+    "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar-vzla"
   },
   {
@@ -109,8 +109,8 @@
   },
   {
     "origin": "Binance",
-    "price": "25,52",
-    "stock": "0,11  ▼ 0,43%",
+    "price": "25,46",
+    "stock": "0,17  ▼ 0,66%",
     "imgUrl": "binance"
   },
   {
@@ -133,8 +133,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "25,39",
-    "stock": "0,01  ▲ 0,04%",
+    "price": "25,40",
+    "stock": "0,02  ▲ 0,08%",
     "imgUrl": "yadio"
   },
   {
