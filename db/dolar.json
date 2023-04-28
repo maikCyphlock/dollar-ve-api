@@ -1,8 +1,8 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "25,72",
-    "stock": "0,01  ▲ 0,04%",
+    "price": "25,71",
+    "stock": "0,00  0,00%",
     "imgUrl": "exchangemonitor"
   },
   {
@@ -133,8 +133,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "25,28",
-    "stock": "0,10  ▼ 0,39%",
+    "price": "25,21",
+    "stock": "0,17  ▼ 0,67%",
     "imgUrl": "yadio"
   },
   {
