@@ -1,14 +1,14 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "25,65",
-    "stock": "0,08  ▲ 0,31%",
+    "price": "25,67",
+    "stock": "0,10  ▲ 0,39%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "25,70",
-    "stock": "0,08  ▲ 0,31%",
+    "price": "25,73",
+    "stock": "0,11  ▲ 0,43%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -109,8 +109,8 @@
   },
   {
     "origin": "Binance",
-    "price": "25,54",
-    "stock": "0,06  ▼ 0,23%",
+    "price": "25,57",
+    "stock": "0,03  ▼ 0,12%",
     "imgUrl": "binance"
   },
   {
@@ -127,26 +127,26 @@
   },
   {
     "origin": "Reserve",
-    "price": "25,93",
-    "stock": "0,00  0,00%",
+    "price": "26,07",
+    "stock": "0,14  ▲ 0,54%",
     "imgUrl": "reserve"
   },
   {
     "origin": "Yadio",
-    "price": "25,34",
-    "stock": "0,01  ▲ 0,04%",
+    "price": "25,32",
+    "stock": "0,01  ▼ 0,04%",
     "imgUrl": "yadio"
   },
   {
     "origin": "DolarToday",
-    "price": "25,70",
-    "stock": "0,15  ▲ 0,59%",
+    "price": "25,65",
+    "stock": "0,10  ▲ 0,39%",
     "imgUrl": "dolartoday"
   },
   {
     "origin": "DolarToday (BTC)",
-    "price": "25,68",
-    "stock": "0,18  ▲ 0,71%",
+    "price": "25,61",
+    "stock": "0,11  ▲ 0,43%",
     "imgUrl": "dolartoday-btc"
   },
   {
@@ -163,8 +163,8 @@
   },
   {
     "origin": "PayPal",
-    "price": "22,50",
-    "stock": "0,00  0,00%",
+    "price": "22,60",
+    "stock": "0,10  ▲ 0,44%",
     "imgUrl": "paypal"
   },
   {
