@@ -1,14 +1,14 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "25,70",
-    "stock": "0,01  ▲ 0,04%",
+    "price": "25,75",
+    "stock": "0,06  ▲ 0,23%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "25,76",
-    "stock": "0,00  0,00%",
+    "price": "25,80",
+    "stock": "0,04  ▲ 0,16%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -19,8 +19,8 @@
   },
   {
     "origin": "Monitor Dolar Vzla",
-    "price": "24,92",
-    "stock": "0,00  0,00%",
+    "price": "25,46",
+    "stock": "0,54  ▲ 2,17%",
     "imgUrl": "monitor-dolar-vzla"
   },
   {
@@ -31,8 +31,8 @@
   },
   {
     "origin": "BCV",
-    "price": "24,87",
-    "stock": "0,06  ▲ 0,23%",
+    "price": "25,03",
+    "stock": "0,16  ▲ 0,63%",
     "imgUrl": "bcv"
   },
   {
@@ -49,8 +49,8 @@
   },
   {
     "origin": "Bancamiga",
-    "price": "24,79",
-    "stock": "0,09  ▼ 0,35%",
+    "price": "24,93",
+    "stock": "0,15  ▲ 0,59%",
     "imgUrl": "bancamiga"
   },
   {
@@ -67,8 +67,8 @@
   },
   {
     "origin": "Banco Exterior",
-    "price": "25,12",
-    "stock": "1,01  ▲ 4,18%",
+    "price": "25,04",
+    "stock": "0,08  ▼ 0,32%",
     "imgUrl": "banco-exterior"
   },
   {
@@ -80,37 +80,37 @@
   {
     "origin": "BNC",
     "price": "24,81",
-    "stock": "0,03  ▲ 0,14%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bnc"
   },
   {
     "origin": "Banesco",
-    "price": "25,22",
-    "stock": "0,41  ▲ 1,64%",
+    "price": "25,45",
+    "stock": "0,22  ▲ 0,88%",
     "imgUrl": "banesco"
   },
   {
     "origin": "BBVA Provincial",
-    "price": "24,73",
-    "stock": "0,00  0,00%",
+    "price": "25,12",
+    "stock": "0,38  ▲ 1,55%",
     "imgUrl": "bbva-provincial"
   },
   {
     "origin": "Mercantil",
-    "price": "24,86",
-    "stock": "0,00  0,00%",
+    "price": "24,93",
+    "stock": "0,07  ▲ 0,29%",
     "imgUrl": "mercantil"
   },
   {
     "origin": "Otras Instituciones",
-    "price": "24,99",
-    "stock": "0,25  ▲ 1,02%",
+    "price": "24,98",
+    "stock": "0,01  ▼ 0,05%",
     "imgUrl": "otras-instituciones"
   },
   {
     "origin": "Binance",
-    "price": "25,65",
-    "stock": "0,00  0,00%",
+    "price": "25,68",
+    "stock": "0,03  ▲ 0,12%",
     "imgUrl": "binance"
   },
   {
@@ -121,20 +121,20 @@
   },
   {
     "origin": "AirTM",
-    "price": "26,38",
-    "stock": "0,12  ▲ 0,46%",
+    "price": "26,41",
+    "stock": "0,03  ▲ 0,11%",
     "imgUrl": "airtm"
   },
   {
     "origin": "Reserve",
-    "price": "26,07",
-    "stock": "0,00  0,00%",
+    "price": "26,19",
+    "stock": "0,12  ▲ 0,46%",
     "imgUrl": "reserve"
   },
   {
     "origin": "Yadio",
-    "price": "25,40",
-    "stock": "0,02  ▼ 0,08%",
+    "price": "25,56",
+    "stock": "0,14  ▲ 0,55%",
     "imgUrl": "yadio"
   },
   {
@@ -152,13 +152,13 @@
   {
     "origin": "Mkambio",
     "price": "25,65",
-    "stock": "0,50  ▲ 1,99%",
+    "stock": "0,00  0,00%",
     "imgUrl": "mkambio"
   },
   {
     "origin": "Cambios R&A",
     "price": "25,72",
-    "stock": "0,02  ▲ 0,08%",
+    "stock": "0,00  0,00%",
     "imgUrl": "cambios-rya"
   },
   {
@@ -169,14 +169,14 @@
   },
   {
     "origin": "Zinli",
-    "price": "23,40",
-    "stock": "0,00  0,00%",
+    "price": "23,50",
+    "stock": "0,10  ▲ 0,43%",
     "imgUrl": "zinli"
   },
   {
     "origin": "Skrill",
-    "price": "23,40",
-    "stock": "0,00  0,00%",
+    "price": "23,50",
+    "stock": "0,10  ▲ 0,43%",
     "imgUrl": "skrill"
   },
   {
