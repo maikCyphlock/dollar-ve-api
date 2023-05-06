@@ -128,13 +128,13 @@
   {
     "origin": "Reserve",
     "price": "26,34",
-    "stock": "0,15  ▲ 0,57%",
+    "stock": "0,00  0,00%",
     "imgUrl": "reserve"
   },
   {
     "origin": "Yadio",
-    "price": "25,51",
-    "stock": "0,04  ▼ 0,16%",
+    "price": "25,45",
+    "stock": "0,10  ▼ 0,39%",
     "imgUrl": "yadio"
   },
   {
