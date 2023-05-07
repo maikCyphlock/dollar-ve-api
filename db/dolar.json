@@ -1,14 +1,14 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "25,82",
-    "stock": "0,00  0,00%",
+    "price": "25,81",
+    "stock": "0,01  ▼ 0,04%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "25,88",
-    "stock": "0,00  0,00%",
+    "price": "25,87",
+    "stock": "0,01  ▼ 0,04%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -32,7 +32,7 @@
   {
     "origin": "BCV",
     "price": "25,06",
-    "stock": "0,03  ▲ 0,11%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bcv"
   },
   {
@@ -50,7 +50,7 @@
   {
     "origin": "Bancamiga",
     "price": "24,97",
-    "stock": "0,03  ▲ 0,13%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bancamiga"
   },
   {
@@ -68,7 +68,7 @@
   {
     "origin": "Banco Exterior",
     "price": "25,01",
-    "stock": "0,04  ▼ 0,15%",
+    "stock": "0,00  0,00%",
     "imgUrl": "banco-exterior"
   },
   {
@@ -80,13 +80,13 @@
   {
     "origin": "BNC",
     "price": "25,05",
-    "stock": "0,24  ▲ 0,97%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bnc"
   },
   {
     "origin": "Banesco",
     "price": "25,48",
-    "stock": "0,04  ▲ 0,15%",
+    "stock": "0,00  0,00%",
     "imgUrl": "banesco"
   },
   {
@@ -98,37 +98,31 @@
   {
     "origin": "Mercantil",
     "price": "25,07",
-    "stock": "0,14  ▲ 0,56%",
+    "stock": "0,00  0,00%",
     "imgUrl": "mercantil"
   },
   {
     "origin": "Otras Instituciones",
     "price": "25,14",
-    "stock": "0,17  ▲ 0,66%",
+    "stock": "0,00  0,00%",
     "imgUrl": "otras-instituciones"
   },
   {
     "origin": "Binance",
-    "price": "25,78",
-    "stock": "0,01  ▲ 0,04%",
+    "price": "25,77",
+    "stock": "0,00  0,00%",
     "imgUrl": "binance"
   },
   {
-    "origin": "LocalBitcoins",
-    "price": "25,79",
-    "stock": "0,46  ▼ 1,75%",
-    "imgUrl": "localbitcoins"
-  },
-  {
     "origin": "AirTM",
-    "price": "26,41",
-    "stock": "0,00  0,00%",
+    "price": "26,51",
+    "stock": "0,10  ▲ 0,38%",
     "imgUrl": "airtm"
   },
   {
     "origin": "Reserve",
-    "price": "26,34",
-    "stock": "0,00  0,00%",
+    "price": "26,21",
+    "stock": "0,13  ▼ 0,49%",
     "imgUrl": "reserve"
   },
   {
@@ -181,8 +175,8 @@
   },
   {
     "origin": "Amazon Gift Card",
-    "price": "22,30",
-    "stock": "0,00  0,00%",
+    "price": "22,20",
+    "stock": "0,10  ▼ 0,45%",
     "imgUrl": "amazon"
   }
 ]
