@@ -1,26 +1,26 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "26,60",
-    "stock": "0,15  ▲ 0,57%",
+    "price": "26,63",
+    "stock": "0,18  ▲ 0,68%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "26,79",
-    "stock": "0,16  ▲ 0,60%",
+    "price": "26,80",
+    "stock": "0,17  ▲ 0,64%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "EnParaleloVzla",
-    "price": "26,64",
-    "stock": "0,84  ▲ 3,26%",
+    "price": "26,74",
+    "stock": "0,94  ▲ 3,64%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "Monitor Dolar Vzla",
-    "price": "26,20",
-    "stock": "0,64  ▲ 2,50%",
+    "price": "26,24",
+    "stock": "0,68  ▲ 2,66%",
     "imgUrl": "monitor-dolar-vzla"
   },
   {
@@ -109,8 +109,8 @@
   },
   {
     "origin": "Binance",
-    "price": "26,65",
-    "stock": "0,19  ▲ 0,72%",
+    "price": "26,74",
+    "stock": "0,28  ▲ 1,06%",
     "imgUrl": "binance"
   },
   {
@@ -127,20 +127,20 @@
   },
   {
     "origin": "Yadio",
-    "price": "26,38",
-    "stock": "0,06  ▲ 0,23%",
+    "price": "26,47",
+    "stock": "0,15  ▲ 0,57%",
     "imgUrl": "yadio"
   },
   {
     "origin": "DolarToday",
-    "price": "26,62",
-    "stock": "0,14  ▲ 0,53%",
+    "price": "26,70",
+    "stock": "0,22  ▲ 0,83%",
     "imgUrl": "dolartoday"
   },
   {
     "origin": "DolarToday (BTC)",
-    "price": "26,58",
-    "stock": "2,01  ▼ 7,03%",
+    "price": "26,65",
+    "stock": "1,94  ▼ 6,79%",
     "imgUrl": "dolartoday-btc"
   },
   {
@@ -163,20 +163,20 @@
   },
   {
     "origin": "Zinli",
-    "price": "24,20",
-    "stock": "0,10  ▲ 0,41%",
+    "price": "24,30",
+    "stock": "0,20  ▲ 0,83%",
     "imgUrl": "zinli"
   },
   {
     "origin": "Skrill",
-    "price": "24,20",
-    "stock": "0,10  ▲ 0,41%",
+    "price": "24,30",
+    "stock": "0,20  ▲ 0,83%",
     "imgUrl": "skrill"
   },
   {
     "origin": "Amazon Gift Card",
-    "price": "22,90",
-    "stock": "0,10  ▲ 0,44%",
+    "price": "23,00",
+    "stock": "0,20  ▲ 0,88%",
     "imgUrl": "amazon"
   }
 ]
