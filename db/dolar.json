@@ -44,7 +44,7 @@
   {
     "origin": "Italcambio",
     "price": "26,07",
-    "stock": "0,33  ▲ 1,28%",
+    "stock": "0,00  0,00%",
     "imgUrl": "italcambio"
   },
   {
@@ -127,8 +127,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "27,17",
-    "stock": "0,19  ▲ 0,70%",
+    "price": "27,13",
+    "stock": "0,15  ▲ 0,56%",
     "imgUrl": "yadio"
   },
   {
