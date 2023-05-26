@@ -1,8 +1,8 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "27,62",
-    "stock": "0,05  ▲ 0,18%",
+    "price": "27,61",
+    "stock": "0,04  ▲ 0,15%",
     "imgUrl": "exchangemonitor"
   },
   {
@@ -13,14 +13,14 @@
   },
   {
     "origin": "EnParaleloVzla",
-    "price": "27,90",
-    "stock": "2,10  ▲ 8,14%",
+    "price": "28,14",
+    "stock": "2,34  ▲ 9,07%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "Monitor Dolar Vzla",
-    "price": "26,95",
-    "stock": "1,39  ▲ 5,44%",
+    "price": "27,28",
+    "stock": "1,72  ▲ 6,73%",
     "imgUrl": "monitor-dolar-vzla"
   },
   {
@@ -109,8 +109,8 @@
   },
   {
     "origin": "Binance",
-    "price": "28,09",
-    "stock": "0,11  ▲ 0,39%",
+    "price": "28,05",
+    "stock": "0,07  ▲ 0,25%",
     "imgUrl": "binance"
   },
   {
@@ -121,14 +121,14 @@
   },
   {
     "origin": "Reserve",
-    "price": "28,37",
-    "stock": "0,00  0,00%",
+    "price": "28,56",
+    "stock": "0,19  ▲ 0,67%",
     "imgUrl": "reserve"
   },
   {
     "origin": "Yadio",
-    "price": "27,77",
-    "stock": "0,16  ▲ 0,58%",
+    "price": "27,51",
+    "stock": "0,10  ▼ 0,36%",
     "imgUrl": "yadio"
   },
   {
@@ -146,13 +146,13 @@
   {
     "origin": "Mkambio",
     "price": "28,50",
-    "stock": "0,95  ▲ 3,45%",
+    "stock": "0,00  0,00%",
     "imgUrl": "mkambio"
   },
   {
     "origin": "Cambios R&A",
-    "price": "27,77",
-    "stock": "0,33  ▲ 1,20%",
+    "price": "28,05",
+    "stock": "0,28  ▲ 1,01%",
     "imgUrl": "cambios-rya"
   },
   {
