@@ -1,14 +1,14 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "27,68",
-    "stock": "0,01  ▼ 0,04%",
+    "price": "27,67",
+    "stock": "0,02  ▼ 0,07%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "28,03",
-    "stock": "0,02  ▼ 0,07%",
+    "price": "28,02",
+    "stock": "0,03  ▼ 0,11%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -31,8 +31,8 @@
   },
   {
     "origin": "BCV",
-    "price": "26,13",
-    "stock": "0,09  ▲ 0,36%",
+    "price": "26,27",
+    "stock": "0,14  ▲ 0,54%",
     "imgUrl": "bcv"
   },
   {
@@ -49,8 +49,8 @@
   },
   {
     "origin": "Bancamiga",
-    "price": "25,89",
-    "stock": "0,00  0,00%",
+    "price": "26,27",
+    "stock": "0,38  ▲ 1,46%",
     "imgUrl": "bancamiga"
   },
   {
@@ -79,32 +79,32 @@
   },
   {
     "origin": "BNC",
-    "price": "25,00",
-    "stock": "0,95  ▼ 3,66%",
+    "price": "26,15",
+    "stock": "0,20  ▲ 0,77%",
     "imgUrl": "bnc"
   },
   {
     "origin": "Banesco",
-    "price": "26,41",
-    "stock": "0,00  0,00%",
+    "price": "26,59",
+    "stock": "0,17  ▲ 0,66%",
     "imgUrl": "banesco"
   },
   {
     "origin": "BBVA Provincial",
-    "price": "26,00",
-    "stock": "0,00  0,00%",
+    "price": "26,11",
+    "stock": "0,11  ▲ 0,42%",
     "imgUrl": "bbva-provincial"
   },
   {
     "origin": "Mercantil",
-    "price": "26,04",
-    "stock": "0,00  0,00%",
+    "price": "26,16",
+    "stock": "0,12  ▲ 0,45%",
     "imgUrl": "mercantil"
   },
   {
     "origin": "Otras Instituciones",
-    "price": "26,37",
-    "stock": "0,00  0,00%",
+    "price": "26,71",
+    "stock": "0,34  ▲ 1,31%",
     "imgUrl": "otras-instituciones"
   },
   {
@@ -127,8 +127,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "27,65",
-    "stock": "0,14  ▼ 0,50%",
+    "price": "27,57",
+    "stock": "0,22  ▼ 0,79%",
     "imgUrl": "yadio"
   },
   {
@@ -146,13 +146,13 @@
   {
     "origin": "Mkambio",
     "price": "28,55",
-    "stock": "0,05  ▲ 0,18%",
+    "stock": "0,00  0,00%",
     "imgUrl": "mkambio"
   },
   {
     "origin": "Cambios R&A",
     "price": "28,10",
-    "stock": "0,33  ▲ 1,19%",
+    "stock": "1,00  ▲ 3,69%",
     "imgUrl": "cambios-rya"
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "origin": "Amazon Gift Card",
-    "price": "23,90",
-    "stock": "0,00  0,00%",
+    "price": "23,80",
+    "stock": "0,10  ▼ 0,42%",
     "imgUrl": "amazon"
   }
 ]
