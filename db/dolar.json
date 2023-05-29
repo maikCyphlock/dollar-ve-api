@@ -1,14 +1,14 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "27,62",
-    "stock": "0,03  ▼ 0,11%",
+    "price": "27,60",
+    "stock": "0,05  ▼ 0,18%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "27,91",
-    "stock": "0,04  ▼ 0,14%",
+    "price": "27,90",
+    "stock": "0,05  ▼ 0,18%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -32,7 +32,7 @@
   {
     "origin": "BCV",
     "price": "26,27",
-    "stock": "0,14  ▲ 0,54%",
+    "stock": "0,00  ▼ 0,01%",
     "imgUrl": "bcv"
   },
   {
@@ -50,61 +50,43 @@
   {
     "origin": "Bancamiga",
     "price": "26,27",
-    "stock": "0,38  ▲ 1,46%",
+    "stock": "0,00  ▲ 0,02%",
     "imgUrl": "bancamiga"
-  },
-  {
-    "origin": "BanCaribe",
-    "price": "17,26",
-    "stock": "0,00  0,00%",
-    "imgUrl": "bancaribe"
-  },
-  {
-    "origin": "Banco de Venezuela",
-    "price": "24,36",
-    "stock": "0,00  0,00%",
-    "imgUrl": "banco-de-venezuela"
   },
   {
     "origin": "Banco Exterior",
     "price": "26,05",
-    "stock": "0,00  0,00%",
+    "stock": "0,00  ▲ 0,01%",
     "imgUrl": "banco-exterior"
-  },
-  {
-    "origin": "Banplus",
-    "price": "24,56",
-    "stock": "0,00  0,00%",
-    "imgUrl": "banplus"
   },
   {
     "origin": "BNC",
     "price": "26,15",
-    "stock": "0,20  ▲ 0,77%",
+    "stock": "0,00  ▲ 0,01%",
     "imgUrl": "bnc"
   },
   {
     "origin": "Banesco",
     "price": "26,59",
-    "stock": "0,17  ▲ 0,66%",
+    "stock": "0,00  ▲ 0,01%",
     "imgUrl": "banesco"
   },
   {
     "origin": "BBVA Provincial",
     "price": "26,11",
-    "stock": "0,11  ▲ 0,42%",
+    "stock": "0,00  ▲ 0,01%",
     "imgUrl": "bbva-provincial"
   },
   {
     "origin": "Mercantil",
     "price": "26,16",
-    "stock": "0,12  ▲ 0,45%",
+    "stock": "0,00  0,00%",
     "imgUrl": "mercantil"
   },
   {
     "origin": "Otras Instituciones",
     "price": "26,71",
-    "stock": "0,34  ▲ 1,31%",
+    "stock": "0,00  ▼ 0,01%",
     "imgUrl": "otras-instituciones"
   },
   {
@@ -127,8 +109,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "27,20",
-    "stock": "0,27  ▼ 0,98%",
+    "price": "27,06",
+    "stock": "0,41  ▼ 1,49%",
     "imgUrl": "yadio"
   },
   {
