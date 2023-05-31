@@ -1,14 +1,14 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "27,43",
-    "stock": "0,04  ▲ 0,15%",
+    "price": "27,45",
+    "stock": "0,06  ▲ 0,22%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "27,67",
-    "stock": "0,00  0,00%",
+    "price": "27,70",
+    "stock": "0,03  ▲ 0,11%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -31,8 +31,8 @@
   },
   {
     "origin": "BCV",
-    "price": "26,25",
-    "stock": "0,00  0,00%",
+    "price": "26,16",
+    "stock": "0,09  ▼ 0,33%",
     "imgUrl": "bcv"
   },
   {
@@ -49,14 +49,14 @@
   },
   {
     "origin": "Bancamiga",
-    "price": "26,31",
-    "stock": "0,00  0,00%",
+    "price": "25,94",
+    "stock": "0,37  ▼ 1,42%",
     "imgUrl": "bancamiga"
   },
   {
     "origin": "Banco Exterior",
-    "price": "26,05",
-    "stock": "0,00  0,00%",
+    "price": "26,18",
+    "stock": "0,13  ▲ 0,50%",
     "imgUrl": "banco-exterior"
   },
   {
@@ -67,32 +67,32 @@
   },
   {
     "origin": "Banesco",
-    "price": "26,52",
-    "stock": "0,00  0,00%",
+    "price": "26,88",
+    "stock": "0,36  ▲ 1,35%",
     "imgUrl": "banesco"
   },
   {
     "origin": "BBVA Provincial",
-    "price": "26,18",
-    "stock": "0,00  0,00%",
+    "price": "26,16",
+    "stock": "0,02  ▼ 0,06%",
     "imgUrl": "bbva-provincial"
   },
   {
     "origin": "Mercantil",
-    "price": "26,31",
-    "stock": "0,00  0,00%",
+    "price": "26,30",
+    "stock": "0,01  ▼ 0,05%",
     "imgUrl": "mercantil"
   },
   {
     "origin": "Otras Instituciones",
-    "price": "26,90",
-    "stock": "0,00  0,00%",
+    "price": "26,42",
+    "stock": "0,48  ▼ 1,77%",
     "imgUrl": "otras-instituciones"
   },
   {
     "origin": "Binance",
-    "price": "27,86",
-    "stock": "0,23  ▲ 0,83%",
+    "price": "27,90",
+    "stock": "0,27  ▲ 0,98%",
     "imgUrl": "binance"
   },
   {
@@ -109,8 +109,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "27,50",
-    "stock": "0,13  ▲ 0,47%",
+    "price": "27,72",
+    "stock": "0,35  ▲ 1,28%",
     "imgUrl": "yadio"
   },
   {
@@ -157,8 +157,8 @@
   },
   {
     "origin": "Amazon Gift Card",
-    "price": "23,60",
-    "stock": "0,00  0,00%",
+    "price": "23,70",
+    "stock": "0,10  ▲ 0,42%",
     "imgUrl": "amazon"
   }
 ]
