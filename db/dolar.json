@@ -7,8 +7,8 @@
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "27,63",
-    "stock": "0,01  ▼ 0,04%",
+    "price": "27,61",
+    "stock": "0,03  ▼ 0,11%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -31,8 +31,8 @@
   },
   {
     "origin": "BCV",
-    "price": "26,47",
-    "stock": "0,20  ▲ 0,77%",
+    "price": "26,60",
+    "stock": "0,13  ▲ 0,48%",
     "imgUrl": "bcv"
   },
   {
@@ -49,50 +49,50 @@
   },
   {
     "origin": "Bancamiga",
-    "price": "26,13",
-    "stock": "0,05  ▲ 0,19%",
+    "price": "26,18",
+    "stock": "0,05  ▲ 0,18%",
     "imgUrl": "bancamiga"
   },
   {
     "origin": "Banco Exterior",
     "price": "26,90",
-    "stock": "0,72  ▲ 2,75%",
+    "stock": "0,00  0,00%",
     "imgUrl": "banco-exterior"
   },
   {
     "origin": "BNC",
-    "price": "26,33",
-    "stock": "0,00  0,00%",
+    "price": "26,50",
+    "stock": "0,17  ▲ 0,66%",
     "imgUrl": "bnc"
   },
   {
     "origin": "Banesco",
-    "price": "26,87",
-    "stock": "0,33  ▲ 1,24%",
+    "price": "26,97",
+    "stock": "0,10  ▲ 0,39%",
     "imgUrl": "banesco"
   },
   {
     "origin": "BBVA Provincial",
-    "price": "26,31",
-    "stock": "0,15  ▲ 0,57%",
+    "price": "26,62",
+    "stock": "0,31  ▲ 1,16%",
     "imgUrl": "bbva-provincial"
   },
   {
     "origin": "Mercantil",
-    "price": "26,31",
-    "stock": "0,10  ▲ 0,38%",
+    "price": "26,52",
+    "stock": "0,21  ▲ 0,78%",
     "imgUrl": "mercantil"
   },
   {
     "origin": "Otras Instituciones",
-    "price": "26,64",
-    "stock": "0,04  ▲ 0,15%",
+    "price": "26,82",
+    "stock": "0,18  ▲ 0,68%",
     "imgUrl": "otras-instituciones"
   },
   {
     "origin": "Binance",
-    "price": "27,68",
-    "stock": "0,01  ▼ 0,04%",
+    "price": "27,70",
+    "stock": "0,01  ▲ 0,04%",
     "imgUrl": "binance"
   },
   {
@@ -109,8 +109,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "27,55",
-    "stock": "0,05  ▲ 0,18%",
+    "price": "27,53",
+    "stock": "0,03  ▲ 0,11%",
     "imgUrl": "yadio"
   },
   {
@@ -128,7 +128,7 @@
   {
     "origin": "Mkambio",
     "price": "27,60",
-    "stock": "0,07  ▼ 0,25%",
+    "stock": "0,00  0,00%",
     "imgUrl": "mkambio"
   },
   {
