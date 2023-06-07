@@ -1,26 +1,26 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "27,78",
-    "stock": "0,14  ▲ 0,51%",
+    "price": "27,76",
+    "stock": "0,12  ▲ 0,43%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "27,92",
-    "stock": "0,13  ▲ 0,47%",
+    "price": "27,90",
+    "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "EnParaleloVzla",
     "price": "27,99",
-    "stock": "0,20  ▲ 0,72%",
+    "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "Monitor Dolar Vzla",
     "price": "27,18",
-    "stock": "0,13  ▲ 0,48%",
+    "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar-vzla"
   },
   {
@@ -32,13 +32,13 @@
   {
     "origin": "BCV",
     "price": "26,63",
-    "stock": "0,17  ▲ 0,64%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bcv"
   },
   {
     "origin": "Remesas Zoom",
     "price": "26,90",
-    "stock": "0,17  ▲ 0,64%",
+    "stock": "0,00  0,00%",
     "imgUrl": "remesas-zoom"
   },
   {
