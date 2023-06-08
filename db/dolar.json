@@ -1,26 +1,26 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "28,01",
-    "stock": "0,24  ▲ 0,86%",
+    "price": "27,99",
+    "stock": "0,22  ▲ 0,79%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "28,17",
-    "stock": "0,27  ▲ 0,97%",
+    "price": "28,15",
+    "stock": "0,02  ▼ 0,07%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "EnParaleloVzla",
     "price": "28,16",
-    "stock": "0,17  ▲ 0,61%",
+    "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "Monitor Dolar Vzla",
     "price": "27,30",
-    "stock": "0,12  ▲ 0,44%",
+    "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar-vzla"
   },
   {
@@ -32,13 +32,13 @@
   {
     "origin": "BCV",
     "price": "26,70",
-    "stock": "0,07  ▲ 0,26%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bcv"
   },
   {
     "origin": "Remesas Zoom",
     "price": "26,97",
-    "stock": "0,07  ▲ 0,26%",
+    "stock": "0,00  0,00%",
     "imgUrl": "remesas-zoom"
   },
   {
@@ -56,7 +56,7 @@
   {
     "origin": "Banco de Venezuela",
     "price": "26,60",
-    "stock": "0,07  ▲ 0,26%",
+    "stock": "0,00  0,00%",
     "imgUrl": "banco-de-venezuela"
   },
   {
@@ -97,8 +97,8 @@
   },
   {
     "origin": "Binance",
-    "price": "28,36",
-    "stock": "0,32  ▲ 1,14%",
+    "price": "28,27",
+    "stock": "0,23  ▲ 0,82%",
     "imgUrl": "binance"
   },
   {
@@ -121,8 +121,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "28,16",
-    "stock": "0,23  ▲ 0,82%",
+    "price": "27,97",
+    "stock": "0,04  ▲ 0,14%",
     "imgUrl": "yadio"
   },
   {
