@@ -1,20 +1,20 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "28,13",
-    "stock": "0,04  ▼ 0,14%",
+    "price": "28,12",
+    "stock": "0,05  ▼ 0,18%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "28,28",
-    "stock": "0,04  ▼ 0,14%",
+    "price": "28,26",
+    "stock": "0,06  ▼ 0,21%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "EnParaleloVzla",
-    "price": "28,18",
-    "stock": "0,19  ▼ 0,67%",
+    "price": "28,27",
+    "stock": "0,10  ▼ 0,35%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -109,44 +109,44 @@
   },
   {
     "origin": "AirTM",
-    "price": "28,06",
-    "stock": "0,08  ▼ 0,28%",
+    "price": "28,03",
+    "stock": "0,11  ▼ 0,39%",
     "imgUrl": "airtm-v2"
   },
   {
     "origin": "Reserve",
-    "price": "28,62",
-    "stock": "0,19  ▼ 0,66%",
+    "price": "28,75",
+    "stock": "0,06  ▼ 0,21%",
     "imgUrl": "reserve"
   },
   {
     "origin": "Syklo",
-    "price": "28,45",
-    "stock": "0,05  ▼ 0,18%",
+    "price": "28,26",
+    "stock": "0,24  ▼ 0,84%",
     "imgUrl": "syklo"
   },
   {
     "origin": "Yadio",
-    "price": "28,20",
-    "stock": "0,10  ▲ 0,36%",
+    "price": "28,24",
+    "stock": "0,14  ▲ 0,50%",
     "imgUrl": "yadio"
   },
   {
     "origin": "DolarToday",
-    "price": "28,15",
-    "stock": "0,19  ▼ 0,67%",
+    "price": "28,25",
+    "stock": "0,09  ▼ 0,32%",
     "imgUrl": "dolartoday-v2"
   },
   {
     "origin": "DolarToday (BTC)",
-    "price": "28,12",
-    "stock": "0,19  ▼ 0,67%",
+    "price": "28,23",
+    "stock": "0,08  ▼ 0,28%",
     "imgUrl": "dolartoday-btc-v2"
   },
   {
     "origin": "Mkambio",
-    "price": "28,30",
-    "stock": "0,10  ▲ 0,35%",
+    "price": "28,20",
+    "stock": "0,00  0,00%",
     "imgUrl": "mkambio-v2"
   },
   {
