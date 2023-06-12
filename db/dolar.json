@@ -1,26 +1,26 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "28,14",
-    "stock": "0,03  ▼ 0,11%",
+    "price": "28,09",
+    "stock": "0,08  ▼ 0,28%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "28,27",
-    "stock": "0,05  ▼ 0,18%",
+    "price": "28,24",
+    "stock": "0,08  ▼ 0,28%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "EnParaleloVzla",
-    "price": "28,37",
-    "stock": "0,00  0,00%",
+    "price": "28,18",
+    "stock": "0,19  ▼ 0,67%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "Monitor Dolar Vzla",
-    "price": "27,46",
-    "stock": "0,00  0,00%",
+    "price": "27,34",
+    "stock": "0,12  ▼ 0,44%",
     "imgUrl": "monitor-dolar-vzla"
   },
   {
@@ -103,26 +103,26 @@
   },
   {
     "origin": "Binance",
-    "price": "28,09",
-    "stock": "0,18  ▼ 0,64%",
+    "price": "28,03",
+    "stock": "0,24  ▼ 0,85%",
     "imgUrl": "binance"
   },
   {
     "origin": "AirTM",
-    "price": "28,14",
-    "stock": "0,00  0,00%",
+    "price": "28,06",
+    "stock": "0,08  ▼ 0,28%",
     "imgUrl": "airtm-v2"
   },
   {
     "origin": "Reserve",
-    "price": "28,81",
-    "stock": "0,00  0,00%",
+    "price": "28,62",
+    "stock": "0,19  ▼ 0,66%",
     "imgUrl": "reserve"
   },
   {
     "origin": "Syklo",
-    "price": "28,50",
-    "stock": "0,00  0,00%",
+    "price": "28,45",
+    "stock": "0,05  ▼ 0,18%",
     "imgUrl": "syklo"
   },
   {
@@ -133,26 +133,26 @@
   },
   {
     "origin": "DolarToday",
-    "price": "28,34",
-    "stock": "0,00  0,00%",
+    "price": "28,15",
+    "stock": "0,19  ▼ 0,67%",
     "imgUrl": "dolartoday-v2"
   },
   {
     "origin": "DolarToday (BTC)",
-    "price": "28,31",
-    "stock": "0,00  0,00%",
+    "price": "28,12",
+    "stock": "0,19  ▼ 0,67%",
     "imgUrl": "dolartoday-btc-v2"
   },
   {
     "origin": "Mkambio",
-    "price": "28,20",
-    "stock": "0,00  0,00%",
+    "price": "28,30",
+    "stock": "0,10  ▲ 0,35%",
     "imgUrl": "mkambio-v2"
   },
   {
     "origin": "Cambios R&A",
-    "price": "28,25",
-    "stock": "0,00  0,00%",
+    "price": "28,20",
+    "stock": "0,05  ▼ 0,18%",
     "imgUrl": "cambios-rya"
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "origin": "Amazon Gift Card",
-    "price": "24,30",
-    "stock": "0,00  0,00%",
+    "price": "24,20",
+    "stock": "0,10  ▼ 0,41%",
     "imgUrl": "amazon"
   }
 ]
