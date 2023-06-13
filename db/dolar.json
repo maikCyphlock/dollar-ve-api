@@ -1,26 +1,26 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "28,13",
-    "stock": "0,04  ▼ 0,14%",
+    "price": "28,18",
+    "stock": "0,05  ▲ 0,18%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "28,27",
-    "stock": "0,05  ▼ 0,18%",
+    "price": "28,33",
+    "stock": "0,06  ▲ 0,21%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "EnParaleloVzla",
     "price": "28,27",
-    "stock": "0,10  ▼ 0,35%",
+    "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "Monitor Dolar Vzla",
     "price": "27,41",
-    "stock": "0,05  ▼ 0,18%",
+    "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar-vzla"
   },
   {
@@ -103,44 +103,44 @@
   },
   {
     "origin": "Binance",
-    "price": "28,27",
-    "stock": "0,00  0,00%",
+    "price": "28,29",
+    "stock": "0,02  ▲ 0,07%",
     "imgUrl": "binance"
   },
   {
     "origin": "AirTM",
-    "price": "28,03",
-    "stock": "0,11  ▼ 0,39%",
+    "price": "28,15",
+    "stock": "0,12  ▲ 0,43%",
     "imgUrl": "airtm-v2"
   },
   {
     "origin": "Reserve",
-    "price": "28,75",
-    "stock": "0,06  ▼ 0,21%",
+    "price": "28,86",
+    "stock": "0,11  ▲ 0,38%",
     "imgUrl": "reserve"
   },
   {
     "origin": "Syklo",
-    "price": "28,26",
-    "stock": "0,24  ▼ 0,84%",
+    "price": "28,28",
+    "stock": "0,02  ▲ 0,07%",
     "imgUrl": "syklo"
   },
   {
     "origin": "Yadio",
-    "price": "28,19",
-    "stock": "0,09  ▲ 0,32%",
+    "price": "28,34",
+    "stock": "0,18  ▲ 0,64%",
     "imgUrl": "yadio"
   },
   {
     "origin": "DolarToday",
     "price": "28,25",
-    "stock": "0,09  ▼ 0,32%",
+    "stock": "0,00  0,00%",
     "imgUrl": "dolartoday-v2"
   },
   {
     "origin": "DolarToday (BTC)",
     "price": "28,23",
-    "stock": "0,08  ▼ 0,28%",
+    "stock": "0,00  0,00%",
     "imgUrl": "dolartoday-btc-v2"
   },
   {
@@ -152,31 +152,31 @@
   {
     "origin": "Cambios R&A",
     "price": "28,20",
-    "stock": "0,05  ▼ 0,18%",
+    "stock": "0,00  0,00%",
     "imgUrl": "cambios-rya"
   },
   {
     "origin": "PayPal",
-    "price": "24,70",
-    "stock": "0,10  ▼ 0,40%",
+    "price": "24,80",
+    "stock": "0,10  ▲ 0,40%",
     "imgUrl": "paypal"
   },
   {
     "origin": "Zinli",
-    "price": "25,60",
-    "stock": "0,10  ▼ 0,39%",
+    "price": "25,70",
+    "stock": "0,10  ▲ 0,39%",
     "imgUrl": "zinli"
   },
   {
     "origin": "Skrill",
-    "price": "25,60",
-    "stock": "0,10  ▼ 0,39%",
+    "price": "25,70",
+    "stock": "0,10  ▲ 0,39%",
     "imgUrl": "skrill"
   },
   {
     "origin": "Amazon Gift Card",
-    "price": "24,20",
-    "stock": "0,10  ▼ 0,41%",
+    "price": "24,30",
+    "stock": "0,10  ▲ 0,41%",
     "imgUrl": "amazon"
   }
 ]
