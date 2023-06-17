@@ -1,14 +1,14 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "28,11",
-    "stock": "0,05  ▲ 0,18%",
+    "price": "28,07",
+    "stock": "0,01  ▼ 0,04%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "28,22",
-    "stock": "0,04  ▲ 0,14%",
+    "price": "28,18",
+    "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -50,7 +50,7 @@
   {
     "origin": "Bancamiga",
     "price": "27,33",
-    "stock": "0,12  ▲ 0,44%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bancamiga"
   },
   {
@@ -62,7 +62,7 @@
   {
     "origin": "Banco Exterior",
     "price": "27,13",
-    "stock": "0,25  ▲ 0,93%",
+    "stock": "0,00  0,00%",
     "imgUrl": "banco-exterior"
   },
   {
@@ -80,19 +80,19 @@
   {
     "origin": "Banesco",
     "price": "27,60",
-    "stock": "0,50  ▲ 1,85%",
+    "stock": "0,00  0,00%",
     "imgUrl": "banesco"
   },
   {
     "origin": "BBVA Provincial",
     "price": "27,19",
-    "stock": "0,01  ▲ 0,04%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bbva-provincial"
   },
   {
     "origin": "Mercantil",
     "price": "27,23",
-    "stock": "0,07  ▲ 0,26%",
+    "stock": "0,00  0,00%",
     "imgUrl": "mercantil"
   },
   {
@@ -103,8 +103,8 @@
   },
   {
     "origin": "Binance",
-    "price": "28,10",
-    "stock": "0,08  ▲ 0,29%",
+    "price": "28,09",
+    "stock": "0,01  ▲ 0,04%",
     "imgUrl": "binance"
   },
   {
@@ -127,8 +127,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "28,07",
-    "stock": "0,20  ▲ 0,72%",
+    "price": "27,84",
+    "stock": "0,02  ▲ 0,07%",
     "imgUrl": "yadio"
   },
   {
