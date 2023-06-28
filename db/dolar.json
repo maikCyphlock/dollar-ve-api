@@ -1,26 +1,26 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "29,52",
-    "stock": "0,22  ▲ 0,75%",
+    "price": "29,54",
+    "stock": "0,02  ▲ 0,07%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "29,77",
-    "stock": "0,27  ▲ 0,92%",
+    "price": "29,78",
+    "stock": "0,02  ▲ 0,07%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "EnParaleloVzla",
     "price": "29,72",
-    "stock": "0,14  ▲ 0,47%",
+    "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "Monitor Dolar Vzla",
     "price": "28,57",
-    "stock": "0,18  ▲ 0,63%",
+    "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar-vzla"
   },
   {
@@ -31,8 +31,8 @@
   },
   {
     "origin": "BCV",
-    "price": "27,62",
-    "stock": "0,01  ▲ 0,04%",
+    "price": "27,72",
+    "stock": "0,10  ▲ 0,36%",
     "imgUrl": "bcv"
   },
   {
@@ -49,14 +49,14 @@
   },
   {
     "origin": "Bancamiga",
-    "price": "27,64",
-    "stock": "0,05  ▼ 0,18%",
+    "price": "27,79",
+    "stock": "0,15  ▲ 0,54%",
     "imgUrl": "bancamiga"
   },
   {
     "origin": "Banco de Venezuela",
-    "price": "26,60",
-    "stock": "0,00  0,00%",
+    "price": "27,61",
+    "stock": "1,01  ▲ 3,80%",
     "imgUrl": "banco-de-venezuela"
   },
   {
@@ -74,109 +74,109 @@
   {
     "origin": "BNC",
     "price": "27,63",
-    "stock": "0,19  ▼ 0,68%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bnc"
   },
   {
     "origin": "Banesco",
-    "price": "28,12",
-    "stock": "0,19  ▲ 0,68%",
+    "price": "28,00",
+    "stock": "0,12  ▼ 0,43%",
     "imgUrl": "banesco"
   },
   {
     "origin": "BBVA Provincial",
-    "price": "27,63",
-    "stock": "0,09  ▲ 0,33%",
+    "price": "27,65",
+    "stock": "0,02  ▲ 0,07%",
     "imgUrl": "bbva-provincial"
   },
   {
     "origin": "Mercantil",
-    "price": "27,70",
-    "stock": "0,10  ▲ 0,36%",
+    "price": "27,67",
+    "stock": "0,03  ▼ 0,11%",
     "imgUrl": "mercantil"
   },
   {
     "origin": "Otras Instituciones",
-    "price": "27,71",
+    "price": "27,90",
     "stock": "0,00  0,00%",
     "imgUrl": "otras-instituciones"
   },
   {
     "origin": "Binance",
-    "price": "29,70",
-    "stock": "0,02  ▲ 0,07%",
+    "price": "29,76",
+    "stock": "0,06  ▲ 0,20%",
     "imgUrl": "binance"
   },
   {
     "origin": "AirTM",
-    "price": "29,45",
-    "stock": "0,18  ▲ 0,61%",
+    "price": "29,52",
+    "stock": "0,07  ▲ 0,24%",
     "imgUrl": "airtm-v2"
   },
   {
     "origin": "Reserve",
-    "price": "30,19",
-    "stock": "0,18  ▲ 0,60%",
+    "price": "30,25",
+    "stock": "0,06  ▲ 0,20%",
     "imgUrl": "reserve"
   },
   {
     "origin": "Syklo",
-    "price": "29,70",
-    "stock": "0,35  ▲ 1,19%",
+    "price": "29,73",
+    "stock": "0,03  ▲ 0,10%",
     "imgUrl": "syklo"
   },
   {
     "origin": "Yadio",
-    "price": "29,26",
-    "stock": "0,20  ▼ 0,68%",
+    "price": "29,23",
+    "stock": "0,06  ▼ 0,20%",
     "imgUrl": "yadio"
   },
   {
     "origin": "DolarToday",
     "price": "29,70",
-    "stock": "0,15  ▲ 0,51%",
+    "stock": "0,00  0,00%",
     "imgUrl": "dolartoday-v2"
   },
   {
     "origin": "DolarToday (BTC)",
     "price": "29,68",
-    "stock": "0,16  ▲ 0,54%",
+    "stock": "0,00  0,00%",
     "imgUrl": "dolartoday-btc-v2"
   },
   {
     "origin": "Mkambio",
-    "price": "30,30",
-    "stock": "0,72  ▲ 2,43%",
+    "price": "30,15",
+    "stock": "0,15  ▼ 0,50%",
     "imgUrl": "mkambio-v2"
   },
   {
     "origin": "Cambios R&A",
     "price": "29,70",
-    "stock": "0,50  ▲ 1,71%",
+    "stock": "0,00  0,00%",
     "imgUrl": "cambios-rya"
   },
   {
     "origin": "PayPal",
     "price": "26,00",
-    "stock": "0,20  ▲ 0,78%",
+    "stock": "0,10  ▲ 0,39%",
     "imgUrl": "paypal"
   },
   {
     "origin": "Zinli",
     "price": "26,90",
-    "stock": "0,20  ▲ 0,75%",
+    "stock": "0,00  0,00%",
     "imgUrl": "zinli"
   },
   {
     "origin": "Skrill",
     "price": "26,90",
-    "stock": "0,20  ▲ 0,75%",
+    "stock": "0,00  0,00%",
     "imgUrl": "skrill"
   },
   {
     "origin": "Amazon Gift Card",
-    "price": "25,40",
-    "stock": "0,10  ▲ 0,40%",
+    "price": "25,50",
+    "stock": "0,10  ▲ 0,39%",
     "imgUrl": "amazon"
   }
 ]
