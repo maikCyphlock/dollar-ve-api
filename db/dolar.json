@@ -1,26 +1,26 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "29,27",
-    "stock": "0,03  ▼ 0,10%",
+    "price": "29,21",
+    "stock": "0,06  ▼ 0,20%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "29,45",
-    "stock": "0,05  ▼ 0,17%",
+    "price": "29,36",
+    "stock": "0,06  ▼ 0,20%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "EnParaleloVzla",
     "price": "29,43",
-    "stock": "0,30  ▼ 1,01%",
+    "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "Monitor Dolar Vzla",
     "price": "28,14",
-    "stock": "0,50  ▼ 1,75%",
+    "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar-vzla"
   },
   {
@@ -31,26 +31,26 @@
   },
   {
     "origin": "BCV",
-    "price": "27,85",
-    "stock": "0,01  ▲ 0,04%",
+    "price": "28,02",
+    "stock": "0,17  ▲ 0,61%",
     "imgUrl": "bcv"
   },
   {
     "origin": "Remesas Zoom",
     "price": "28,13",
-    "stock": "0,01  ▲ 0,04%",
+    "stock": "0,00  0,00%",
     "imgUrl": "remesas-zoom"
   },
   {
     "origin": "Italcambio",
     "price": "28,13",
-    "stock": "0,01  ▲ 0,04%",
+    "stock": "0,00  0,00%",
     "imgUrl": "italcambio"
   },
   {
     "origin": "Bancamiga",
-    "price": "27,77",
-    "stock": "0,12  ▼ 0,43%",
+    "price": "28,46",
+    "stock": "0,69  ▲ 2,48%",
     "imgUrl": "bancamiga"
   },
   {
@@ -73,68 +73,68 @@
   },
   {
     "origin": "BNC",
-    "price": "27,84",
-    "stock": "0,05  ▲ 0,18%",
+    "price": "28,14",
+    "stock": "0,30  ▲ 1,08%",
     "imgUrl": "bnc"
   },
   {
     "origin": "Banesco",
-    "price": "28,37",
-    "stock": "0,37  ▲ 1,32%",
+    "price": "28,15",
+    "stock": "0,22  ▼ 0,78%",
     "imgUrl": "banesco"
   },
   {
     "origin": "BBVA Provincial",
-    "price": "27,78",
-    "stock": "0,07  ▲ 0,25%",
+    "price": "28,01",
+    "stock": "0,23  ▲ 0,83%",
     "imgUrl": "bbva-provincial"
   },
   {
     "origin": "Mercantil",
-    "price": "27,79",
-    "stock": "0,02  ▲ 0,07%",
+    "price": "27,99",
+    "stock": "0,20  ▲ 0,72%",
     "imgUrl": "mercantil"
   },
   {
     "origin": "Otras Instituciones",
-    "price": "28,15",
+    "price": "28,25",
     "stock": "0,00  0,00%",
     "imgUrl": "otras-instituciones"
   },
   {
     "origin": "Binance",
-    "price": "29,20",
-    "stock": "0,28  ▼ 0,95%",
+    "price": "29,09",
+    "stock": "0,09  ▼ 0,31%",
     "imgUrl": "binance"
   },
   {
     "origin": "AirTM",
     "price": "29,32",
-    "stock": "0,14  ▲ 0,48%",
+    "stock": "0,00  0,00%",
     "imgUrl": "airtm-v2"
   },
   {
     "origin": "Reserve",
     "price": "29,89",
-    "stock": "0,04  ▲ 0,13%",
+    "stock": "0,00  0,00%",
     "imgUrl": "reserve"
   },
   {
     "origin": "Syklo",
     "price": "29,76",
-    "stock": "0,03  ▼ 0,10%",
+    "stock": "0,00  0,00%",
     "imgUrl": "syklo"
   },
   {
     "origin": "Yadio",
-    "price": "28,89",
-    "stock": "0,22  ▼ 0,76%",
+    "price": "28,44",
+    "stock": "0,47  ▼ 1,63%",
     "imgUrl": "yadio"
   },
   {
     "origin": "DolarToday",
     "price": "29,40",
-    "stock": "0,01  ▲ 0,03%",
+    "stock": "0,00  0,00%",
     "imgUrl": "dolartoday-v2"
   },
   {
@@ -146,37 +146,37 @@
   {
     "origin": "Mkambio",
     "price": "29,40",
-    "stock": "0,30  ▼ 1,01%",
+    "stock": "0,00  0,00%",
     "imgUrl": "mkambio-v2"
   },
   {
     "origin": "Cambios R&A",
     "price": "29,50",
-    "stock": "0,10  ▲ 0,34%",
+    "stock": "0,00  0,00%",
     "imgUrl": "cambios-rya"
   },
   {
     "origin": "PayPal",
     "price": "25,70",
-    "stock": "0,10  ▼ 0,39%",
+    "stock": "0,00  0,00%",
     "imgUrl": "paypal"
   },
   {
     "origin": "Zinli",
-    "price": "26,70",
-    "stock": "0,00  0,00%",
+    "price": "26,60",
+    "stock": "0,10  ▼ 0,37%",
     "imgUrl": "zinli"
   },
   {
     "origin": "Skrill",
-    "price": "26,70",
-    "stock": "0,00  0,00%",
+    "price": "26,60",
+    "stock": "0,10  ▼ 0,37%",
     "imgUrl": "skrill"
   },
   {
     "origin": "Amazon Gift Card",
     "price": "25,20",
-    "stock": "0,10  ▼ 0,40%",
+    "stock": "0,00  0,00%",
     "imgUrl": "amazon"
   }
 ]
