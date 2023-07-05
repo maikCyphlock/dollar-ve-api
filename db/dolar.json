@@ -37,14 +37,14 @@
   },
   {
     "origin": "Remesas Zoom",
-    "price": "28,30",
-    "stock": "0,00  0,00%",
+    "price": "28,45",
+    "stock": "0,15  ▲ 0,53%",
     "imgUrl": "remesas-zoom"
   },
   {
     "origin": "Italcambio",
-    "price": "28,30",
-    "stock": "0,00  0,00%",
+    "price": "28,45",
+    "stock": "0,15  ▲ 0,53%",
     "imgUrl": "italcambio"
   },
   {
@@ -103,8 +103,8 @@
   },
   {
     "origin": "Binance",
-    "price": "29,74",
-    "stock": "0,15  ▲ 0,51%",
+    "price": "29,77",
+    "stock": "0,18  ▲ 0,61%",
     "imgUrl": "binance"
   },
   {
@@ -127,8 +127,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "29,42",
-    "stock": "0,15  ▲ 0,51%",
+    "price": "29,20",
+    "stock": "0,07  ▼ 0,24%",
     "imgUrl": "yadio"
   },
   {
