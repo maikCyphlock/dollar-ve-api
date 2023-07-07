@@ -1,14 +1,14 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "29,41",
-    "stock": "0,10  ▲ 0,34%",
+    "price": "29,43",
+    "stock": "0,12  ▲ 0,41%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "29,57",
-    "stock": "0,10  ▲ 0,34%",
+    "price": "29,59",
+    "stock": "0,12  ▲ 0,41%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -127,8 +127,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "29,44",
-    "stock": "0,06  ▲ 0,20%",
+    "price": "29,87",
+    "stock": "0,49  ▲ 1,67%",
     "imgUrl": "yadio"
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "origin": "Amazon Gift Card",
-    "price": "25,30",
-    "stock": "0,00  0,00%",
+    "price": "25,40",
+    "stock": "0,10  ▲ 0,40%",
     "imgUrl": "amazon"
   }
 ]
