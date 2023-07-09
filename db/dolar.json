@@ -1,13 +1,13 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "29,47",
-    "stock": "0,02  ▼ 0,07%",
+    "price": "29,45",
+    "stock": "0,01  ▼ 0,03%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "29,61",
+    "price": "29,59",
     "stock": "0,02  ▼ 0,07%",
     "imgUrl": "monitor-dolar"
   },
@@ -32,25 +32,25 @@
   {
     "origin": "BCV",
     "price": "28,30",
-    "stock": "0,02  ▲ 0,07%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bcv"
   },
   {
     "origin": "Remesas Zoom",
     "price": "28,59",
-    "stock": "0,03  ▲ 0,11%",
+    "stock": "0,00  0,00%",
     "imgUrl": "remesas-zoom"
   },
   {
     "origin": "Italcambio",
     "price": "28,59",
-    "stock": "0,03  ▲ 0,11%",
+    "stock": "0,00  0,00%",
     "imgUrl": "italcambio"
   },
   {
     "origin": "Bancamiga",
     "price": "28,32",
-    "stock": "0,03  ▲ 0,11%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bancamiga"
   },
   {
@@ -74,25 +74,25 @@
   {
     "origin": "BNC",
     "price": "28,15",
-    "stock": "0,06  ▼ 0,21%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bnc"
   },
   {
     "origin": "Banesco",
     "price": "28,54",
-    "stock": "0,13  ▼ 0,45%",
+    "stock": "0,00  0,00%",
     "imgUrl": "banesco"
   },
   {
     "origin": "BBVA Provincial",
     "price": "28,19",
-    "stock": "0,18  ▲ 0,64%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bbva-provincial"
   },
   {
     "origin": "Mercantil",
     "price": "28,34",
-    "stock": "0,13  ▲ 0,46%",
+    "stock": "0,00  0,00%",
     "imgUrl": "mercantil"
   },
   {
@@ -103,8 +103,8 @@
   },
   {
     "origin": "Binance",
-    "price": "29,67",
-    "stock": "0,01  ▲ 0,03%",
+    "price": "29,69",
+    "stock": "0,03  ▲ 0,10%",
     "imgUrl": "binance"
   },
   {
@@ -127,8 +127,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "29,48",
-    "stock": "0,20  ▼ 0,67%",
+    "price": "29,34",
+    "stock": "0,20  ▼ 0,68%",
     "imgUrl": "yadio"
   },
   {
@@ -163,14 +163,14 @@
   },
   {
     "origin": "Zinli",
-    "price": "26,90",
-    "stock": "0,00  0,00%",
+    "price": "26,80",
+    "stock": "0,10  ▼ 0,37%",
     "imgUrl": "zinli"
   },
   {
     "origin": "Skrill",
-    "price": "26,90",
-    "stock": "0,00  0,00%",
+    "price": "26,80",
+    "stock": "0,10  ▼ 0,37%",
     "imgUrl": "skrill"
   },
   {
