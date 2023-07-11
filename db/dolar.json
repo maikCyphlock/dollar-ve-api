@@ -1,8 +1,8 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "29,64",
-    "stock": "0,05  ▲ 0,17%",
+    "price": "29,65",
+    "stock": "0,06  ▲ 0,20%",
     "imgUrl": "exchangemonitor"
   },
   {
@@ -121,8 +121,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "29,54",
-    "stock": "0,00  0,00%",
+    "price": "29,46",
+    "stock": "0,08  ▼ 0,27%",
     "imgUrl": "yadio"
   },
   {
@@ -169,8 +169,8 @@
   },
   {
     "origin": "Amazon Gift Card",
-    "price": "25,50",
-    "stock": "0,00  0,00%",
+    "price": "25,60",
+    "stock": "0,10  ▲ 0,39%",
     "imgUrl": "amazon"
   }
 ]
