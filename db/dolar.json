@@ -1,14 +1,14 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "30,37",
-    "stock": "0,20  ▲ 0,66%",
+    "price": "30,38",
+    "stock": "0,21  ▲ 0,70%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "30,60",
-    "stock": "0,21  ▲ 0,69%",
+    "price": "30,62",
+    "stock": "0,23  ▲ 0,76%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -110,37 +110,37 @@
   {
     "origin": "Reserve",
     "price": "31,16",
-    "stock": "0,66  ▲ 2,16%",
+    "stock": "0,00  0,00%",
     "imgUrl": "reserve"
   },
   {
     "origin": "Syklo",
     "price": "30,65",
-    "stock": "0,68  ▲ 2,27%",
+    "stock": "0,00  0,00%",
     "imgUrl": "syklo"
   },
   {
     "origin": "Yadio",
-    "price": "29,86",
-    "stock": "0,08  ▼ 0,27%",
+    "price": "29,97",
+    "stock": "0,06  ▼ 0,20%",
     "imgUrl": "yadio"
   },
   {
     "origin": "DolarToday",
     "price": "30,64",
-    "stock": "0,51  ▲ 1,69%",
+    "stock": "0,00  0,00%",
     "imgUrl": "dolartoday-v2"
   },
   {
     "origin": "DolarToday (BTC)",
     "price": "30,61",
-    "stock": "0,51  ▲ 1,69%",
+    "stock": "0,00  0,00%",
     "imgUrl": "dolartoday-btc-v2"
   },
   {
     "origin": "Mkambio",
     "price": "30,95",
-    "stock": "0,96  ▲ 3,20%",
+    "stock": "0,00  0,00%",
     "imgUrl": "mkambio-v2"
   },
   {
