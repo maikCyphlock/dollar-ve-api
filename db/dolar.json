@@ -1,26 +1,26 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "30,26",
-    "stock": "0,09  ▼ 0,30%",
+    "price": "30,34",
+    "stock": "0,08  ▲ 0,26%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "30,46",
-    "stock": "0,10  ▼ 0,33%",
+    "price": "30,55",
+    "stock": "0,09  ▲ 0,30%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "EnParaleloVzla",
     "price": "30,46",
-    "stock": "0,14  ▼ 0,46%",
+    "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "Monitor Dolar Vzla",
     "price": "29,06",
-    "stock": "0,02  ▼ 0,07%",
+    "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar-vzla"
   },
   {
@@ -31,8 +31,8 @@
   },
   {
     "origin": "BCV",
-    "price": "28,61",
-    "stock": "0,00  0,00%",
+    "price": "28,67",
+    "stock": "0,06  ▲ 0,21%",
     "imgUrl": "bcv"
   },
   {
@@ -49,8 +49,8 @@
   },
   {
     "origin": "Bancamiga",
-    "price": "28,43",
-    "stock": "0,00  0,00%",
+    "price": "28,78",
+    "stock": "0,35  ▲ 1,23%",
     "imgUrl": "bancamiga"
   },
   {
@@ -61,8 +61,8 @@
   },
   {
     "origin": "Banco Exterior",
-    "price": "28,26",
-    "stock": "0,00  0,00%",
+    "price": "28,52",
+    "stock": "0,26  ▲ 0,92%",
     "imgUrl": "banco-exterior"
   },
   {
@@ -73,104 +73,104 @@
   },
   {
     "origin": "Banesco",
-    "price": "28,52",
-    "stock": "0,00  0,00%",
+    "price": "28,94",
+    "stock": "0,42  ▲ 1,47%",
     "imgUrl": "banesco"
   },
   {
     "origin": "BBVA Provincial",
-    "price": "28,88",
-    "stock": "0,00  0,00%",
+    "price": "29,01",
+    "stock": "0,13  ▲ 0,45%",
     "imgUrl": "bbva-provincial"
   },
   {
     "origin": "Mercantil",
-    "price": "28,88",
-    "stock": "0,00  0,00%",
+    "price": "28,66",
+    "stock": "0,22  ▼ 0,76%",
     "imgUrl": "mercantil"
   },
   {
     "origin": "Otras Instituciones",
-    "price": "28,71",
+    "price": "28,83",
     "stock": "0,00  0,00%",
     "imgUrl": "otras-instituciones"
   },
   {
     "origin": "Binance",
-    "price": "30,53",
-    "stock": "0,15  ▲ 0,49%",
+    "price": "30,58",
+    "stock": "0,04  ▲ 0,13%",
     "imgUrl": "binance"
   },
   {
     "origin": "AirTM",
-    "price": "30,19",
-    "stock": "0,19  ▼ 0,63%",
+    "price": "30,38",
+    "stock": "0,19  ▲ 0,63%",
     "imgUrl": "airtm-v2"
   },
   {
     "origin": "Reserve",
-    "price": "30,83",
-    "stock": "0,33  ▼ 1,06%",
+    "price": "31,11",
+    "stock": "0,28  ▲ 0,91%",
     "imgUrl": "reserve"
   },
   {
     "origin": "Syklo",
-    "price": "30,45",
-    "stock": "0,20  ▼ 0,65%",
+    "price": "30,40",
+    "stock": "0,05  ▼ 0,16%",
     "imgUrl": "syklo"
   },
   {
     "origin": "Yadio",
-    "price": "30,26",
-    "stock": "0,60  ▲ 2,02%",
+    "price": "30,35",
+    "stock": "0,09  ▲ 0,30%",
     "imgUrl": "yadio"
   },
   {
     "origin": "DolarToday",
     "price": "30,52",
-    "stock": "0,12  ▼ 0,39%",
+    "stock": "0,00  0,00%",
     "imgUrl": "dolartoday-v2"
   },
   {
     "origin": "DolarToday (BTC)",
     "price": "30,49",
-    "stock": "0,12  ▼ 0,39%",
+    "stock": "0,00  0,00%",
     "imgUrl": "dolartoday-btc-v2"
   },
   {
     "origin": "Mkambio",
     "price": "30,60",
-    "stock": "0,35  ▼ 1,13%",
+    "stock": "0,00  0,00%",
     "imgUrl": "mkambio-v2"
   },
   {
     "origin": "Cambios R&A",
     "price": "30,33",
-    "stock": "0,44  ▼ 1,43%",
+    "stock": "0,00  0,00%",
     "imgUrl": "cambios-rya"
   },
   {
     "origin": "PayPal",
-    "price": "26,60",
-    "stock": "0,10  ▼ 0,37%",
+    "price": "26,70",
+    "stock": "0,10  ▲ 0,38%",
     "imgUrl": "paypal"
   },
   {
     "origin": "Zinli",
     "price": "27,60",
-    "stock": "0,10  ▼ 0,36%",
+    "stock": "0,00  0,00%",
     "imgUrl": "zinli"
   },
   {
     "origin": "Skrill",
     "price": "27,60",
-    "stock": "0,10  ▼ 0,36%",
+    "stock": "0,00  0,00%",
     "imgUrl": "skrill"
   },
   {
     "origin": "Amazon Gift Card",
     "price": "26,10",
-    "stock": "0,10  ▼ 0,38%",
+    "stock": "0,00  0,00%",
     "imgUrl": "amazon"
   }
 ]
