@@ -1,8 +1,8 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "30,69",
-    "stock": "0,09  ▲ 0,29%",
+    "price": "30,72",
+    "stock": "0,12  ▲ 0,39%",
     "imgUrl": "exchangemonitor"
   },
   {
@@ -127,8 +127,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "30,64",
-    "stock": "0,22  ▼ 0,71%",
+    "price": "30,45",
+    "stock": "0,41  ▼ 1,33%",
     "imgUrl": "yadio"
   },
   {
@@ -151,8 +151,8 @@
   },
   {
     "origin": "Cambios R&A",
-    "price": "30,70",
-    "stock": "0,00  0,00%",
+    "price": "31,01",
+    "stock": "0,31  ▲ 1,01%",
     "imgUrl": "cambios-rya"
   },
   {
