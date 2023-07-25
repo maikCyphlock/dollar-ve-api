@@ -1,14 +1,14 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "31,21",
-    "stock": "0,09  ▲ 0,29%",
+    "price": "31,17",
+    "stock": "0,03  ▼ 0,10%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "31,48",
-    "stock": "0,11  ▲ 0,35%",
+    "price": "31,43",
+    "stock": "0,04  ▼ 0,13%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -103,56 +103,56 @@
   },
   {
     "origin": "Binance",
-    "price": "31,37",
-    "stock": "0,13  ▼ 0,41%",
+    "price": "31,35",
+    "stock": "0,00  0,00%",
     "imgUrl": "binance"
   },
   {
     "origin": "AirTM",
-    "price": "31,22",
-    "stock": "0,06  ▲ 0,19%",
+    "price": "31,21",
+    "stock": "0,01  ▼ 0,03%",
     "imgUrl": "airtm-v2"
   },
   {
     "origin": "Reserve",
-    "price": "32,05",
-    "stock": "0,09  ▲ 0,28%",
+    "price": "31,89",
+    "stock": "0,16  ▼ 0,50%",
     "imgUrl": "reserve"
   },
   {
     "origin": "Syklo",
-    "price": "31,50",
-    "stock": "0,26  ▲ 0,83%",
+    "price": "31,45",
+    "stock": "0,05  ▼ 0,16%",
     "imgUrl": "syklo"
   },
   {
     "origin": "Yadio",
-    "price": "30,80",
-    "stock": "0,20  ▼ 0,65%",
+    "price": "30,79",
+    "stock": "0,03  ▲ 0,10%",
     "imgUrl": "yadio"
   },
   {
     "origin": "DolarToday",
     "price": "31,41",
-    "stock": "0,01  ▲ 0,03%",
+    "stock": "0,00  0,00%",
     "imgUrl": "dolartoday-v2"
   },
   {
     "origin": "DolarToday (BTC)",
     "price": "31,38",
-    "stock": "0,01  ▲ 0,03%",
+    "stock": "0,00  0,00%",
     "imgUrl": "dolartoday-btc-v2"
   },
   {
     "origin": "Mkambio",
     "price": "32,00",
-    "stock": "0,40  ▲ 1,27%",
+    "stock": "0,00  0,00%",
     "imgUrl": "mkambio-v2"
   },
   {
     "origin": "Cambios R&A",
     "price": "31,40",
-    "stock": "0,25  ▲ 0,80%",
+    "stock": "0,00  0,00%",
     "imgUrl": "cambios-rya"
   },
   {
@@ -176,7 +176,7 @@
   {
     "origin": "Amazon Gift Card",
     "price": "26,90",
-    "stock": "0,10  ▲ 0,37%",
+    "stock": "0,00  0,00%",
     "imgUrl": "amazon"
   }
 ]
