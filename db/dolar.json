@@ -1,20 +1,20 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "31,20",
-    "stock": "0,00  0,00%",
+    "price": "31,15",
+    "stock": "0,05  ▼ 0,16%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "31,47",
-    "stock": "0,00  0,00%",
+    "price": "31,42",
+    "stock": "0,05  ▼ 0,16%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "EnParaleloVzla",
-    "price": "31,46",
-    "stock": "0,00  0,00%",
+    "price": "31,29",
+    "stock": "0,17  ▼ 0,54%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -103,32 +103,32 @@
   },
   {
     "origin": "Binance",
-    "price": "31,27",
-    "stock": "0,08  ▼ 0,26%",
+    "price": "31,21",
+    "stock": "0,14  ▼ 0,45%",
     "imgUrl": "binance"
   },
   {
     "origin": "AirTM",
-    "price": "31,21",
-    "stock": "0,01  ▼ 0,03%",
+    "price": "31,17",
+    "stock": "0,05  ▼ 0,16%",
     "imgUrl": "airtm-v2"
   },
   {
     "origin": "Reserve",
-    "price": "31,89",
-    "stock": "0,16  ▼ 0,50%",
+    "price": "31,82",
+    "stock": "0,23  ▼ 0,72%",
     "imgUrl": "reserve"
   },
   {
     "origin": "Syklo",
-    "price": "31,45",
-    "stock": "0,05  ▼ 0,16%",
+    "price": "31,43",
+    "stock": "0,07  ▼ 0,22%",
     "imgUrl": "syklo"
   },
   {
     "origin": "Yadio",
-    "price": "30,94",
-    "stock": "0,18  ▲ 0,59%",
+    "price": "30,72",
+    "stock": "0,04  ▼ 0,13%",
     "imgUrl": "yadio"
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "origin": "Amazon Gift Card",
-    "price": "26,90",
-    "stock": "0,00  0,00%",
+    "price": "26,80",
+    "stock": "0,10  ▼ 0,37%",
     "imgUrl": "amazon"
   }
 ]
