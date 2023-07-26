@@ -103,8 +103,8 @@
   },
   {
     "origin": "Binance",
-    "price": "31,42",
-    "stock": "0,01  ▼ 0,03%",
+    "price": "31,37",
+    "stock": "0,06  ▼ 0,19%",
     "imgUrl": "binance"
   },
   {
@@ -115,44 +115,44 @@
   },
   {
     "origin": "Reserve",
-    "price": "31,96",
-    "stock": "0,02  ▼ 0,06%",
+    "price": "31,97",
+    "stock": "0,01  ▼ 0,03%",
     "imgUrl": "reserve"
   },
   {
     "origin": "Syklo",
-    "price": "31,61",
-    "stock": "0,33  ▲ 1,05%",
+    "price": "31,56",
+    "stock": "0,28  ▲ 0,90%",
     "imgUrl": "syklo"
   },
   {
     "origin": "Yadio",
-    "price": "31,11",
-    "stock": "0,05  ▼ 0,16%",
+    "price": "31,09",
+    "stock": "0,07  ▼ 0,22%",
     "imgUrl": "yadio"
   },
   {
     "origin": "DolarToday",
-    "price": "31,49",
-    "stock": "0,11  ▲ 0,35%",
+    "price": "31,46",
+    "stock": "0,08  ▲ 0,25%",
     "imgUrl": "dolartoday-v2"
   },
   {
     "origin": "DolarToday (BTC)",
-    "price": "31,46",
-    "stock": "0,11  ▲ 0,35%",
+    "price": "31,43",
+    "stock": "0,08  ▲ 0,26%",
     "imgUrl": "dolartoday-btc-v2"
   },
   {
     "origin": "Mkambio",
-    "price": "31,35",
-    "stock": "0,00  0,00%",
+    "price": "31,40",
+    "stock": "0,05  ▲ 0,16%",
     "imgUrl": "mkambio-v2"
   },
   {
     "origin": "Cambios R&A",
-    "price": "31,44",
-    "stock": "0,04  ▲ 0,13%",
+    "price": "31,38",
+    "stock": "0,02  ▼ 0,06%",
     "imgUrl": "cambios-rya"
   },
   {
