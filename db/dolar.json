@@ -1,8 +1,8 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "31,95",
-    "stock": "0,24  ▲ 0,76%",
+    "price": "31,94",
+    "stock": "0,23  ▲ 0,73%",
     "imgUrl": "exchangemonitor"
   },
   {
@@ -103,8 +103,8 @@
   },
   {
     "origin": "Binance",
-    "price": "32,20",
-    "stock": "0,42  ▲ 1,32%",
+    "price": "32,29",
+    "stock": "0,51  ▲ 1,60%",
     "imgUrl": "binance"
   },
   {
@@ -127,20 +127,20 @@
   },
   {
     "origin": "Yadio",
-    "price": "32,12",
-    "stock": "0,40  ▲ 1,26%",
+    "price": "32,05",
+    "stock": "0,33  ▲ 1,04%",
     "imgUrl": "yadio"
   },
   {
     "origin": "DolarToday",
-    "price": "32,36",
-    "stock": "0,78  ▲ 2,47%",
+    "price": "32,33",
+    "stock": "0,75  ▲ 2,37%",
     "imgUrl": "dolartoday-v2"
   },
   {
     "origin": "DolarToday (BTC)",
-    "price": "31,92",
-    "stock": "0,37  ▲ 1,17%",
+    "price": "32,30",
+    "stock": "0,75  ▲ 2,38%",
     "imgUrl": "dolartoday-btc-v2"
   },
   {
