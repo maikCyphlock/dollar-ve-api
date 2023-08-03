@@ -1,14 +1,14 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "32,33",
-    "stock": "0,30  ▲ 0,94%",
+    "price": "32,34",
+    "stock": "0,31  ▲ 0,97%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "32,56",
-    "stock": "0,23  ▲ 0,71%",
+    "price": "32,57",
+    "stock": "0,24  ▲ 0,74%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -103,8 +103,8 @@
   },
   {
     "origin": "Binance",
-    "price": "33,48",
-    "stock": "0,78  ▲ 2,39%",
+    "price": "33,53",
+    "stock": "0,83  ▲ 2,54%",
     "imgUrl": "binance"
   },
   {
@@ -127,8 +127,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "32,48",
-    "stock": "0,32  ▲ 1,00%",
+    "price": "32,47",
+    "stock": "0,31  ▲ 0,96%",
     "imgUrl": "yadio"
   },
   {
