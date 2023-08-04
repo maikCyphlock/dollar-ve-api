@@ -1,8 +1,8 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "32,41",
-    "stock": "0,02  ▼ 0,06%",
+    "price": "32,45",
+    "stock": "0,02  ▲ 0,06%",
     "imgUrl": "exchangemonitor"
   },
   {
@@ -31,8 +31,8 @@
   },
   {
     "origin": "BCV",
-    "price": "29,76",
-    "stock": "0,00  0,00%",
+    "price": "30,10",
+    "stock": "0,34  ▲ 1,14%",
     "imgUrl": "bcv"
   },
   {
@@ -49,8 +49,8 @@
   },
   {
     "origin": "Bancamiga",
-    "price": "29,59",
-    "stock": "0,00  0,00%",
+    "price": "29,83",
+    "stock": "0,24  ▲ 0,81%",
     "imgUrl": "bancamiga"
   },
   {
@@ -61,8 +61,8 @@
   },
   {
     "origin": "Banco Exterior",
-    "price": "29,95",
-    "stock": "0,00  0,00%",
+    "price": "29,57",
+    "stock": "0,38  ▼ 1,27%",
     "imgUrl": "banco-exterior"
   },
   {
@@ -79,20 +79,20 @@
   },
   {
     "origin": "Banesco",
-    "price": "29,61",
-    "stock": "0,00  0,00%",
+    "price": "30,49",
+    "stock": "0,88  ▲ 2,97%",
     "imgUrl": "banesco"
   },
   {
     "origin": "BBVA Provincial",
-    "price": "29,78",
-    "stock": "0,00  0,00%",
+    "price": "30,04",
+    "stock": "0,26  ▲ 0,87%",
     "imgUrl": "bbva-provincial"
   },
   {
     "origin": "Mercantil",
-    "price": "29,94",
-    "stock": "0,00  0,00%",
+    "price": "30,08",
+    "stock": "0,14  ▲ 0,47%",
     "imgUrl": "mercantil"
   },
   {
@@ -103,8 +103,8 @@
   },
   {
     "origin": "Binance",
-    "price": "33,61",
-    "stock": "0,02  ▼ 0,06%",
+    "price": "33,70",
+    "stock": "0,07  ▲ 0,21%",
     "imgUrl": "binance"
   },
   {
@@ -163,20 +163,20 @@
   },
   {
     "origin": "Zinli",
-    "price": "29,50",
-    "stock": "0,10  ▼ 0,34%",
+    "price": "29,60",
+    "stock": "0,00  0,00%",
     "imgUrl": "zinli"
   },
   {
     "origin": "Skrill",
-    "price": "29,50",
-    "stock": "0,10  ▼ 0,34%",
+    "price": "29,60",
+    "stock": "0,00  0,00%",
     "imgUrl": "skrill"
   },
   {
     "origin": "Amazon Gift Card",
-    "price": "27,90",
-    "stock": "0,10  ▼ 0,36%",
+    "price": "28,00",
+    "stock": "0,00  0,00%",
     "imgUrl": "amazon"
   }
 ]
