@@ -1,8 +1,8 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "32,58",
-    "stock": "0,08  ▲ 0,25%",
+    "price": "32,59",
+    "stock": "0,09  ▲ 0,28%",
     "imgUrl": "exchangemonitor"
   },
   {
@@ -13,14 +13,14 @@
   },
   {
     "origin": "EnParaleloVzla",
-    "price": "33,20",
-    "stock": "0,11  ▲ 0,33%",
+    "price": "33,35",
+    "stock": "0,26  ▲ 0,79%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "Monitor Dolar Vzla",
-    "price": "31,12",
-    "stock": "1,37  ▲ 4,61%",
+    "price": "31,15",
+    "stock": "1,40  ▲ 4,71%",
     "imgUrl": "monitor-dolar-vzla"
   },
   {
@@ -103,8 +103,8 @@
   },
   {
     "origin": "Binance",
-    "price": "33,35",
-    "stock": "0,14  ▲ 0,42%",
+    "price": "33,30",
+    "stock": "0,09  ▲ 0,27%",
     "imgUrl": "binance"
   },
   {
@@ -127,8 +127,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "32,93",
-    "stock": "0,06  ▼ 0,18%",
+    "price": "32,90",
+    "stock": "0,09  ▼ 0,27%",
     "imgUrl": "yadio"
   },
   {
@@ -157,8 +157,8 @@
   },
   {
     "origin": "PayPal",
-    "price": "28,60",
-    "stock": "0,00  0,00%",
+    "price": "28,70",
+    "stock": "0,10  ▲ 0,35%",
     "imgUrl": "paypal"
   },
   {
