@@ -1,14 +1,14 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "32,57",
-    "stock": "0,02  ▼ 0,06%",
+    "price": "32,59",
+    "stock": "0,01  ▲ 0,03%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "32,60",
-    "stock": "0,06  ▼ 0,18%",
+    "price": "32,64",
+    "stock": "0,02  ▲ 0,06%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -32,25 +32,25 @@
   {
     "origin": "BCV",
     "price": "31,53",
-    "stock": "0,17  ▲ 0,54%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bcv"
   },
   {
     "origin": "Remesas Zoom",
     "price": "31,84",
-    "stock": "0,17  ▲ 0,54%",
+    "stock": "0,00  0,00%",
     "imgUrl": "remesas-zoom"
   },
   {
     "origin": "Italcambio",
     "price": "31,84",
-    "stock": "0,17  ▲ 0,54%",
+    "stock": "0,00  0,00%",
     "imgUrl": "italcambio"
   },
   {
     "origin": "Bancamiga",
     "price": "31,60",
-    "stock": "0,29  ▲ 0,93%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bancamiga"
   },
   {
@@ -62,7 +62,7 @@
   {
     "origin": "Banco Exterior",
     "price": "31,58",
-    "stock": "0,34  ▲ 1,09%",
+    "stock": "0,00  0,00%",
     "imgUrl": "banco-exterior"
   },
   {
@@ -74,19 +74,19 @@
   {
     "origin": "BNC",
     "price": "31,53",
-    "stock": "0,51  ▲ 1,64%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bnc"
   },
   {
     "origin": "Banesco",
     "price": "31,72",
-    "stock": "0,18  ▲ 0,57%",
+    "stock": "0,00  0,00%",
     "imgUrl": "banesco"
   },
   {
     "origin": "BBVA Provincial",
     "price": "31,37",
-    "stock": "0,17  ▲ 0,54%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bbva-provincial"
   },
   {
@@ -103,8 +103,8 @@
   },
   {
     "origin": "Binance",
-    "price": "33,14",
-    "stock": "0,06  ▼ 0,18%",
+    "price": "33,16",
+    "stock": "0,02  ▲ 0,06%",
     "imgUrl": "binance"
   },
   {
@@ -127,8 +127,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "32,68",
-    "stock": "0,37  ▼ 1,12%",
+    "price": "32,73",
+    "stock": "0,11  ▼ 0,33%",
     "imgUrl": "yadio"
   },
   {
@@ -157,8 +157,8 @@
   },
   {
     "origin": "PayPal",
-    "price": "28,60",
-    "stock": "0,10  ▼ 0,35%",
+    "price": "28,70",
+    "stock": "0,10  ▲ 0,35%",
     "imgUrl": "paypal"
   },
   {
