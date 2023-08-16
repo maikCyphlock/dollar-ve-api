@@ -1,14 +1,14 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "32,49",
-    "stock": "0,14  ▲ 0,43%",
+    "price": "32,47",
+    "stock": "0,12  ▲ 0,37%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "32,53",
-    "stock": "0,12  ▲ 0,37%",
+    "price": "32,51",
+    "stock": "0,10  ▲ 0,31%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -103,8 +103,8 @@
   },
   {
     "origin": "Binance",
-    "price": "33,03",
-    "stock": "0,32  ▲ 0,98%",
+    "price": "32,99",
+    "stock": "0,28  ▲ 0,86%",
     "imgUrl": "binance"
   },
   {
@@ -127,20 +127,20 @@
   },
   {
     "origin": "Yadio",
-    "price": "32,88",
-    "stock": "0,30  ▲ 0,92%",
+    "price": "32,71",
+    "stock": "0,13  ▲ 0,40%",
     "imgUrl": "yadio"
   },
   {
     "origin": "DolarToday",
-    "price": "33,21",
-    "stock": "0,43  ▲ 1,31%",
+    "price": "33,14",
+    "stock": "0,36  ▲ 1,10%",
     "imgUrl": "dolartoday-v2"
   },
   {
     "origin": "DolarToday (BTC)",
-    "price": "33,08",
-    "stock": "0,43  ▲ 1,32%",
+    "price": "33,01",
+    "stock": "0,36  ▲ 1,10%",
     "imgUrl": "dolartoday-btc-v2"
   },
   {
@@ -151,14 +151,14 @@
   },
   {
     "origin": "Cambios R&A",
-    "price": "32,77",
-    "stock": "0,22  ▲ 0,68%",
+    "price": "32,90",
+    "stock": "0,35  ▲ 1,08%",
     "imgUrl": "cambios-rya"
   },
   {
     "origin": "PayPal",
-    "price": "28,60",
-    "stock": "0,20  ▲ 0,70%",
+    "price": "28,50",
+    "stock": "0,10  ▲ 0,35%",
     "imgUrl": "paypal"
   },
   {
