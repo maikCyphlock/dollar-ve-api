@@ -1,8 +1,8 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "32,82",
-    "stock": "0,03  ▼ 0,09%",
+    "price": "32,81",
+    "stock": "0,04  ▼ 0,12%",
     "imgUrl": "exchangemonitor"
   },
   {
@@ -37,14 +37,14 @@
   },
   {
     "origin": "Remesas Zoom",
-    "price": "32,07",
-    "stock": "0,00  0,00%",
+    "price": "32,17",
+    "stock": "0,10  ▲ 0,31%",
     "imgUrl": "remesas-zoom"
   },
   {
     "origin": "Italcambio",
-    "price": "32,07",
-    "stock": "0,00  0,00%",
+    "price": "32,17",
+    "stock": "0,10  ▲ 0,31%",
     "imgUrl": "italcambio"
   },
   {
@@ -103,8 +103,8 @@
   },
   {
     "origin": "Binance",
-    "price": "33,72",
-    "stock": "0,08  ▲ 0,24%",
+    "price": "33,73",
+    "stock": "0,09  ▲ 0,27%",
     "imgUrl": "binance"
   },
   {
@@ -127,8 +127,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "33,59",
-    "stock": "0,44  ▼ 1,29%",
+    "price": "33,53",
+    "stock": "0,50  ▼ 1,47%",
     "imgUrl": "yadio"
   },
   {
@@ -157,8 +157,8 @@
   },
   {
     "origin": "PayPal",
-    "price": "28,90",
-    "stock": "0,00  0,00%",
+    "price": "28,80",
+    "stock": "0,10  ▼ 0,35%",
     "imgUrl": "paypal"
   },
   {
