@@ -31,8 +31,8 @@
   },
   {
     "origin": "BCV",
-    "price": "31,85",
-    "stock": "0,00  0,00%",
+    "price": "31,83",
+    "stock": "0,02  ▼ 0,06%",
     "imgUrl": "bcv"
   },
   {
@@ -49,8 +49,8 @@
   },
   {
     "origin": "Bancamiga",
-    "price": "31,67",
-    "stock": "0,00  0,00%",
+    "price": "31,80",
+    "stock": "0,13  ▲ 0,41%",
     "imgUrl": "bancamiga"
   },
   {
@@ -61,15 +61,9 @@
   },
   {
     "origin": "Banco Exterior",
-    "price": "31,99",
-    "stock": "0,00  0,00%",
+    "price": "31,79",
+    "stock": "0,20  ▼ 0,63%",
     "imgUrl": "banco-exterior"
-  },
-  {
-    "origin": "Banplus",
-    "price": "29,62",
-    "stock": "0,00  0,00%",
-    "imgUrl": "banplus"
   },
   {
     "origin": "BNC",
@@ -79,32 +73,32 @@
   },
   {
     "origin": "Banesco",
-    "price": "31,87",
-    "stock": "0,00  0,00%",
+    "price": "32,54",
+    "stock": "0,67  ▲ 2,10%",
     "imgUrl": "banesco"
   },
   {
     "origin": "BBVA Provincial",
-    "price": "31,90",
-    "stock": "0,00  0,00%",
+    "price": "32,01",
+    "stock": "0,11  ▲ 0,34%",
     "imgUrl": "bbva-provincial"
   },
   {
     "origin": "Mercantil",
-    "price": "32,18",
-    "stock": "0,00  0,00%",
+    "price": "31,90",
+    "stock": "0,28  ▼ 0,87%",
     "imgUrl": "mercantil"
   },
   {
     "origin": "Otras Instituciones",
-    "price": "32,17",
+    "price": "31,93",
     "stock": "0,00  0,00%",
     "imgUrl": "otras-instituciones"
   },
   {
     "origin": "Binance",
-    "price": "33,51",
-    "stock": "0,15  ▼ 0,45%",
+    "price": "33,63",
+    "stock": "0,11  ▲ 0,33%",
     "imgUrl": "binance"
   },
   {
@@ -127,20 +121,20 @@
   },
   {
     "origin": "Yadio",
-    "price": "33,39",
-    "stock": "0,32  ▼ 0,95%",
+    "price": "33,44",
+    "stock": "0,07  ▲ 0,21%",
     "imgUrl": "yadio"
   },
   {
     "origin": "DolarToday",
     "price": "33,67",
-    "stock": "0,09  ▼ 0,27%",
+    "stock": "0,00  0,00%",
     "imgUrl": "dolartoday-v2"
   },
   {
     "origin": "DolarToday (BTC)",
     "price": "33,54",
-    "stock": "0,09  ▼ 0,27%",
+    "stock": "0,00  0,00%",
     "imgUrl": "dolartoday-btc-v2"
   },
   {
@@ -152,7 +146,7 @@
   {
     "origin": "Cambios R&A",
     "price": "33,60",
-    "stock": "0,16  ▲ 0,48%",
+    "stock": "0,00  0,00%",
     "imgUrl": "cambios-rya"
   },
   {
