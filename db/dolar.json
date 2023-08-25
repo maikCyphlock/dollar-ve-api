@@ -1,8 +1,8 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "32,94",
-    "stock": "0,01  ▼ 0,03%",
+    "price": "32,95",
+    "stock": "0,00  0,00%",
     "imgUrl": "exchangemonitor"
   },
   {
@@ -97,8 +97,8 @@
   },
   {
     "origin": "Binance",
-    "price": "33,82",
-    "stock": "0,08  ▼ 0,24%",
+    "price": "33,85",
+    "stock": "0,05  ▼ 0,15%",
     "imgUrl": "binance"
   },
   {
