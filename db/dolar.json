@@ -1,14 +1,14 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "32,95",
-    "stock": "0,00  0,00%",
+    "price": "32,96",
+    "stock": "0,01  ▲ 0,03%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "32,90",
-    "stock": "0,02  ▼ 0,06%",
+    "price": "32,91",
+    "stock": "0,01  ▼ 0,03%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -62,7 +62,7 @@
   {
     "origin": "Banco Exterior",
     "price": "32,15",
-    "stock": "0,36  ▲ 1,13%",
+    "stock": "0,00  0,00%",
     "imgUrl": "banco-exterior"
   },
   {
@@ -74,13 +74,13 @@
   {
     "origin": "Banesco",
     "price": "32,46",
-    "stock": "0,03  ▼ 0,09%",
+    "stock": "0,00  0,00%",
     "imgUrl": "banesco"
   },
   {
     "origin": "BBVA Provincial",
     "price": "32,16",
-    "stock": "0,10  ▲ 0,31%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bbva-provincial"
   },
   {
@@ -97,8 +97,8 @@
   },
   {
     "origin": "Binance",
-    "price": "33,85",
-    "stock": "0,05  ▼ 0,15%",
+    "price": "33,88",
+    "stock": "0,02  ▼ 0,06%",
     "imgUrl": "binance"
   },
   {
@@ -121,20 +121,20 @@
   },
   {
     "origin": "Yadio",
-    "price": "33,66",
-    "stock": "0,10  ▼ 0,30%",
+    "price": "33,80",
+    "stock": "0,06  ▲ 0,18%",
     "imgUrl": "yadio"
   },
   {
     "origin": "DolarToday",
     "price": "33,93",
-    "stock": "0,03  ▼ 0,09%",
+    "stock": "0,00  0,00%",
     "imgUrl": "dolartoday-v2"
   },
   {
     "origin": "DolarToday (BTC)",
     "price": "33,80",
-    "stock": "0,03  ▼ 0,09%",
+    "stock": "0,00  0,00%",
     "imgUrl": "dolartoday-btc-v2"
   },
   {
