@@ -7,20 +7,20 @@
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "33,00",
-    "stock": "0,01  ▼ 0,03%",
+    "price": "32,99",
+    "stock": "0,02  ▼ 0,06%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "EnParaleloVzla",
-    "price": "34,37",
-    "stock": "0,09  ▲ 0,26%",
+    "price": "34,22",
+    "stock": "0,06  ▼ 0,18%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "Monitor Dolar Vzla",
-    "price": "31,80",
-    "stock": "0,07  ▼ 0,22%",
+    "price": "31,87",
+    "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar-vzla"
   },
   {
@@ -121,8 +121,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "33,64",
-    "stock": "0,17  ▼ 0,50%",
+    "price": "33,66",
+    "stock": "0,15  ▼ 0,44%",
     "imgUrl": "yadio"
   },
   {
