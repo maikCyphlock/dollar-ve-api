@@ -1,14 +1,14 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "33,12",
-    "stock": "0,02  ▼ 0,06%",
+    "price": "33,14",
+    "stock": "0,00  0,00%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "33,01",
-    "stock": "0,01  ▼ 0,03%",
+    "price": "33,02",
+    "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -169,8 +169,8 @@
   },
   {
     "origin": "Amazon Gift Card",
-    "price": "28,50",
-    "stock": "0,10  ▼ 0,35%",
+    "price": "28,60",
+    "stock": "0,00  0,00%",
     "imgUrl": "amazon"
   }
 ]
