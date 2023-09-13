@@ -121,20 +121,20 @@
   },
   {
     "origin": "Yadio",
-    "price": "34,34",
-    "stock": "0,29  ▼ 0,84%",
+    "price": "34,29",
+    "stock": "0,34  ▼ 0,98%",
     "imgUrl": "yadio"
   },
   {
     "origin": "DolarToday",
-    "price": "34,66",
-    "stock": "0,00  0,00%",
+    "price": "34,85",
+    "stock": "0,19  ▲ 0,55%",
     "imgUrl": "dolartoday-v2"
   },
   {
     "origin": "DolarToday (BTC)",
-    "price": "34,51",
-    "stock": "0,00  0,00%",
+    "price": "34,70",
+    "stock": "0,19  ▲ 0,55%",
     "imgUrl": "dolartoday-btc-v2"
   },
   {
