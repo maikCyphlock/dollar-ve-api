@@ -8,7 +8,7 @@
   {
     "origin": "Monitor Dolar Venezuela",
     "price": "33,18",
-    "stock": "0,03  ▼ 0,09%",
+    "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -32,13 +32,13 @@
   {
     "origin": "BCV",
     "price": "33,66",
-    "stock": "0,15  ▲ 0,45%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bcv"
   },
   {
     "origin": "Remesas Zoom",
     "price": "34,00",
-    "stock": "0,16  ▲ 0,47%",
+    "stock": "0,00  0,00%",
     "imgUrl": "remesas-zoom"
   },
   {
@@ -80,13 +80,13 @@
   {
     "origin": "Banesco",
     "price": "33,70",
-    "stock": "0,15  ▲ 0,45%",
+    "stock": "0,00  0,00%",
     "imgUrl": "banesco"
   },
   {
     "origin": "BBVA Provincial",
     "price": "33,46",
-    "stock": "0,03  ▼ 0,09%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bbva-provincial"
   },
   {
@@ -104,7 +104,7 @@
   {
     "origin": "Binance",
     "price": "34,46",
-    "stock": "0,14  ▼ 0,40%",
+    "stock": "0,00  0,00%",
     "imgUrl": "binance"
   },
   {
@@ -127,8 +127,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "34,31",
-    "stock": "0,00  0,00%",
+    "price": "34,34",
+    "stock": "0,03  ▲ 0,09%",
     "imgUrl": "yadio"
   },
   {
