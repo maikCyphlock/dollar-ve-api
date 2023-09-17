@@ -1,8 +1,8 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "33,31",
-    "stock": "0,10  ▼ 0,30%",
+    "price": "33,30",
+    "stock": "0,11  ▼ 0,33%",
     "imgUrl": "exchangemonitor"
   },
   {
@@ -163,14 +163,14 @@
   },
   {
     "origin": "Zinli",
-    "price": "30,40",
-    "stock": "0,00  0,00%",
+    "price": "30,30",
+    "stock": "0,10  ▼ 0,33%",
     "imgUrl": "zinli"
   },
   {
     "origin": "Skrill",
-    "price": "30,40",
-    "stock": "0,00  0,00%",
+    "price": "30,30",
+    "stock": "0,10  ▼ 0,33%",
     "imgUrl": "skrill"
   },
   {
