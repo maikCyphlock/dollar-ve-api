@@ -1,26 +1,26 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "33,50",
-    "stock": "0,05  ▲ 0,15%",
+    "price": "33,57",
+    "stock": "0,12  ▲ 0,36%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "33,29",
-    "stock": "0,06  ▲ 0,18%",
+    "price": "33,35",
+    "stock": "0,12  ▲ 0,36%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "EnParaleloVzla",
-    "price": "34,72",
-    "stock": "0,12  ▲ 0,35%",
+    "price": "34,97",
+    "stock": "0,37  ▲ 1,07%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "Monitor Dolar Vzla",
-    "price": "32,20",
-    "stock": "0,00  0,00%",
+    "price": "32,45",
+    "stock": "0,25  ▲ 0,78%",
     "imgUrl": "monitor-dolar-vzla"
   },
   {
@@ -103,8 +103,8 @@
   },
   {
     "origin": "Binance",
-    "price": "34,84",
-    "stock": "0,15  ▲ 0,43%",
+    "price": "34,90",
+    "stock": "0,21  ▲ 0,61%",
     "imgUrl": "binance"
   },
   {
@@ -127,20 +127,20 @@
   },
   {
     "origin": "Yadio",
-    "price": "34,69",
-    "stock": "0,14  ▲ 0,41%",
+    "price": "34,83",
+    "stock": "0,28  ▲ 0,81%",
     "imgUrl": "yadio"
   },
   {
     "origin": "DolarToday",
-    "price": "34,85",
-    "stock": "0,12  ▲ 0,35%",
+    "price": "35,02",
+    "stock": "0,29  ▲ 0,84%",
     "imgUrl": "dolartoday-v2"
   },
   {
     "origin": "DolarToday (BTC)",
-    "price": "34,70",
-    "stock": "0,12  ▲ 0,35%",
+    "price": "34,87",
+    "stock": "0,29  ▲ 0,84%",
     "imgUrl": "dolartoday-btc-v2"
   },
   {
@@ -151,8 +151,8 @@
   },
   {
     "origin": "Cambios R&A",
-    "price": "34,50",
-    "stock": "0,00  0,00%",
+    "price": "34,77",
+    "stock": "0,27  ▲ 0,78%",
     "imgUrl": "cambios-rya"
   },
   {
@@ -163,14 +163,14 @@
   },
   {
     "origin": "Zinli",
-    "price": "30,50",
-    "stock": "0,00  0,00%",
+    "price": "30,60",
+    "stock": "0,10  ▲ 0,33%",
     "imgUrl": "zinli"
   },
   {
     "origin": "Skrill",
-    "price": "30,50",
-    "stock": "0,00  0,00%",
+    "price": "30,60",
+    "stock": "0,10  ▲ 0,33%",
     "imgUrl": "skrill"
   },
   {
