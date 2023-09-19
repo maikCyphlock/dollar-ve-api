@@ -1,26 +1,26 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "33,59",
-    "stock": "0,14  ▲ 0,42%",
+    "price": "33,63",
+    "stock": "0,04  ▲ 0,12%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "33,38",
-    "stock": "0,15  ▲ 0,45%",
+    "price": "33,43",
+    "stock": "0,05  ▲ 0,15%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "EnParaleloVzla",
     "price": "34,97",
-    "stock": "0,37  ▲ 1,07%",
+    "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "Monitor Dolar Vzla",
     "price": "32,45",
-    "stock": "0,25  ▲ 0,78%",
+    "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar-vzla"
   },
   {
@@ -31,8 +31,8 @@
   },
   {
     "origin": "BCV",
-    "price": "33,66",
-    "stock": "0,00  0,00%",
+    "price": "33,67",
+    "stock": "0,01  ▲ 0,03%",
     "imgUrl": "bcv"
   },
   {
@@ -49,8 +49,8 @@
   },
   {
     "origin": "Bancamiga",
-    "price": "33,80",
-    "stock": "0,00  0,00%",
+    "price": "33,89",
+    "stock": "0,09  ▲ 0,27%",
     "imgUrl": "bancamiga"
   },
   {
@@ -73,38 +73,38 @@
   },
   {
     "origin": "BNC",
-    "price": "33,87",
-    "stock": "0,00  0,00%",
+    "price": "33,68",
+    "stock": "0,19  ▼ 0,56%",
     "imgUrl": "bnc"
   },
   {
     "origin": "Banesco",
-    "price": "33,70",
-    "stock": "0,00  0,00%",
+    "price": "34,19",
+    "stock": "0,49  ▲ 1,45%",
     "imgUrl": "banesco"
   },
   {
     "origin": "BBVA Provincial",
-    "price": "33,46",
-    "stock": "0,00  0,00%",
+    "price": "33,47",
+    "stock": "0,01  ▲ 0,03%",
     "imgUrl": "bbva-provincial"
   },
   {
     "origin": "Mercantil",
-    "price": "33,88",
-    "stock": "0,00  0,00%",
+    "price": "33,72",
+    "stock": "0,16  ▼ 0,47%",
     "imgUrl": "mercantil"
   },
   {
     "origin": "Otras Instituciones",
-    "price": "33,94",
+    "price": "33,70",
     "stock": "0,00  0,00%",
     "imgUrl": "otras-instituciones"
   },
   {
     "origin": "Binance",
-    "price": "35,14",
-    "stock": "0,45  ▲ 1,30%",
+    "price": "35,20",
+    "stock": "0,06  ▲ 0,17%",
     "imgUrl": "binance"
   },
   {
@@ -127,20 +127,20 @@
   },
   {
     "origin": "Yadio",
-    "price": "34,69",
-    "stock": "0,14  ▲ 0,41%",
+    "price": "35,00",
+    "stock": "0,31  ▲ 0,89%",
     "imgUrl": "yadio"
   },
   {
     "origin": "DolarToday",
     "price": "35,02",
-    "stock": "0,29  ▲ 0,84%",
+    "stock": "0,00  0,00%",
     "imgUrl": "dolartoday-v2"
   },
   {
     "origin": "DolarToday (BTC)",
     "price": "34,87",
-    "stock": "0,29  ▲ 0,84%",
+    "stock": "0,00  0,00%",
     "imgUrl": "dolartoday-btc-v2"
   },
   {
@@ -152,31 +152,31 @@
   {
     "origin": "Cambios R&A",
     "price": "34,77",
-    "stock": "0,27  ▲ 0,78%",
+    "stock": "0,00  0,00%",
     "imgUrl": "cambios-rya"
   },
   {
     "origin": "PayPal",
-    "price": "29,50",
+    "price": "29,60",
     "stock": "0,10  ▲ 0,34%",
     "imgUrl": "paypal"
   },
   {
     "origin": "Zinli",
     "price": "30,60",
-    "stock": "0,10  ▲ 0,33%",
+    "stock": "0,00  0,00%",
     "imgUrl": "zinli"
   },
   {
     "origin": "Skrill",
     "price": "30,60",
-    "stock": "0,10  ▲ 0,33%",
+    "stock": "0,00  0,00%",
     "imgUrl": "skrill"
   },
   {
     "origin": "Amazon Gift Card",
     "price": "29,00",
-    "stock": "0,20  ▲ 0,69%",
+    "stock": "0,00  0,00%",
     "imgUrl": "amazon"
   }
 ]
