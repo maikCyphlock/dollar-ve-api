@@ -1,14 +1,14 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "33,74",
-    "stock": "0,01  ▲ 0,03%",
+    "price": "33,76",
+    "stock": "0,02  ▲ 0,06%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "33,47",
-    "stock": "0,01  ▲ 0,03%",
+    "price": "33,49",
+    "stock": "0,03  ▲ 0,09%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -32,25 +32,25 @@
   {
     "origin": "BCV",
     "price": "33,99",
-    "stock": "0,06  ▲ 0,18%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bcv"
   },
   {
     "origin": "Remesas Zoom",
     "price": "34,33",
-    "stock": "0,16  ▲ 0,47%",
+    "stock": "0,00  0,00%",
     "imgUrl": "remesas-zoom"
   },
   {
     "origin": "Italcambio",
     "price": "34,33",
-    "stock": "0,06  ▲ 0,18%",
+    "stock": "0,00  0,00%",
     "imgUrl": "italcambio"
   },
   {
     "origin": "Bancamiga",
     "price": "33,79",
-    "stock": "0,26  ▼ 0,76%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bancamiga"
   },
   {
@@ -74,25 +74,25 @@
   {
     "origin": "BNC",
     "price": "34,30",
-    "stock": "0,36  ▲ 1,06%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bnc"
   },
   {
     "origin": "Banesco",
     "price": "34,53",
-    "stock": "0,21  ▲ 0,61%",
+    "stock": "0,00  0,00%",
     "imgUrl": "banesco"
   },
   {
     "origin": "BBVA Provincial",
     "price": "33,69",
-    "stock": "0,14  ▲ 0,42%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bbva-provincial"
   },
   {
     "origin": "Mercantil",
     "price": "34,01",
-    "stock": "0,04  ▼ 0,12%",
+    "stock": "0,00  0,00%",
     "imgUrl": "mercantil"
   },
   {
@@ -127,8 +127,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "34,83",
-    "stock": "0,03  ▼ 0,09%",
+    "price": "35,00",
+    "stock": "0,21  ▲ 0,60%",
     "imgUrl": "yadio"
   },
   {
@@ -163,14 +163,14 @@
   },
   {
     "origin": "Zinli",
-    "price": "30,70",
-    "stock": "0,00  0,00%",
+    "price": "30,80",
+    "stock": "0,10  ▲ 0,33%",
     "imgUrl": "zinli"
   },
   {
     "origin": "Skrill",
-    "price": "30,70",
-    "stock": "0,00  0,00%",
+    "price": "30,80",
+    "stock": "0,10  ▲ 0,33%",
     "imgUrl": "skrill"
   },
   {
