@@ -7,8 +7,8 @@
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "33,60",
-    "stock": "0,00  0,00%",
+    "price": "33,59",
+    "stock": "0,01  ▼ 0,03%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -37,14 +37,14 @@
   },
   {
     "origin": "Remesas Zoom",
-    "price": "34,33",
-    "stock": "0,00  0,00%",
+    "price": "34,36",
+    "stock": "0,03  ▲ 0,09%",
     "imgUrl": "remesas-zoom"
   },
   {
     "origin": "Italcambio",
-    "price": "34,33",
-    "stock": "0,00  0,00%",
+    "price": "34,36",
+    "stock": "0,03  ▲ 0,09%",
     "imgUrl": "italcambio"
   },
   {
@@ -103,8 +103,8 @@
   },
   {
     "origin": "Binance",
-    "price": "35,67",
-    "stock": "0,18  ▲ 0,51%",
+    "price": "35,69",
+    "stock": "0,20  ▲ 0,56%",
     "imgUrl": "binance"
   },
   {
@@ -127,8 +127,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "34,98",
-    "stock": "0,31  ▼ 0,88%",
+    "price": "35,03",
+    "stock": "0,26  ▼ 0,74%",
     "imgUrl": "yadio"
   },
   {
