@@ -1,20 +1,20 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "33,87",
-    "stock": "0,07  ▲ 0,21%",
+    "price": "33,89",
+    "stock": "0,02  ▲ 0,06%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "33,60",
-    "stock": "0,06  ▲ 0,18%",
+    "price": "33,62",
+    "stock": "0,02  ▲ 0,06%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "EnParaleloVzla",
     "price": "35,52",
-    "stock": "0,22  ▲ 0,62%",
+    "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar"
   },
   {
@@ -31,8 +31,8 @@
   },
   {
     "origin": "BCV",
-    "price": "33,99",
-    "stock": "0,00  0,00%",
+    "price": "34,02",
+    "stock": "0,03  ▲ 0,09%",
     "imgUrl": "bcv"
   },
   {
@@ -49,8 +49,8 @@
   },
   {
     "origin": "Bancamiga",
-    "price": "33,79",
-    "stock": "0,00  0,00%",
+    "price": "34,16",
+    "stock": "0,37  ▲ 1,09%",
     "imgUrl": "bancamiga"
   },
   {
@@ -61,8 +61,8 @@
   },
   {
     "origin": "Banco Exterior",
-    "price": "33,91",
-    "stock": "0,00  0,00%",
+    "price": "33,31",
+    "stock": "0,60  ▼ 1,77%",
     "imgUrl": "banco-exterior"
   },
   {
@@ -79,8 +79,8 @@
   },
   {
     "origin": "Banesco",
-    "price": "34,53",
-    "stock": "0,00  0,00%",
+    "price": "34,89",
+    "stock": "0,36  ▲ 1,04%",
     "imgUrl": "banesco"
   },
   {
@@ -91,20 +91,20 @@
   },
   {
     "origin": "Mercantil",
-    "price": "34,01",
-    "stock": "0,00  0,00%",
+    "price": "34,04",
+    "stock": "0,03  ▲ 0,09%",
     "imgUrl": "mercantil"
   },
   {
     "origin": "Otras Instituciones",
-    "price": "34,32",
+    "price": "34,18",
     "stock": "0,00  0,00%",
     "imgUrl": "otras-instituciones"
   },
   {
     "origin": "Binance",
-    "price": "35,47",
-    "stock": "0,11  ▲ 0,31%",
+    "price": "35,55",
+    "stock": "0,06  ▲ 0,17%",
     "imgUrl": "binance"
   },
   {
@@ -127,14 +127,14 @@
   },
   {
     "origin": "Yadio",
-    "price": "35,28",
-    "stock": "0,02  ▲ 0,06%",
+    "price": "35,30",
+    "stock": "0,01  ▲ 0,03%",
     "imgUrl": "yadio"
   },
   {
     "origin": "DolarToday",
     "price": "35,66",
-    "stock": "0,22  ▲ 0,62%",
+    "stock": "0,00  0,00%",
     "imgUrl": "dolartoday-v2"
   },
   {
