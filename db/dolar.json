@@ -1,8 +1,8 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "35,44",
-    "stock": "0,01  ▲ 0,03%",
+    "price": "35,45",
+    "stock": "0,02  ▲ 0,06%",
     "imgUrl": "exchangemonitor"
   },
   {
@@ -103,8 +103,8 @@
   },
   {
     "origin": "Binance",
-    "price": "35,64",
-    "stock": "0,09  ▲ 0,25%",
+    "price": "35,60",
+    "stock": "0,05  ▲ 0,14%",
     "imgUrl": "binance"
   },
   {
@@ -127,8 +127,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "34,99",
-    "stock": "0,18  ▼ 0,51%",
+    "price": "35,08",
+    "stock": "0,09  ▼ 0,26%",
     "imgUrl": "yadio"
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "origin": "Amazon Gift Card",
-    "price": "30,50",
-    "stock": "0,00  0,00%",
+    "price": "30,60",
+    "stock": "0,10  ▲ 0,33%",
     "imgUrl": "amazon"
   }
 ]
