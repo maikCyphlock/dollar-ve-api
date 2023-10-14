@@ -1,26 +1,26 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "36,53",
-    "stock": "0,24  ▼ 0,65%",
+    "price": "36,58",
+    "stock": "0,01  ▲ 0,03%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "36,73",
-    "stock": "0,28  ▼ 0,76%",
+    "price": "36,80",
+    "stock": "0,03  ▲ 0,08%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "EnParaleloVzla",
     "price": "36,78",
-    "stock": "0,29  ▼ 0,78%",
+    "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar"
   },
   {
     "origin": "Monitor Dolar Vzla",
     "price": "33,92",
-    "stock": "0,09  ▲ 0,27%",
+    "stock": "0,00  0,00%",
     "imgUrl": "monitor-dolar-vzla"
   },
   {
@@ -31,14 +31,14 @@
   },
   {
     "origin": "BCV",
-    "price": "34,90",
-    "stock": "0,00  0,00%",
+    "price": "34,88",
+    "stock": "0,02  ▼ 0,06%",
     "imgUrl": "bcv"
   },
   {
     "origin": "Remesas Zoom",
     "price": "35,25",
-    "stock": "0,06  ▲ 0,17%",
+    "stock": "0,00  0,00%",
     "imgUrl": "remesas-zoom"
   },
   {
@@ -49,8 +49,8 @@
   },
   {
     "origin": "Bancamiga",
-    "price": "34,86",
-    "stock": "0,00  0,00%",
+    "price": "34,85",
+    "stock": "0,01  ▼ 0,03%",
     "imgUrl": "bancamiga"
   },
   {
@@ -73,110 +73,110 @@
   },
   {
     "origin": "BNC",
-    "price": "34,97",
-    "stock": "0,00  0,00%",
+    "price": "35,03",
+    "stock": "0,06  ▲ 0,17%",
     "imgUrl": "bnc"
   },
   {
     "origin": "Banesco",
-    "price": "34,91",
-    "stock": "0,00  0,00%",
+    "price": "34,88",
+    "stock": "0,03  ▼ 0,09%",
     "imgUrl": "banesco"
   },
   {
     "origin": "BBVA Provincial",
-    "price": "34,74",
-    "stock": "0,00  0,00%",
+    "price": "34,86",
+    "stock": "0,12  ▲ 0,35%",
     "imgUrl": "bbva-provincial"
   },
   {
     "origin": "Mercantil",
-    "price": "34,91",
-    "stock": "0,00  0,00%",
+    "price": "34,90",
+    "stock": "0,01  ▼ 0,03%",
     "imgUrl": "mercantil"
   },
   {
     "origin": "Otras Instituciones",
-    "price": "35,16",
+    "price": "34,87",
     "stock": "0,00  0,00%",
     "imgUrl": "otras-instituciones"
   },
   {
     "origin": "Binance",
     "price": "36,81",
-    "stock": "0,11  ▼ 0,30%",
+    "stock": "0,00  0,00%",
     "imgUrl": "binance"
   },
   {
     "origin": "AirTM",
     "price": "36,53",
-    "stock": "0,20  ▼ 0,54%",
+    "stock": "0,00  0,00%",
     "imgUrl": "airtm-v2"
   },
   {
     "origin": "El Dorado",
     "price": "36,83",
-    "stock": "0,44  ▼ 1,18%",
+    "stock": "0,00  0,00%",
     "imgUrl": "el-dorado"
   },
   {
     "origin": "Syklo",
     "price": "36,81",
-    "stock": "0,29  ▼ 0,78%",
+    "stock": "0,00  0,00%",
     "imgUrl": "syklo"
   },
   {
     "origin": "Yadio",
-    "price": "36,52",
-    "stock": "0,22  ▼ 0,60%",
+    "price": "36,80",
+    "stock": "0,14  ▲ 0,38%",
     "imgUrl": "yadio"
   },
   {
     "origin": "DolarToday",
     "price": "36,93",
-    "stock": "0,17  ▼ 0,46%",
+    "stock": "0,00  0,00%",
     "imgUrl": "dolartoday-v2"
   },
   {
     "origin": "DolarToday (BTC)",
     "price": "36,78",
-    "stock": "0,17  ▼ 0,46%",
+    "stock": "0,00  0,00%",
     "imgUrl": "dolartoday-btc-v2"
   },
   {
     "origin": "Mkambio",
     "price": "37,00",
-    "stock": "0,35  ▼ 0,94%",
+    "stock": "0,00  0,00%",
     "imgUrl": "mkambio-v2"
   },
   {
     "origin": "Cambios R&A",
     "price": "36,67",
-    "stock": "0,28  ▼ 0,76%",
+    "stock": "0,00  0,00%",
     "imgUrl": "cambios-rya"
   },
   {
     "origin": "PayPal",
-    "price": "32,10",
-    "stock": "0,20  ▼ 0,62%",
+    "price": "32,20",
+    "stock": "0,10  ▲ 0,31%",
     "imgUrl": "paypal"
   },
   {
     "origin": "Zinli",
     "price": "33,30",
-    "stock": "0,20  ▼ 0,60%",
+    "stock": "0,00  0,00%",
     "imgUrl": "zinli"
   },
   {
     "origin": "Skrill",
     "price": "33,30",
-    "stock": "0,20  ▼ 0,60%",
+    "stock": "0,00  0,00%",
     "imgUrl": "skrill"
   },
   {
     "origin": "Amazon Gift Card",
     "price": "31,50",
-    "stock": "0,20  ▼ 0,63%",
+    "stock": "0,00  0,00%",
     "imgUrl": "amazon"
   }
 ]
