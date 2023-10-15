@@ -1,13 +1,13 @@
 [
   {
     "origin": "Dólar EM",
-    "price": "36,57",
-    "stock": "0,00  0,00%",
+    "price": "36,55",
+    "stock": "0,01  ▲ 0,03%",
     "imgUrl": "exchangemonitor"
   },
   {
     "origin": "Monitor Dolar Venezuela",
-    "price": "36,78",
+    "price": "36,76",
     "stock": "0,01  ▲ 0,03%",
     "imgUrl": "monitor-dolar"
   },
@@ -26,13 +26,13 @@
   {
     "origin": "Petro",
     "price": "2.092,80",
-    "stock": "1,20  ▼ 0,06%",
+    "stock": "0,00  0,00%",
     "imgUrl": "petro"
   },
   {
     "origin": "BCV",
     "price": "34,88",
-    "stock": "0,02  ▼ 0,06%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bcv"
   },
   {
@@ -44,13 +44,13 @@
   {
     "origin": "Italcambio",
     "price": "35,23",
-    "stock": "0,02  ▼ 0,06%",
+    "stock": "0,00  0,00%",
     "imgUrl": "italcambio"
   },
   {
     "origin": "Bancamiga",
     "price": "34,85",
-    "stock": "0,01  ▼ 0,03%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bancamiga"
   },
   {
@@ -74,25 +74,25 @@
   {
     "origin": "BNC",
     "price": "35,03",
-    "stock": "0,06  ▲ 0,17%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bnc"
   },
   {
     "origin": "Banesco",
     "price": "34,88",
-    "stock": "0,03  ▼ 0,09%",
+    "stock": "0,00  0,00%",
     "imgUrl": "banesco"
   },
   {
     "origin": "BBVA Provincial",
     "price": "34,86",
-    "stock": "0,12  ▲ 0,35%",
+    "stock": "0,00  0,00%",
     "imgUrl": "bbva-provincial"
   },
   {
     "origin": "Mercantil",
     "price": "34,90",
-    "stock": "0,01  ▼ 0,03%",
+    "stock": "0,00  0,00%",
     "imgUrl": "mercantil"
   },
   {
@@ -127,8 +127,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "36,61",
-    "stock": "0,05  ▼ 0,14%",
+    "price": "36,43",
+    "stock": "0,04  ▲ 0,11%",
     "imgUrl": "yadio"
   },
   {
