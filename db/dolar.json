@@ -37,8 +37,8 @@
   },
   {
     "origin": "Remesas Zoom",
-    "price": "35,25",
-    "stock": "0,00  0,00%",
+    "price": "35,23",
+    "stock": "0,02  ▼ 0,06%",
     "imgUrl": "remesas-zoom"
   },
   {
@@ -103,8 +103,8 @@
   },
   {
     "origin": "Binance",
-    "price": "36,91",
-    "stock": "0,10  ▲ 0,27%",
+    "price": "36,92",
+    "stock": "0,11  ▲ 0,30%",
     "imgUrl": "binance"
   },
   {
@@ -127,8 +127,8 @@
   },
   {
     "origin": "Yadio",
-    "price": "36,12",
-    "stock": "0,27  ▼ 0,74%",
+    "price": "36,10",
+    "stock": "0,29  ▼ 0,80%",
     "imgUrl": "yadio"
   },
   {
