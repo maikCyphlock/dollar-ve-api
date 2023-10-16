@@ -1,182 +1,28 @@
-[
-  {
-    "origin": "Dólar EM",
-    "price": "36,60",
-    "stock": "0,06  ▲ 0,16%",
-    "imgUrl": "exchangemonitor"
-  },
-  {
-    "origin": "Monitor Dolar Venezuela",
-    "price": "36,81",
-    "stock": "0,06  ▲ 0,16%",
-    "imgUrl": "monitor-dolar"
-  },
-  {
-    "origin": "EnParaleloVzla",
-    "price": "36,78",
-    "stock": "0,00  0,00%",
-    "imgUrl": "monitor-dolar"
-  },
-  {
-    "origin": "Monitor Dolar Vzla",
-    "price": "33,92",
-    "stock": "0,00  0,00%",
-    "imgUrl": "monitor-dolar-vzla"
-  },
-  {
-    "origin": "Petro",
-    "price": "2.092,80",
-    "stock": "0,00  0,00%",
-    "imgUrl": "petro"
-  },
-  {
-    "origin": "BCV",
-    "price": "34,88",
-    "stock": "0,00  0,00%",
-    "imgUrl": "bcv"
-  },
-  {
-    "origin": "Remesas Zoom",
-    "price": "35,23",
-    "stock": "0,02  ▼ 0,06%",
-    "imgUrl": "remesas-zoom"
-  },
-  {
-    "origin": "Italcambio",
-    "price": "35,23",
-    "stock": "0,00  0,00%",
-    "imgUrl": "italcambio"
-  },
-  {
-    "origin": "Bancamiga",
-    "price": "34,85",
-    "stock": "0,00  0,00%",
-    "imgUrl": "bancamiga"
-  },
-  {
-    "origin": "Banco de Venezuela",
-    "price": "34,55",
-    "stock": "0,00  0,00%",
-    "imgUrl": "banco-de-venezuela"
-  },
-  {
-    "origin": "Banco Exterior",
-    "price": "34,69",
-    "stock": "0,00  0,00%",
-    "imgUrl": "banco-exterior"
-  },
-  {
-    "origin": "Banplus",
-    "price": "34,25",
-    "stock": "0,00  0,00%",
-    "imgUrl": "banplus"
-  },
-  {
-    "origin": "BNC",
-    "price": "35,03",
-    "stock": "0,00  0,00%",
-    "imgUrl": "bnc"
-  },
-  {
-    "origin": "Banesco",
-    "price": "34,88",
-    "stock": "0,00  0,00%",
-    "imgUrl": "banesco"
-  },
-  {
-    "origin": "BBVA Provincial",
-    "price": "34,86",
-    "stock": "0,00  0,00%",
-    "imgUrl": "bbva-provincial"
-  },
-  {
-    "origin": "Mercantil",
-    "price": "34,90",
-    "stock": "0,00  0,00%",
-    "imgUrl": "mercantil"
-  },
-  {
-    "origin": "Otras Instituciones",
-    "price": "34,87",
-    "stock": "0,00  0,00%",
-    "imgUrl": "otras-instituciones"
-  },
-  {
-    "origin": "Binance",
-    "price": "37,03",
-    "stock": "0,22  ▲ 0,60%",
-    "imgUrl": "binance"
-  },
-  {
-    "origin": "AirTM",
-    "price": "36,53",
-    "stock": "0,00  0,00%",
-    "imgUrl": "airtm-v2"
-  },
-  {
-    "origin": "El Dorado",
-    "price": "36,83",
-    "stock": "0,00  0,00%",
-    "imgUrl": "el-dorado"
-  },
-  {
-    "origin": "Syklo",
-    "price": "36,81",
-    "stock": "0,00  0,00%",
-    "imgUrl": "syklo"
-  },
-  {
-    "origin": "Yadio",
-    "price": "36,71",
-    "stock": "0,32  ▲ 0,88%",
-    "imgUrl": "yadio"
-  },
-  {
-    "origin": "DolarToday",
-    "price": "36,93",
-    "stock": "0,00  0,00%",
-    "imgUrl": "dolartoday-v2"
-  },
-  {
-    "origin": "DolarToday (BTC)",
-    "price": "36,78",
-    "stock": "0,00  0,00%",
-    "imgUrl": "dolartoday-btc-v2"
-  },
-  {
-    "origin": "Mkambio",
-    "price": "37,00",
-    "stock": "0,00  0,00%",
-    "imgUrl": "mkambio-v2"
-  },
-  {
-    "origin": "Cambios R&A",
-    "price": "36,67",
-    "stock": "0,00  0,00%",
-    "imgUrl": "cambios-rya"
-  },
-  {
-    "origin": "PayPal",
-    "price": "32,20",
-    "stock": "0,10  ▲ 0,31%",
-    "imgUrl": "paypal"
-  },
-  {
-    "origin": "Zinli",
-    "price": "33,40",
-    "stock": "0,10  ▲ 0,30%",
-    "imgUrl": "zinli"
-  },
-  {
-    "origin": "Skrill",
-    "price": "33,40",
-    "stock": "0,10  ▲ 0,30%",
-    "imgUrl": "skrill"
-  },
-  {
-    "origin": "Amazon Gift Card",
-    "price": "31,50",
-    "stock": "0,00  0,00%",
-    "imgUrl": "amazon"
-  }
-]
+{
+  "usd_bcv": "34,87760000",
+  "exchange_rate": [
+    {
+      "bank": "BBVA Provincial",
+      "buying": "34.8895",
+      "selling": "34.8593"
+    },
+    {
+      "bank": "Banco Mercantil",
+      "buying": "34.8533",
+      "selling": "34.9012"
+    },
+    {
+      "bank": "Bancamiga",
+      "buying": "34.6598",
+      "selling": "34.8536"
+    },
+    {
+      "bank": "Banesco",
+      "buying": "34.9200",
+      "selling": "34.8776"
+    }
+  ],
+  "date": "2023-10-16T00:44:54.729Z",
+  "source": "bcv.org.ve",
+  "logo_img": "https://www.bcv.org.ve/sites/default/files/bcv5_0.ico"
+}
