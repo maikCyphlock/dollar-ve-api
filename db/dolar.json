@@ -1,28 +1,28 @@
 {
-  "usd_bcv": "34,87760000",
+  "usd_bcv": "34,85080000",
   "exchange_rate": [
     {
-      "bank": "BBVA Provincial",
-      "buying": "34.8895",
-      "selling": "34.8593"
+      "bank": "Banco Mercantil",
+      "buying": "34.8677",
+      "selling": "34.9196"
     },
     {
-      "bank": "Banco Mercantil",
-      "buying": "34.8533",
-      "selling": "34.9012"
+      "bank": "BBVA Provincial",
+      "buying": "34.8214",
+      "selling": "34.8391"
     },
     {
       "bank": "Bancamiga",
-      "buying": "34.6598",
-      "selling": "34.8536"
+      "buying": "34.6887",
+      "selling": "34.7131"
     },
     {
       "bank": "Banesco",
-      "buying": "34.9200",
-      "selling": "34.8776"
+      "buying": "34.7471",
+      "selling": "34.9432"
     }
   ],
-  "date": "2023-10-16T22:12:47.257Z",
+  "date": "2023-10-16T23:13:56.059Z",
   "source": "bcv.org.ve",
   "logo_img": "https://www.bcv.org.ve/sites/default/files/bcv5_0.ico"
 }
