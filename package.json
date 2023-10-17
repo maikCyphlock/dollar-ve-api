@@ -15,9 +15,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@extractus/article-extractor": "^8.0.3",
     "hono": "^2.7.2",
-    "standard": "^17.0.0",
-    "@extractus/article-extractor": "^8.0.3"
+    "puppeteer": "^21.3.8",
+    "standard": "^17.0.0"
   },
   "devDependencies": {
     "vitest": "^0.26.3",
