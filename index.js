@@ -1,74 +1,68 @@
-import { extractFromHtml } from "@extractus/article-extractor";
-import fs from 'node:fs';
-const URL = "https://www.bcv.org.ve/"
+import { writeFile } from 'node:fs'
+import pupperteer from 'puppeteer'
+import path from 'node:path'
+import process from 'node:process'
 
-async function MainScrapeBCV() {
-  try {
-    const res = await fetch(URL)
-    const html = await res.text()
-    const article = await extractFromHtml(html, URL)
-    const { tasaCambiariaBancoMatch, valorDolar } = RegexBanks(article)
-    const Banks = ExtractBANK(tasaCambiariaBancoMatch)
-    const ALL_DATA = {
-      usd_bcv: valorDolar,
-      exchange_rate: Banks,
-      date: new Date(),
-      source: article.source,
-      logo_img: article.favicon
-    };
-    SaveJSON(ALL_DATA)
-  } catch (error) {
-    fs.writeFileSync('log/error.txt', JSON.stringify(error, null, 2));
-    console.error(error);
-  }
+const DB_PATH = path.join(process.cwd(), './db/')
+
+const saveImagen = async ({ url }) => {
+  const filename = url.match(/([^\/]+)(?=\.\w+$)/g, '')
+  console.log(filename)
+  // const responseImage = await fetch(url)
+  // const arrayBuffer = await responseImage.arrayBuffer()
+  // const buffer = Buffer.from(arrayBuffer)
+
+  // writeFile(
+  //   path.join(process.cwd(), 'assets', `${filename[0]}.webp`), buffer, err => {
+  //     console.log(err)
+  //   }
+
+  // )
+  return filename[0]
 }
+const browser = await pupperteer.launch({
+  headless: true
+})
 
-function SaveJSON(jsonData) {
-  const jsonString = JSON.stringify(jsonData, null, 2);
-  const filePath = 'db/dolar.json';
-  fs.writeFileSync(filePath, jsonString);
-}
-function ExtractBANK(texto) {
-  const regex = /<h2>Tasas Informativas del Sistema Bancario \(Bs\/USD\)<\/h2>\s*<div>([\s\S]*?)<\/table>\s*<\/div>/;
-  const match = regex.exec(texto);
+const page = await browser.newPage({
+  bypassCSP: true
+})
 
-  if (match) {
-    const tablaHTML = match[1];
-    const bancoRegex = /<tr>\s*<td>\s*(.*?)\s*<\/td>\s*<td>\s*([0-9,.]+)\s*<\/td>\s*<td>\s*([0-9,.]+)\s*<\/td>\s*<\/tr>/g;
+await page.goto('https://exchangemonitor.net/dolar-venezuela', {
+  waitUntil: 'domcontentloaded'
+})
 
-    const bancos = [];
-    let bancoMatch;
+const links = await page.$$('div.col-xs-12.col-sm-6.col-md-4.col-tabla')
 
-    while ((bancoMatch = bancoRegex.exec(tablaHTML)) !== null) {
-      const banco = {
-        bank: bancoMatch[1].trim(),
-        buying: bancoMatch[2].replace(/,/g, '.').trim(),
-        selling: bancoMatch[3].replace(/,/g, '.').trim(),
-      };
+const store = []
 
-      bancos.push(banco);
-    }
+for (const link of links) {
+  const obj = { origin: '', price: '', stock: '', imgUrl: '' }
+  obj.origin = await link
+    .$('h6')
+    .then(e => e.evaluate(node => node.innerText))
 
-    const resultado = bancos
-    console.log(resultado);
-    return resultado
-  } else {
-    console.log("No se encontró la tabla de bancos.");
-  }
-}
+  obj.imgUrl = await link
+    .$('img')
+    .then(e => e.evaluate(node => node.src)).then(e => saveImagen({ url: e }))
 
-function RegexBanks(article) {
-  const tasaCambiariaBancoMatch = article.content.match(/<h2>Tasas Informativas del Sistema Bancario \(Bs\/USD\)<\/h2>\s*<div>\s*<table>([\s\S]*?)<\/table>\s*<\/div>/i)
+  obj.price = await link
+    .$('p.precio')
+    .then(e => e.evaluate(node => node.innerText))
 
-  const TasaDolarMatch = article.content.match(/<span>\s*USD\s*<\/span>\s*<\/p>\s*<p><strong>\s*([0-9,.]+)\s*<\/strong>\s*<\/p>/
+  obj.stock = await (
+    await (await link.$$('div'))[4].evaluate(node => node.innerText)
   )
-  const valorDolar = TasaDolarMatch[1];
+    .replace(/\n/g, ' ')
+    .replace(/CAMBIO 24H/, '')
+    .trim()
 
-  return {
-    tasaCambiariaBancoMatch,
-    valorDolar
-  }
-
+  store.push(obj)
 }
 
-MainScrapeBCV()
+console.log(store)
+writeFile(`${DB_PATH}/dolar.json`, JSON.stringify(store, null, 2), err => {
+  console.log(err)
+})
+
+await browser.close()
