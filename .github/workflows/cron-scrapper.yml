@@ -28,7 +28,7 @@ jobs:
           git config user.email IamBot@bot.com 
           git add .
           git commit -m "[bot] Update Dolar api Database"
-          git diff --quiet || git push origin master
+          git diff --quiet && git push origin master
           
           
           
