@@ -2,6 +2,11 @@ import { extractFromHtml } from '@extractus/article-extractor'
 import fs from 'node:fs'
 const URL = 'https://www.bcv.org.ve/'
 
+/**
+ * Error Handling due servers misconfigurations and unauthorized accesss
+ */
+// eslint-disable-next-line 
+process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = 0;
 async function MainScrapeBCV() {
   try {
     const res = await fetch(URL)
