@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "vitest",
     "start": "node index.js",
     "scrapper": "node index.js",
     "wrangler:dev": "npx wrangler dev",
@@ -20,7 +20,7 @@
     "standard": "^17.0.0"
   },
   "devDependencies": {
-    "vitest": "^0.26.3",
+    "vitest": "^1.2.1",
     "wrangler": "2.6.2"
   },
   "eslintConfig": {
