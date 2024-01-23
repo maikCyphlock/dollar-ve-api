@@ -8,7 +8,7 @@ on:
       - webhook
 
   schedule:
-    - cron: '59/1440 * * * *'
+    - cron: "0 0  * * *"
 
 jobs:
   build:
@@ -29,13 +29,3 @@ jobs:
           git add .
           git commit -m "[bot] Update Dolar api Database"
           git diff --quiet && git push origin master
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
