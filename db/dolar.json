@@ -26,12 +26,12 @@
     },
     {
       "bank": "BCV",
-      "selling": 36.2375,
-      "buying": 36.2375,
+      "selling": 36.2919,
+      "buying": 36.2919,
       "urlname": "bcv"
     }
   ],
-  "date": "2024-02-08T00:53:22.464Z",
+  "date": "2024-02-09T00:53:24.182Z",
   "source": "bcv.org.ve",
   "logo_img": "https://www.bcv.org.ve/sites/default/files/bcv5_0.ico"
 }
