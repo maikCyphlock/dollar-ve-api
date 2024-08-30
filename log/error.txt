@@ -1,1 +1,1 @@
-"TypeError: fetch failed\n    at node:internal/deps/undici/undici:12618:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async MainScrapeBCV (file:///home/runner/work/dollar-ve-api/dollar-ve-api/index.js:13:17)"
+"TypeError: Banks is not iterable\n    at MainScrapeBCV (file:///home/runner/work/dollar-ve-api/dollar-ve-api/index.js:20:26)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"
