@@ -17114,6 +17114,37 @@
       "date": "2025-05-13T01:22:51.789Z",
       "source": "bcv.org.ve",
       "logo_img": "https://www.bcv.org.ve/sites/default/files/bcv5_0.ico"
+    },
+    {
+      "exchange_rate": [
+        {
+          "bank": "Banco Mercantil",
+          "urlname": "banco_mercantil",
+          "buying": 94.1274,
+          "selling": 93.07
+        },
+        {
+          "bank": "BanCaribe",
+          "urlname": "bancaribe",
+          "buying": 93.0616,
+          "selling": 93.0623
+        },
+        {
+          "bank": "Otras Instituciones",
+          "urlname": "otras_instituciones",
+          "buying": 93.0651,
+          "selling": 93.0512
+        },
+        {
+          "bank": "BCV",
+          "selling": 93.5796,
+          "buying": 93.5796,
+          "urlname": "bcv"
+        }
+      ],
+      "date": "2025-05-14T01:21:33.385Z",
+      "source": "bcv.org.ve",
+      "logo_img": "https://www.bcv.org.ve/sites/default/files/bcv5_0.ico"
     }
   ]
 }
