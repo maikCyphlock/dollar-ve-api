@@ -1,37 +1,37 @@
 {
   "exchange_rate": [
     {
-      "bank": "Banesco",
-      "urlname": "banesco",
-      "buying": 99.6524,
-      "selling": 99.7685
-    },
-    {
       "bank": "BBVA Provincial",
       "urlname": "bbva_provincial",
-      "buying": 99.1999,
-      "selling": 99.6202
+      "buying": 99.7298,
+      "selling": 100.1967
     },
     {
-      "bank": "Banco Exterior",
-      "urlname": "banco_exterior",
-      "buying": 99.3412,
-      "selling": 99.9553
+      "bank": "Banco Mercantil",
+      "urlname": "banco_mercantil",
+      "buying": 99.4828,
+      "selling": 99.8919
     },
     {
-      "bank": "Banco Activo",
-      "urlname": "banco_activo",
-      "buying": 99.6144,
-      "selling": 100.1183
+      "bank": "Banesco",
+      "urlname": "banesco",
+      "buying": 104.0042,
+      "selling": 100.8423
+    },
+    {
+      "bank": "Banco Nacional de Crédito BNC",
+      "urlname": "banco_nacional_de_crédito_bnc",
+      "buying": 99.646,
+      "selling": 100.4502
     },
     {
       "bank": "BCV",
-      "selling": 99.6983,
-      "buying": 99.6983,
+      "selling": 100.3396,
+      "buying": 100.3396,
       "urlname": "bcv"
     }
   ],
-  "date": "2025-06-11T01:25:05.861Z",
+  "date": "2025-06-12T01:23:47.429Z",
   "source": "bcv.org.ve",
   "logo_img": "https://www.bcv.org.ve/sites/default/files/bcv5_0.ico"
 }
