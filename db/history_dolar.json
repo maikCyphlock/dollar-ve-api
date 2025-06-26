@@ -18656,6 +18656,37 @@
       "date": "2025-06-25T01:25:55.467Z",
       "source": "bcv.org.ve",
       "logo_img": "https://www.bcv.org.ve/sites/default/files/bcv5_0.ico"
+    },
+    {
+      "exchange_rate": [
+        {
+          "bank": "Banesco",
+          "urlname": "banesco",
+          "buying": 107.2118,
+          "selling": 104.9243
+        },
+        {
+          "bank": "100% Banco",
+          "urlname": "100%_banco",
+          "buying": 106.3999,
+          "selling": 106.55
+        },
+        {
+          "bank": "Banco Plaza",
+          "urlname": "banco_plaza",
+          "buying": 105.5924,
+          "selling": 105.4077
+        },
+        {
+          "bank": "BCV",
+          "selling": 106.1685,
+          "buying": 106.1685,
+          "urlname": "bcv"
+        }
+      ],
+      "date": "2025-06-26T01:24:51.342Z",
+      "source": "bcv.org.ve",
+      "logo_img": "https://www.bcv.org.ve/sites/default/files/bcv5_0.ico"
     }
   ]
 }
