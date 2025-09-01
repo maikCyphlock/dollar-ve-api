@@ -20975,6 +20975,43 @@
       "date": "2025-08-31T01:23:12.275Z",
       "source": "bcv.org.ve",
       "logo_img": "https://www.bcv.org.ve/sites/default/files/bcv5_0.ico"
+    },
+    {
+      "exchange_rate": [
+        {
+          "bank": "BBVA Provincial",
+          "urlname": "bbva_provincial",
+          "buying": 147.7537,
+          "selling": 148.6886
+        },
+        {
+          "bank": "Banco Mercantil",
+          "urlname": "banco_mercantil",
+          "buying": 148.2581,
+          "selling": 148.4701
+        },
+        {
+          "bank": "N58 Banco Digital",
+          "urlname": "n58_banco_digital",
+          "buying": 150.0461,
+          "selling": 150.2637
+        },
+        {
+          "bank": "Banco Exterior",
+          "urlname": "banco_exterior",
+          "buying": 147.3722,
+          "selling": 147.9589
+        },
+        {
+          "bank": "BCV",
+          "selling": 148.444,
+          "buying": 148.444,
+          "urlname": "bcv"
+        }
+      ],
+      "date": "2025-09-01T01:39:09.341Z",
+      "source": "bcv.org.ve",
+      "logo_img": "https://www.bcv.org.ve/sites/default/files/bcv5_0.ico"
     }
   ]
 }
