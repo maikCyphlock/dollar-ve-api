@@ -21604,6 +21604,43 @@
       "date": "2025-09-17T01:14:57.579Z",
       "source": "bcv.org.ve",
       "logo_img": "https://www.bcv.org.ve/sites/default/files/bcv5_0.ico"
+    },
+    {
+      "exchange_rate": [
+        {
+          "bank": "Banco Mercantil",
+          "urlname": "banco_mercantil",
+          "buying": 165.4449,
+          "selling": 163.9059
+        },
+        {
+          "bank": "Banesco",
+          "urlname": "banesco",
+          "buying": 158.1877,
+          "selling": 162.1963
+        },
+        {
+          "bank": "Banco Plaza",
+          "urlname": "banco_plaza",
+          "buying": 160.4688,
+          "selling": 162.661
+        },
+        {
+          "bank": "Banco Nacional de Crédito BNC",
+          "urlname": "banco_nacional_de_crédito_bnc",
+          "buying": 161.5881,
+          "selling": 164.1854
+        },
+        {
+          "bank": "BCV",
+          "selling": 163.6474,
+          "buying": 163.6474,
+          "urlname": "bcv"
+        }
+      ],
+      "date": "2025-09-18T01:15:21.690Z",
+      "source": "bcv.org.ve",
+      "logo_img": "https://www.bcv.org.ve/sites/default/files/bcv5_0.ico"
     }
   ]
 }
