@@ -22011,6 +22011,43 @@
       "date": "2025-09-29T01:18:43.089Z",
       "source": "bcv.org.ve",
       "logo_img": "https://www.bcv.org.ve/sites/default/files/bcv5_0.ico"
+    },
+    {
+      "exchange_rate": [
+        {
+          "bank": "Banesco",
+          "urlname": "banesco",
+          "buying": 174.4534,
+          "selling": 181.7749
+        },
+        {
+          "bank": "BBVA Provincial",
+          "urlname": "bbva_provincial",
+          "buying": 177.2502,
+          "selling": 178.28
+        },
+        {
+          "bank": "Banco Plaza",
+          "urlname": "banco_plaza",
+          "buying": 175.552,
+          "selling": 174.9974
+        },
+        {
+          "bank": "Banco de Venezuela",
+          "urlname": "banco_de_venezuela",
+          "buying": 175.647,
+          "selling": 175.6471
+        },
+        {
+          "bank": "BCV",
+          "selling": 177.6143,
+          "buying": 177.6143,
+          "urlname": "bcv"
+        }
+      ],
+      "date": "2025-09-30T01:18:03.362Z",
+      "source": "bcv.org.ve",
+      "logo_img": "https://www.bcv.org.ve/sites/default/files/bcv5_0.ico"
     }
   ]
 }
