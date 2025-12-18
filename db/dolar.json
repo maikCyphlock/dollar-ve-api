@@ -3,35 +3,35 @@
     {
       "bank": "Banesco",
       "urlname": "banesco",
-      "buying": 276.4626,
-      "selling": 276.9479
-    },
-    {
-      "bank": "Banco Plaza",
-      "urlname": "banco_plaza",
-      "buying": 276.2594,
-      "selling": 277.8946
+      "buying": 275.6809,
+      "selling": 282.4558
     },
     {
       "bank": "BBVA Provincial",
       "urlname": "bbva_provincial",
-      "buying": 275.8738,
-      "selling": 277.1779
+      "buying": 276.9999,
+      "selling": 280.8499
     },
     {
-      "bank": "Banco Mercantil",
-      "urlname": "banco_mercantil",
-      "buying": 275.8832,
-      "selling": 276.962
+      "bank": "Banco Exterior",
+      "urlname": "banco_exterior",
+      "buying": 278.351,
+      "selling": 279.4926
+    },
+    {
+      "bank": "Banco Nacional de Crédito BNC",
+      "urlname": "banco_nacional_de_crédito_bnc",
+      "buying": 278.5022,
+      "selling": 283.0921
     },
     {
       "bank": "BCV",
-      "selling": 276.5769,
-      "buying": 276.5769,
+      "selling": 279.5629,
+      "buying": 279.5629,
       "urlname": "bcv"
     }
   ],
-  "date": "2025-12-17T01:23:05.761Z",
+  "date": "2025-12-18T01:23:47.950Z",
   "source": "bcv.org.ve",
   "logo_img": "https://www.bcv.org.ve/sites/default/files/bcv5_0.ico"
 }
