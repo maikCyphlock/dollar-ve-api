@@ -1,37 +1,37 @@
 {
   "exchange_rate": [
     {
-      "bank": "Banco Plaza",
-      "urlname": "banco_plaza",
-      "buying": 291.095,
-      "selling": 291.116
-    },
-    {
-      "bank": "BBVA Provincial",
-      "urlname": "bbva_provincial",
-      "buying": 288.7905,
-      "selling": 292.1284
-    },
-    {
-      "bank": "Banco Mercantil",
-      "urlname": "banco_mercantil",
-      "buying": 290.1614,
-      "selling": 291.7465
+      "bank": "Banesco",
+      "urlname": "banesco",
+      "buying": 287.1594,
+      "selling": 302.6723
     },
     {
       "bank": "Banco Nacional de Crédito BNC",
       "urlname": "banco_nacional_de_crédito_bnc",
-      "buying": 289.8407,
-      "selling": 295.708
+      "buying": 293.0681,
+      "selling": 296.7235
+    },
+    {
+      "bank": "Bancamiga",
+      "urlname": "bancamiga",
+      "buying": 296.4272,
+      "selling": 299.6649
+    },
+    {
+      "bank": "Banco Mercantil",
+      "urlname": "banco_mercantil",
+      "buying": 294.1338,
+      "selling": 294.2686
     },
     {
       "bank": "BCV",
-      "selling": 291.3524,
-      "buying": 291.3524,
+      "selling": 294.9699,
+      "buying": 294.9699,
       "urlname": "bcv"
     }
   ],
-  "date": "2025-12-26T01:27:26.951Z",
+  "date": "2025-12-27T01:25:28.762Z",
   "source": "bcv.org.ve",
   "logo_img": "https://www.bcv.org.ve/sites/default/files/bcv5_0.ico"
 }
