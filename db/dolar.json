@@ -1,37 +1,37 @@
 {
   "exchange_rate": [
     {
-      "bank": "Banco Nacional de Crédito BNC",
-      "urlname": "banco_nacional_de_crédito_bnc",
-      "buying": 387.1366,
-      "selling": 393.7128
+      "bank": "Banco Sofitasa",
+      "urlname": "banco_sofitasa",
+      "buying": 374.653,
+      "selling": 376.4383
     },
     {
-      "bank": "R4",
-      "urlname": "r4",
-      "buying": 436.5832,
-      "selling": 380.6114
+      "bank": "Banco Plaza",
+      "urlname": "banco_plaza",
+      "buying": 378,
+      "selling": 378
+    },
+    {
+      "bank": "Banesco",
+      "urlname": "banesco",
+      "buying": 389.6815,
+      "selling": 391.3133
     },
     {
       "bank": "Banco Mercantil",
       "urlname": "banco_mercantil",
-      "buying": 398.3256,
-      "selling": 406.9913
-    },
-    {
-      "bank": "N58 Banco Digital",
-      "urlname": "n58_banco_digital",
-      "buying": 373.8,
-      "selling": 374.2752
+      "buying": 398.4871,
+      "selling": 411.9247
     },
     {
       "bank": "BCV",
-      "selling": 372.1057,
-      "buying": 372.1057,
+      "selling": 375.0825,
+      "buying": 375.0825,
       "urlname": "bcv"
     }
   ],
-  "date": "2026-02-03T02:00:52.987Z",
+  "date": "2026-02-04T01:55:51.699Z",
   "source": "bcv.org.ve",
   "logo_img": "https://www.bcv.org.ve/sites/default/files/bcv5_0.ico"
 }
