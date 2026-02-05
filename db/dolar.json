@@ -3,35 +3,35 @@
     {
       "bank": "Banco Sofitasa",
       "urlname": "banco_sofitasa",
-      "buying": 374.653,
-      "selling": 376.4383
-    },
-    {
-      "bank": "Banco Plaza",
-      "urlname": "banco_plaza",
-      "buying": 378,
-      "selling": 378
+      "buying": 377.747,
+      "selling": 377.6574
     },
     {
       "bank": "Banesco",
       "urlname": "banesco",
-      "buying": 389.6815,
-      "selling": 391.3133
+      "buying": 404.4234,
+      "selling": 387.0563
+    },
+    {
+      "bank": "BBVA Provincial",
+      "urlname": "bbva_provincial",
+      "buying": 443.4191,
+      "selling": 400.8863
     },
     {
       "bank": "Banco Mercantil",
       "urlname": "banco_mercantil",
-      "buying": 398.4871,
-      "selling": 411.9247
+      "buying": 404.323,
+      "selling": 425.7229
     },
     {
       "bank": "BCV",
-      "selling": 375.0825,
-      "buying": 375.0825,
+      "selling": 378.4582,
+      "buying": 378.4582,
       "urlname": "bcv"
     }
   ],
-  "date": "2026-02-04T01:55:51.699Z",
+  "date": "2026-02-05T01:57:19.124Z",
   "source": "bcv.org.ve",
   "logo_img": "https://www.bcv.org.ve/sites/default/files/bcv5_0.ico"
 }
