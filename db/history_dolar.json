@@ -27007,6 +27007,43 @@
       "date": "2026-02-19T02:01:46.800Z",
       "source": "bcv.org.ve",
       "logo_img": "https://www.bcv.org.ve/sites/default/files/bcv5_0.ico"
+    },
+    {
+      "exchange_rate": [
+        {
+          "bank": "Banesco",
+          "urlname": "banesco",
+          "buying": 402.6028,
+          "selling": 417.402
+        },
+        {
+          "bank": "Bancamiga",
+          "urlname": "bancamiga",
+          "buying": 402.6943,
+          "selling": 405.688
+        },
+        {
+          "bank": "Banco Exterior",
+          "urlname": "banco_exterior",
+          "buying": 427.7994,
+          "selling": 424.1097
+        },
+        {
+          "bank": "Banco Activo",
+          "urlname": "banco_activo",
+          "buying": 456.8927,
+          "selling": 407.2675
+        },
+        {
+          "bank": "BCV",
+          "selling": 402.3343,
+          "buying": 402.3343,
+          "urlname": "bcv"
+        }
+      ],
+      "date": "2026-02-20T01:57:49.947Z",
+      "source": "bcv.org.ve",
+      "logo_img": "https://www.bcv.org.ve/sites/default/files/bcv5_0.ico"
     }
   ]
 }
