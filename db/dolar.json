@@ -26,12 +26,12 @@
     },
     {
       "bank": "BCV",
-      "selling": 484.7404,
-      "buying": 484.7404,
+      "selling": 485.2251,
+      "buying": 485.2251,
       "urlname": "bcv"
     }
   ],
-  "date": "2026-04-27T02:37:40.177Z",
+  "date": "2026-04-28T02:45:30.773Z",
   "source": "bcv.org.ve",
   "logo_img": "https://www.bcv.org.ve/sites/default/files/bcv5_0.ico"
 }
