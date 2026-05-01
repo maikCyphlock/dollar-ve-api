@@ -1,37 +1,37 @@
 {
   "exchange_rate": [
     {
-      "bank": "Banco Nacional de Crédito BNC",
-      "urlname": "banco_nacional_de_crédito_bnc",
-      "buying": 543.4629,
-      "selling": 512.9479
-    },
-    {
-      "bank": "Banco Mercantil",
-      "urlname": "banco_mercantil",
-      "buying": 591.7388,
-      "selling": 573.7591
+      "bank": "Bancamiga",
+      "urlname": "bancamiga",
+      "buying": 524.2695,
+      "selling": 526.425
     },
     {
       "bank": "N58 Banco Digital",
       "urlname": "n58_banco_digital",
-      "buying": 486.0017,
-      "selling": 486.2026
+      "buying": 487.4684,
+      "selling": 488.1216
     },
     {
-      "bank": "BBVA Provincial",
-      "urlname": "bbva_provincial",
-      "buying": 520,
-      "selling": 578.3359
+      "bank": "Banesco",
+      "urlname": "banesco",
+      "buying": 587.4966,
+      "selling": 593.6037
+    },
+    {
+      "bank": "Banco Nacional de Crédito BNC",
+      "urlname": "banco_nacional_de_crédito_bnc",
+      "buying": 514.4465,
+      "selling": 523.1779
     },
     {
       "bank": "BCV",
-      "selling": 487.1192,
-      "buying": 487.1192,
+      "selling": 489.5547,
+      "buying": 489.5547,
       "urlname": "bcv"
     }
   ],
-  "date": "2026-04-30T02:46:35.616Z",
+  "date": "2026-05-01T02:53:10.175Z",
   "source": "bcv.org.ve",
   "logo_img": "https://www.bcv.org.ve/sites/default/files/bcv5_0.ico"
 }
