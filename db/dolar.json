@@ -26,12 +26,12 @@
     },
     {
       "bank": "BCV",
-      "selling": 607.3919,
-      "buying": 607.3919,
+      "selling": 612.4332,
+      "buying": 612.4332,
       "urlname": "bcv"
     }
   ],
-  "date": "2026-06-19T04:07:16.234Z",
+  "date": "2026-06-20T03:30:43.415Z",
   "source": "bcv.org.ve",
   "logo_img": "https://www.bcv.org.ve/sites/default/files/bcv5_0.ico"
 }
