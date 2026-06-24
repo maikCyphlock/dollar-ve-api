@@ -31485,6 +31485,43 @@
       "date": "2026-06-23T03:24:14.680Z",
       "source": "bcv.org.ve",
       "logo_img": "https://www.bcv.org.ve/sites/default/files/bcv5_0.ico"
+    },
+    {
+      "exchange_rate": [
+        {
+          "bank": "Banesco",
+          "urlname": "banesco",
+          "buying": 669.1927,
+          "selling": 629.7494
+        },
+        {
+          "bank": "N58 Banco Digital",
+          "urlname": "n58_banco_digital",
+          "buying": 619.9489,
+          "selling": 620.9433
+        },
+        {
+          "bank": "100% Banco",
+          "urlname": "100%_banco",
+          "buying": 753.1802,
+          "selling": 780.4179
+        },
+        {
+          "bank": "Banco Activo",
+          "urlname": "banco_activo",
+          "buying": 755,
+          "selling": 624.5106
+        },
+        {
+          "bank": "BCV",
+          "selling": 621.5299,
+          "buying": 621.5299,
+          "urlname": "bcv"
+        }
+      ],
+      "date": "2026-06-24T03:26:37.794Z",
+      "source": "bcv.org.ve",
+      "logo_img": "https://www.bcv.org.ve/sites/default/files/bcv5_0.ico"
     }
   ]
 }
