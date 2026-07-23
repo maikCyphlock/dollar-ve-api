@@ -32509,6 +32509,37 @@
       "date": "2026-07-22T02:28:06.801Z",
       "source": "bcv.org.ve",
       "logo_img": "https://www.bcv.org.ve/sites/default/files/bcv5_0.ico"
+    },
+    {
+      "exchange_rate": [
+        {
+          "bank": "Banco Nacional de Crédito BNC",
+          "urlname": "banco_nacional_de_crédito_bnc",
+          "buying": 737.0672,
+          "selling": 744.105
+        },
+        {
+          "bank": "Banesco",
+          "urlname": "banesco",
+          "buying": 763.2788,
+          "selling": 761.8721
+        },
+        {
+          "bank": "BBVA Provincial",
+          "urlname": "bbva_provincial",
+          "buying": 737.1377,
+          "selling": 737.2757
+        },
+        {
+          "bank": "BCV",
+          "selling": 737.8816,
+          "buying": 737.8816,
+          "urlname": "bcv"
+        }
+      ],
+      "date": "2026-07-23T02:32:54.548Z",
+      "source": "bcv.org.ve",
+      "logo_img": "https://www.bcv.org.ve/sites/default/files/bcv5_0.ico"
     }
   ]
 }
