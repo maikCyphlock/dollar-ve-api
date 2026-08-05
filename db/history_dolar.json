@@ -32984,6 +32984,43 @@
       "date": "2026-08-04T02:21:03.002Z",
       "source": "bcv.org.ve",
       "logo_img": "https://www.bcv.org.ve/sites/default/files/bcv5_0.ico"
+    },
+    {
+      "exchange_rate": [
+        {
+          "bank": "Banesco",
+          "urlname": "banesco",
+          "buying": 803.6327,
+          "selling": 752.1069
+        },
+        {
+          "bank": "R4",
+          "urlname": "r4",
+          "buying": 828.5155,
+          "selling": 799.9672
+        },
+        {
+          "bank": "Banco Plaza",
+          "urlname": "banco_plaza",
+          "buying": 769.4752,
+          "selling": 769.5652
+        },
+        {
+          "bank": "Banco Venezolano de Crédito",
+          "urlname": "banco_venezolano_de_crédito",
+          "buying": 753.0025,
+          "selling": 807.9729
+        },
+        {
+          "bank": "BCV",
+          "selling": 755.1552,
+          "buying": 755.1552,
+          "urlname": "bcv"
+        }
+      ],
+      "date": "2026-08-05T02:20:57.607Z",
+      "source": "bcv.org.ve",
+      "logo_img": "https://www.bcv.org.ve/sites/default/files/bcv5_0.ico"
     }
   ]
 }
