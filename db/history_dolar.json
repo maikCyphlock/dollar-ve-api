@@ -33317,6 +33317,43 @@
       "date": "2026-08-13T01:47:27.639Z",
       "source": "bcv.org.ve",
       "logo_img": "https://www.bcv.org.ve/sites/default/files/bcv5_0.ico"
+    },
+    {
+      "exchange_rate": [
+        {
+          "bank": "Banco Mercantil",
+          "urlname": "banco_mercantil",
+          "buying": 766.8602,
+          "selling": 774.9923
+        },
+        {
+          "bank": "BBVA Provincial",
+          "urlname": "bbva_provincial",
+          "buying": 766.37,
+          "selling": 804.4514
+        },
+        {
+          "bank": "Banesco",
+          "urlname": "banesco",
+          "buying": 794.6679,
+          "selling": 836.319
+        },
+        {
+          "bank": "Banco Venezolano de Crédito",
+          "urlname": "banco_venezolano_de_crédito",
+          "buying": 767.3701,
+          "selling": 782.0787
+        },
+        {
+          "bank": "BCV",
+          "selling": 771.0714,
+          "buying": 771.0714,
+          "urlname": "bcv"
+        }
+      ],
+      "date": "2026-08-14T01:45:17.196Z",
+      "source": "bcv.org.ve",
+      "logo_img": "https://www.bcv.org.ve/sites/default/files/bcv5_0.ico"
     }
   ]
 }
