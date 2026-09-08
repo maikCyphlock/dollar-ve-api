@@ -34242,6 +34242,43 @@
       "date": "2026-09-07T02:55:00.610Z",
       "source": "bcv.org.ve",
       "logo_img": "https://www.bcv.org.ve/sites/default/files/bcv5_0.ico"
+    },
+    {
+      "exchange_rate": [
+        {
+          "bank": "N58 Banco Digital",
+          "urlname": "n58_banco_digital",
+          "buying": 809.4635,
+          "selling": 809.5862
+        },
+        {
+          "bank": "Banco Nacional de Crédito BNC",
+          "urlname": "banco_nacional_de_crédito_bnc",
+          "buying": 887.823,
+          "selling": 861.8521
+        },
+        {
+          "bank": "Banesco",
+          "urlname": "banesco",
+          "buying": 838.8758,
+          "selling": 817.2197
+        },
+        {
+          "bank": "Banco Sofitasa",
+          "urlname": "banco_sofitasa",
+          "buying": 808,
+          "selling": 810.0494
+        },
+        {
+          "bank": "BCV",
+          "selling": 814.6908,
+          "buying": 814.6908,
+          "urlname": "bcv"
+        }
+      ],
+      "date": "2026-09-08T03:04:36.077Z",
+      "source": "bcv.org.ve",
+      "logo_img": "https://www.bcv.org.ve/sites/default/files/bcv5_0.ico"
     }
   ]
 }
