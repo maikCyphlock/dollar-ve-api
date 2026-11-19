@@ -1,37 +1,37 @@
 {
   "exchange_rate": [
     {
-      "bank": "Banco Mercantil",
-      "urlname": "banco_mercantil",
-      "buying": 987.0668,
-      "selling": 914.1432
-    },
-    {
       "bank": "Banesco",
       "urlname": "banesco",
-      "buying": 1028.6596,
-      "selling": 1073.5259
+      "buying": 922.3577,
+      "selling": 916.6943
     },
     {
-      "bank": "Banco Exterior",
-      "urlname": "banco_exterior",
-      "buying": 1031.4951,
-      "selling": 1049.1943
+      "bank": "Banco Mercantil",
+      "urlname": "banco_mercantil",
+      "buying": 918.4928,
+      "selling": 915.8561
     },
     {
-      "bank": "BanCaribe",
-      "urlname": "bancaribe",
-      "buying": 1048.8914,
-      "selling": 1059.8858
+      "bank": "Banco Nacional de Crédito BNC",
+      "urlname": "banco_nacional_de_crédito_bnc",
+      "buying": 941.4652,
+      "selling": 996.7512
+    },
+    {
+      "bank": "N58 Banco Digital",
+      "urlname": "n58_banco_digital",
+      "buying": 919.9988,
+      "selling": 920.1368
     },
     {
       "bank": "BCV",
-      "selling": 916.6477,
-      "buying": 916.6477,
+      "selling": 917.7751,
+      "buying": 917.7751,
       "urlname": "bcv"
     }
   ],
-  "date": "2026-11-18T05:54:54.394Z",
+  "date": "2026-11-19T05:55:16.455Z",
   "source": "bcv.org.ve",
   "logo_img": "https://www.bcv.org.ve/sites/default/files/bcv5_0.ico"
 }
